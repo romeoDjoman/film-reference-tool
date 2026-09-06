@@ -1,0 +1,6369 @@
+[
+    {
+        "asset_id": "ASSET_001",
+        "name": "wooden table geometry with realistic wear texture",
+        "slug": "wooden_table_geometry_with_realistic_wear_texture",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "search": {
+            "query": "wooden table geometry with realistic wear texture material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_002",
+        "name": "leather armor materials with metallic studs and straps",
+        "slug": "leather_armor_materials_with_metallic_studs_and_straps",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "search": {
+            "query": "leather armor materials with metallic studs and straps character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_003",
+        "name": "ceramic textures with handcrafted imperfections",
+        "slug": "ceramic_textures_with_handcrafted_imperfections",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "search": {
+            "query": "ceramic textures with handcrafted imperfections material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_004",
+        "name": "parchment scrolls with rolled ends",
+        "slug": "parchment_scrolls_with_rolled_ends",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "search": {
+            "query": "parchment scrolls with rolled ends architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_005",
+        "name": "metal helmet with reflective surface",
+        "slug": "metal_helmet_with_reflective_surface",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "search": {
+            "query": "metal helmet with reflective surface character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_006",
+        "name": "stone wall environment with weathered texture",
+        "slug": "stone_wall_environment_with_weathered_texture",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "search": {
+            "query": "stone wall environment with weathered texture architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_007",
+        "name": "blood-stained floor plane",
+        "slug": "blood_stained_floor_plane",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "search": {
+            "query": "blood-stained floor plane environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_008",
+        "name": "stone millstone mechanism",
+        "slug": "stone_millstone_mechanism",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            2
+        ],
+        "search": {
+            "query": "stone millstone mechanism material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_009",
+        "name": "Roman-style armor pieces",
+        "slug": "roman_style_armor_pieces",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            2
+        ],
+        "search": {
+            "query": "Roman-style armor pieces character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_010",
+        "name": "whip prop",
+        "slug": "whip_prop",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            2
+        ],
+        "search": {
+            "query": "whip prop prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_011",
+        "name": "wooden tables",
+        "slug": "wooden_tables",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            2,
+            3,
+            9
+        ],
+        "search": {
+            "query": "wooden tables material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_012",
+        "name": "stone floor textures",
+        "slug": "stone_floor_textures",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            2
+        ],
+        "search": {
+            "query": "stone floor textures environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_013",
+        "name": "stone floor tiles",
+        "slug": "stone_floor_tiles",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            3,
+            9,
+            10
+        ],
+        "search": {
+            "query": "stone floor tiles environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_014",
+        "name": "Roman armor models",
+        "slug": "roman_armor_models",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            3
+        ],
+        "search": {
+            "query": "Roman armor models character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_015",
+        "name": "torture device (stone block)",
+        "slug": "torture_device_stone_block",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            3
+        ],
+        "search": {
+            "query": "torture device (stone block) material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_016",
+        "name": "helmet props",
+        "slug": "helmet_props",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            3
+        ],
+        "search": {
+            "query": "helmet props character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_017",
+        "name": "torch fixtures on wall",
+        "slug": "torch_fixtures_on_wall",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            3
+        ],
+        "search": {
+            "query": "torch fixtures on wall architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_018",
+        "name": "characters in Roman-style armor",
+        "slug": "characters_in_roman_style_armor",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            4
+        ],
+        "search": {
+            "query": "characters in Roman-style armor character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_019",
+        "name": "stone wall environment",
+        "slug": "stone_wall_environment",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            4,
+            6,
+            7
+        ],
+        "search": {
+            "query": "stone wall environment architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_020",
+        "name": "wooden table with period-appropriate objects",
+        "slug": "wooden_table_with_period_appropriate_objects",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            4
+        ],
+        "search": {
+            "query": "wooden table with period-appropriate objects material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_021",
+        "name": "stone wall texture",
+        "slug": "stone_wall_texture",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            5,
+            13,
+            14,
+            19,
+            24
+        ],
+        "search": {
+            "query": "stone wall texture architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_022",
+        "name": "Roman helmet models",
+        "slug": "roman_helmet_models",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            5
+        ],
+        "search": {
+            "query": "Roman helmet models character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_023",
+        "name": "leather armor with metal hardware",
+        "slug": "leather_armor_with_metal_hardware",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            5
+        ],
+        "search": {
+            "query": "leather armor with metal hardware character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_024",
+        "name": "torch model with flame simulation",
+        "slug": "torch_model_with_flame_simulation",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            5
+        ],
+        "search": {
+            "query": "torch model with flame simulation prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_025",
+        "name": "character model (bald man in armor)",
+        "slug": "character_model_bald_man_in_armor",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            6
+        ],
+        "search": {
+            "query": "character model (bald man in armor) character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_026",
+        "name": "leather armor plates",
+        "slug": "leather_armor_plates",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            6
+        ],
+        "search": {
+            "query": "leather armor plates character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_027",
+        "name": "torch",
+        "slug": "torch",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            6
+        ],
+        "search": {
+            "query": "torch prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_028",
+        "name": "gladiator character model",
+        "slug": "gladiator_character_model",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            7
+        ],
+        "search": {
+            "query": "gladiator character model character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_029",
+        "name": "commander character model",
+        "slug": "commander_character_model",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            7
+        ],
+        "search": {
+            "query": "commander character model character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_030",
+        "name": "Roman soldier models",
+        "slug": "roman_soldier_models",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            7,
+            13
+        ],
+        "search": {
+            "query": "Roman soldier models character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_031",
+        "name": "torch prop",
+        "slug": "torch_prop",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            7
+        ],
+        "search": {
+            "query": "torch prop prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_032",
+        "name": "Roman-style helmets",
+        "slug": "roman_style_helmets",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            8
+        ],
+        "search": {
+            "query": "Roman-style helmets character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_033",
+        "name": "leather armor pieces",
+        "slug": "leather_armor_pieces",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            8
+        ],
+        "search": {
+            "query": "leather armor pieces character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_034",
+        "name": "stone textures (walls, floor, pillar)",
+        "slug": "stone_textures_walls_floor_pillar",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            8
+        ],
+        "search": {
+            "query": "stone textures (walls, floor, pillar) architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_035",
+        "name": "foldable table model",
+        "slug": "foldable_table_model",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            8
+        ],
+        "search": {
+            "query": "foldable table model prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_036",
+        "name": "bound character rigging",
+        "slug": "bound_character_rigging",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            8
+        ],
+        "search": {
+            "query": "bound character rigging character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_037",
+        "name": "stone pillar with metal fixtures",
+        "slug": "stone_pillar_with_metal_fixtures",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            9
+        ],
+        "search": {
+            "query": "stone pillar with metal fixtures architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_038",
+        "name": "Roman-style armor sets",
+        "slug": "roman_style_armor_sets",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            9
+        ],
+        "search": {
+            "query": "Roman-style armor sets character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_039",
+        "name": "whips",
+        "slug": "whips",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            9
+        ],
+        "search": {
+            "query": "whips prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_040",
+        "name": "stone pillar with metal collar",
+        "slug": "stone_pillar_with_metal_collar",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            10
+        ],
+        "search": {
+            "query": "stone pillar with metal collar architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_041",
+        "name": "chains and shackles",
+        "slug": "chains_and_shackles",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            10
+        ],
+        "search": {
+            "query": "chains and shackles prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_042",
+        "name": "guard uniforms (brown tunics, dark trousers)",
+        "slug": "guard_uniforms_brown_tunics_dark_trousers",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            10
+        ],
+        "search": {
+            "query": "guard uniforms (brown tunics, dark trousers) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_043",
+        "name": "blood effects",
+        "slug": "blood_effects",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            10,
+            17
+        ],
+        "search": {
+            "query": "blood effects material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_044",
+        "name": "stone block/column with weathered texture",
+        "slug": "stone_block_column_with_weathered_texture",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            11
+        ],
+        "search": {
+            "query": "stone block/column with weathered texture architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_045",
+        "name": "character models (guards and victim) with detailed armor and clothing",
+        "slug": "character_models_guards_and_victim_with_detailed_armor_and_clothing",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            11
+        ],
+        "search": {
+            "query": "character models (guards and victim) with detailed armor and clothing character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_046",
+        "name": "blood simulation system for realistic splatter",
+        "slug": "blood_simulation_system_for_realistic_splatter",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            11
+        ],
+        "search": {
+            "query": "blood simulation system for realistic splatter material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_047",
+        "name": "stone floor tiles with grout lines",
+        "slug": "stone_floor_tiles_with_grout_lines",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            11
+        ],
+        "search": {
+            "query": "stone floor tiles with grout lines environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_048",
+        "name": "victim model with detailed blood simulation",
+        "slug": "victim_model_with_detailed_blood_simulation",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            12
+        ],
+        "search": {
+            "query": "victim model with detailed blood simulation character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_049",
+        "name": "execution post with metal fixtures",
+        "slug": "execution_post_with_metal_fixtures",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            12
+        ],
+        "search": {
+            "query": "execution post with metal fixtures material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_050",
+        "name": "Roman guard uniforms and armor",
+        "slug": "roman_guard_uniforms_and_armor",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            12
+        ],
+        "search": {
+            "query": "Roman guard uniforms and armor character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_051",
+        "name": "stone floor and wall textures",
+        "slug": "stone_floor_and_wall_textures",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            12,
+            36
+        ],
+        "search": {
+            "query": "stone floor and wall textures architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_052",
+        "name": "Leather armor with metal studs",
+        "slug": "leather_armor_with_metal_studs",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            13,
+            25,
+            26
+        ],
+        "search": {
+            "query": "Leather armor with metal studs character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_053",
+        "name": "Metal helmets",
+        "slug": "metal_helmets",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            13
+        ],
+        "search": {
+            "query": "Metal helmets character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_054",
+        "name": "Torches",
+        "slug": "torches",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            13
+        ],
+        "search": {
+            "query": "Torches prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_055",
+        "name": "Roman soldier armor models",
+        "slug": "roman_soldier_armor_models",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            14
+        ],
+        "search": {
+            "query": "Roman soldier armor models character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_056",
+        "name": "Paved floor geometry",
+        "slug": "paved_floor_geometry",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            14
+        ],
+        "search": {
+            "query": "Paved floor geometry environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_057",
+        "name": "Torche model with flame simulation",
+        "slug": "torche_model_with_flame_simulation",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            14
+        ],
+        "search": {
+            "query": "Torche model with flame simulation prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_058",
+        "name": "Blood particle system for fallen man",
+        "slug": "blood_particle_system_for_fallen_man",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            14
+        ],
+        "search": {
+            "query": "Blood particle system for fallen man character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_059",
+        "name": "Motion blur effect for foreground figure",
+        "slug": "motion_blur_effect_for_foreground_figure",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            14
+        ],
+        "search": {
+            "query": "Motion blur effect for foreground figure environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_060",
+        "name": "character model (male, bearded)",
+        "slug": "character_model_male_bearded",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            15
+        ],
+        "search": {
+            "query": "character model (male, bearded) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_061",
+        "name": "wooden post with metal bands",
+        "slug": "wooden_post_with_metal_bands",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            15
+        ],
+        "search": {
+            "query": "wooden post with metal bands material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_062",
+        "name": "blood simulation system",
+        "slug": "blood_simulation_system",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            15
+        ],
+        "search": {
+            "query": "blood simulation system material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_063",
+        "name": "stone floor texture",
+        "slug": "stone_floor_texture",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            15
+        ],
+        "search": {
+            "query": "stone floor texture environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_064",
+        "name": "human face geometry with wound details",
+        "slug": "human_face_geometry_with_wound_details",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            16
+        ],
+        "search": {
+            "query": "human face geometry with wound details character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_065",
+        "name": "leather armor rigging",
+        "slug": "leather_armor_rigging",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            16
+        ],
+        "search": {
+            "query": "leather armor rigging character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_066",
+        "name": "stone wall environment assets",
+        "slug": "stone_wall_environment_assets",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            16
+        ],
+        "search": {
+            "query": "stone wall environment assets architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_067",
+        "name": "stone walls",
+        "slug": "stone_walls",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            17
+        ],
+        "search": {
+            "query": "stone walls architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_068",
+        "name": "armor",
+        "slug": "armor",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            17
+        ],
+        "search": {
+            "query": "armor character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_069",
+        "name": "weapons",
+        "slug": "weapons",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            17
+        ],
+        "search": {
+            "query": "weapons character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_070",
+        "name": "human skin texture with wounds and blood",
+        "slug": "human_skin_texture_with_wounds_and_blood",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            18
+        ],
+        "search": {
+            "query": "human skin texture with wounds and blood character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_071",
+        "name": "Roman helmet and armor set",
+        "slug": "roman_helmet_and_armor_set",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            18
+        ],
+        "search": {
+            "query": "Roman helmet and armor set character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_072",
+        "name": "stone wall texture with blood stains",
+        "slug": "stone_wall_texture_with_blood_stains",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            18
+        ],
+        "search": {
+            "query": "stone wall texture with blood stains architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_073",
+        "name": "Roman soldier armor (breastplate, shoulder plates, helmet)",
+        "slug": "roman_soldier_armor_breastplate_shoulder_plates_helmet",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            19
+        ],
+        "search": {
+            "query": "Roman soldier armor (breastplate, shoulder plates, helmet) character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_074",
+        "name": "Fabric materials (cape, cloak, scarf)",
+        "slug": "fabric_materials_cape_cloak_scarf",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            19
+        ],
+        "search": {
+            "query": "Fabric materials (cape, cloak, scarf) material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_075",
+        "name": "Blood particle system or texture map",
+        "slug": "blood_particle_system_or_texture_map",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            19
+        ],
+        "search": {
+            "query": "Blood particle system or texture map material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_076",
+        "name": "Infant model (simplified)",
+        "slug": "infant_model_simplified",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            19
+        ],
+        "search": {
+            "query": "Infant model (simplified) other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_077",
+        "name": "human anatomy (male)",
+        "slug": "human_anatomy_male",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            20
+        ],
+        "search": {
+            "query": "human anatomy (male) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_078",
+        "name": "sword prop",
+        "slug": "sword_prop",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            20
+        ],
+        "search": {
+            "query": "sword prop character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_079",
+        "name": "rock texture",
+        "slug": "rock_texture",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            20
+        ],
+        "search": {
+            "query": "rock texture material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_080",
+        "name": "blood material",
+        "slug": "blood_material",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            20
+        ],
+        "search": {
+            "query": "blood material material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_081",
+        "name": "humanoid characters (bald muscular male, bearded male)",
+        "slug": "humanoid_characters_bald_muscular_male_bearded_male",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            21
+        ],
+        "search": {
+            "query": "humanoid characters (bald muscular male, bearded male) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_082",
+        "name": "armor plates",
+        "slug": "armor_plates",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            21
+        ],
+        "search": {
+            "query": "armor plates character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_083",
+        "name": "weapon model",
+        "slug": "weapon_model",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            21
+        ],
+        "search": {
+            "query": "weapon model character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_084",
+        "name": "blood simulation assets",
+        "slug": "blood_simulation_assets",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            21,
+            22
+        ],
+        "search": {
+            "query": "blood simulation assets material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_085",
+        "name": "stone architecture background",
+        "slug": "stone_architecture_background",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            21
+        ],
+        "search": {
+            "query": "stone architecture background architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_086",
+        "name": "human anatomy (face, torso)",
+        "slug": "human_anatomy_face_torso",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            22
+        ],
+        "search": {
+            "query": "human anatomy (face, torso) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_087",
+        "name": "stone texture maps",
+        "slug": "stone_texture_maps",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            22
+        ],
+        "search": {
+            "query": "stone texture maps material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_088",
+        "name": "leather armor textures",
+        "slug": "leather_armor_textures",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            22
+        ],
+        "search": {
+            "query": "leather armor textures character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_089",
+        "name": "character models (nurse, soldier, infant)",
+        "slug": "character_models_nurse_soldier_infant",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            23
+        ],
+        "search": {
+            "query": "character models (nurse, soldier, infant) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_090",
+        "name": "clothing assets (fur cloak, leather armor, scarf)",
+        "slug": "clothing_assets_fur_cloak_leather_armor_scarf",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            23
+        ],
+        "search": {
+            "query": "clothing assets (fur cloak, leather armor, scarf) character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_091",
+        "name": "environment asset (stone wall)",
+        "slug": "environment_asset_stone_wall",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            23
+        ],
+        "search": {
+            "query": "environment asset (stone wall) architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_092",
+        "name": "lighting setup (natural daylight simulation)",
+        "slug": "lighting_setup_natural_daylight_simulation",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            23
+        ],
+        "search": {
+            "query": "lighting setup (natural daylight simulation) other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_093",
+        "name": "character models (adult female, child, male partial)",
+        "slug": "character_models_adult_female_child_male_partial",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            24
+        ],
+        "search": {
+            "query": "character models (adult female, child, male partial) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_094",
+        "name": "fabric materials (black hood, tunic)",
+        "slug": "fabric_materials_black_hood_tunic",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            24
+        ],
+        "search": {
+            "query": "fabric materials (black hood, tunic) material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_095",
+        "name": "human anatomy (skin, muscle)",
+        "slug": "human_anatomy_skin_muscle",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            25
+        ],
+        "search": {
+            "query": "human anatomy (skin, muscle) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_096",
+        "name": "blood simulation",
+        "slug": "blood_simulation",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            25
+        ],
+        "search": {
+            "query": "blood simulation material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_097",
+        "name": "stone textures",
+        "slug": "stone_textures",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            25
+        ],
+        "search": {
+            "query": "stone textures material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_098",
+        "name": "metallic gauntlet/weapon",
+        "slug": "metallic_gauntlet_weapon",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            25
+        ],
+        "search": {
+            "query": "metallic gauntlet/weapon character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_099",
+        "name": "character models (bald muscular male)",
+        "slug": "character_models_bald_muscular_male",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            26
+        ],
+        "search": {
+            "query": "character models (bald muscular male) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_100",
+        "name": "stone wall textures",
+        "slug": "stone_wall_textures",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            26
+        ],
+        "search": {
+            "query": "stone wall textures architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_101",
+        "name": "arched architectural elements",
+        "slug": "arched_architectural_elements",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            26
+        ],
+        "search": {
+            "query": "arched architectural elements architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_102",
+        "name": "human face with wounds",
+        "slug": "human_face_with_wounds",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            27
+        ],
+        "search": {
+            "query": "human face with wounds character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_103",
+        "name": "beard and hair",
+        "slug": "beard_and_hair",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            27
+        ],
+        "search": {
+            "query": "beard and hair other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_104",
+        "name": "leg with armor and boots",
+        "slug": "leg_with_armor_and_boots",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            27
+        ],
+        "search": {
+            "query": "leg with armor and boots character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_105",
+        "name": "blood splatter and pooling",
+        "slug": "blood_splatter_and_pooling",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            27
+        ],
+        "search": {
+            "query": "blood splatter and pooling material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_106",
+        "name": "ancient sandals model",
+        "slug": "ancient_sandals_model",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            28
+        ],
+        "search": {
+            "query": "ancient sandals model other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_107",
+        "name": "human leg anatomy (muscle, skin)",
+        "slug": "human_leg_anatomy_muscle_skin",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            28
+        ],
+        "search": {
+            "query": "human leg anatomy (muscle, skin) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_108",
+        "name": "blood particle system",
+        "slug": "blood_particle_system",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            28
+        ],
+        "search": {
+            "query": "blood particle system material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_109",
+        "name": "bearded male face model",
+        "slug": "bearded_male_face_model",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            28
+        ],
+        "search": {
+            "query": "bearded male face model other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_110",
+        "name": "background crowd placeholder",
+        "slug": "background_crowd_placeholder",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            28
+        ],
+        "search": {
+            "query": "background crowd placeholder environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_111",
+        "name": "human face geometry (injured)",
+        "slug": "human_face_geometry_injured",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            29
+        ],
+        "search": {
+            "query": "human face geometry (injured) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_112",
+        "name": "foot anatomy",
+        "slug": "foot_anatomy",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            29
+        ],
+        "search": {
+            "query": "foot anatomy other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_113",
+        "name": "sandals model",
+        "slug": "sandals_model",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            29,
+            30
+        ],
+        "search": {
+            "query": "sandals model other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_114",
+        "name": "textured fabric plane",
+        "slug": "textured_fabric_plane",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            29
+        ],
+        "search": {
+            "query": "textured fabric plane material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_115",
+        "name": "human feet and legs geometry",
+        "slug": "human_feet_and_legs_geometry",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            30
+        ],
+        "search": {
+            "query": "human feet and legs geometry character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_116",
+        "name": "woven mat texture",
+        "slug": "woven_mat_texture",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            30
+        ],
+        "search": {
+            "query": "woven mat texture material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_117",
+        "name": "simple robe clothing system",
+        "slug": "simple_robe_clothing_system",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            30
+        ],
+        "search": {
+            "query": "simple robe clothing system other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_118",
+        "name": "bowl and pottery assets",
+        "slug": "bowl_and_pottery_assets",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            30
+        ],
+        "search": {
+            "query": "bowl and pottery assets prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_119",
+        "name": "character models for three figures with period-appropriate clothing",
+        "slug": "character_models_for_three_figures_with_period_appropriate_clothing",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            31
+        ],
+        "search": {
+            "query": "character models for three figures with period-appropriate clothing character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_120",
+        "name": "foot washing basin prop",
+        "slug": "foot_washing_basin_prop",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            31
+        ],
+        "search": {
+            "query": "foot washing basin prop other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_121",
+        "name": "ancient room environment with stone walls and earthen floor",
+        "slug": "ancient_room_environment_with_stone_walls_and_earthen_floor",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            31
+        ],
+        "search": {
+            "query": "ancient room environment with stone walls and earthen floor architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_122",
+        "name": "woven matting texture for floor",
+        "slug": "woven_matting_texture_for_floor",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            31
+        ],
+        "search": {
+            "query": "woven matting texture for floor environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_123",
+        "name": "human feet anatomy",
+        "slug": "human_feet_anatomy",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "search": {
+            "query": "human feet anatomy character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_124",
+        "name": "hands with detailed fingers",
+        "slug": "hands_with_detailed_fingers",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "search": {
+            "query": "hands with detailed fingers other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_125",
+        "name": "ceramic bowl geometry",
+        "slug": "ceramic_bowl_geometry",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "search": {
+            "query": "ceramic bowl geometry material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_126",
+        "name": "basin with water simulation",
+        "slug": "basin_with_water_simulation",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "search": {
+            "query": "basin with water simulation other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_127",
+        "name": "ancient robe textures",
+        "slug": "ancient_robe_textures",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "search": {
+            "query": "ancient robe textures material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_128",
+        "name": "oil lamp model",
+        "slug": "oil_lamp_model",
+        "category": "PROP",
+        "production_method": "EXISTING_OR_PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "search": {
+            "query": "oil lamp model prop 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_129",
+        "name": "stone/plaster wall textures",
+        "slug": "stone_plaster_wall_textures",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "search": {
+            "query": "stone/plaster wall textures architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_130",
+        "name": "character models (two males)",
+        "slug": "character_models_two_males",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            33,
+            34
+        ],
+        "search": {
+            "query": "character models (two males) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_131",
+        "name": "ancient interior room",
+        "slug": "ancient_interior_room",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            33
+        ],
+        "search": {
+            "query": "ancient interior room environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_132",
+        "name": "ceramic jar",
+        "slug": "ceramic_jar",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            33
+        ],
+        "search": {
+            "query": "ceramic jar material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_133",
+        "name": "wall-mounted lamp",
+        "slug": "wall_mounted_lamp",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            33
+        ],
+        "search": {
+            "query": "wall-mounted lamp architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_134",
+        "name": "ceramic vessel prop",
+        "slug": "ceramic_vessel_prop",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            34
+        ],
+        "search": {
+            "query": "ceramic vessel prop material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_135",
+        "name": "textured robe materials",
+        "slug": "textured_robe_materials",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            34
+        ],
+        "search": {
+            "query": "textured robe materials material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_136",
+        "name": "character model (long hair, beard, facial features)",
+        "slug": "character_model_long_hair_beard_facial_features",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            35
+        ],
+        "search": {
+            "query": "character model (long hair, beard, facial features) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_137",
+        "name": "footwear model (strapped sandals)",
+        "slug": "footwear_model_strapped_sandals",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            35
+        ],
+        "search": {
+            "query": "footwear model (strapped sandals) other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_138",
+        "name": "textured wall geometry",
+        "slug": "textured_wall_geometry",
+        "category": "ARCHITECTURE",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            35
+        ],
+        "search": {
+            "query": "textured wall geometry architecture 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_139",
+        "name": "environment with opening to exterior",
+        "slug": "environment_with_opening_to_exterior",
+        "category": "ENVIRONMENT",
+        "production_method": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            35
+        ],
+        "search": {
+            "query": "environment with opening to exterior environment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_140",
+        "name": "Roman soldier armor set (breastplate, greaves, sandals)",
+        "slug": "roman_soldier_armor_set_breastplate_greaves_sandals",
+        "category": "CHARACTER_EQUIPMENT",
+        "production_method": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            36
+        ],
+        "search": {
+            "query": "Roman soldier armor set (breastplate, greaves, sandals) character equipment 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_141",
+        "name": "blood splatter and pool geometry",
+        "slug": "blood_splatter_and_pool_geometry",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            36
+        ],
+        "search": {
+            "query": "blood splatter and pool geometry material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_142",
+        "name": "gladiator face model with injuries",
+        "slug": "gladiator_face_model_with_injuries",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            36
+        ],
+        "search": {
+            "query": "gladiator face model with injuries other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_143",
+        "name": "human face geometry (high poly for skin texture)",
+        "slug": "human_face_geometry_high_poly_for_skin_texture",
+        "category": "CHARACTER",
+        "production_method": "EXISTING_OR_GENERATED",
+        "priority": "HIGH",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            37
+        ],
+        "search": {
+            "query": "human face geometry (high poly for skin texture) character 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": true,
+            "needs_rigging": true,
+            "needs_animation": true
+        }
+    },
+    {
+        "asset_id": "ASSET_144",
+        "name": "beard/hair system with wetness simulation",
+        "slug": "beard_hair_system_with_wetness_simulation",
+        "category": "OTHER",
+        "production_method": "SEARCH",
+        "priority": "LOW",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            37
+        ],
+        "search": {
+            "query": "beard/hair system with wetness simulation other 3D model Blender",
+            "formats": [
+                "BLEND",
+                "FBX",
+                "OBJ",
+                "GLB",
+                "GLTF"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": false,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    },
+    {
+        "asset_id": "ASSET_145",
+        "name": "blood particle system or shader-based blood layer",
+        "slug": "blood_particle_system_or_shader_based_blood_layer",
+        "category": "MATERIAL",
+        "production_method": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "MISSING",
+        "blender_ready": false,
+        "usage_scenes": [
+            37
+        ],
+        "search": {
+            "query": "blood particle system or shader-based blood layer material 3D model Blender",
+            "formats": [
+                "BLEND",
+                "PNG",
+                "JPG",
+                "EXR"
+            ]
+        },
+        "source": {
+            "provider": null,
+            "url": null,
+            "license": null
+        },
+        "files": {
+            "local_file": null,
+            "blend_file": null,
+            "texture_files": []
+        },
+        "blender": {
+            "collection": null,
+            "object": null,
+            "material": null
+        },
+        "production": {
+            "needs_modeling": true,
+            "needs_texturing": false,
+            "needs_rigging": false,
+            "needs_animation": false
+        }
+    }
+]

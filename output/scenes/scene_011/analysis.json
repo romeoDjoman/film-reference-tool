@@ -1,0 +1,139 @@
+{
+    "scene": 11,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, dark hair, beard, covered in blood",
+            "clothing": "loose brown tunic/skirt",
+            "position": "center of the circle, on the ground",
+            "posture": "initially kneeling/crouching, then thrown backward",
+            "actions": "struggling against a stone block, being struck, falling back",
+            "interactions": "being restrained and assaulted by guards"
+        },
+        {
+            "role": "guard 1",
+            "appearance": "male, bald, muscular",
+            "clothing": "brown tunic, leather armor plates on chest and shoulders, knee-high boots",
+            "position": "left side of the victim",
+            "posture": "standing, leaning over",
+            "actions": "holding a weapon (spear/staff), watching closely",
+            "interactions": "participating in the restraint"
+        },
+        {
+            "role": "guard 2",
+            "appearance": "male, dark hair, muscular",
+            "clothing": "brown tunic, leather armor plates on chest and shoulders",
+            "position": "center-left, directly over the victim",
+            "posture": "bending forward, leaning heavily",
+            "actions": "striking the victim with a weapon, pushing against the stone block",
+            "interactions": "actively assaulting the victim"
+        },
+        {
+            "role": "guard 3",
+            "appearance": "male, bald, muscular",
+            "clothing": "brown tunic, leather armor plates on chest and shoulders",
+            "position": "right side of the circle",
+            "posture": "standing upright, arms at sides",
+            "actions": "watching the scene unfold",
+            "interactions": "observing"
+        },
+        {
+            "role": "background figures",
+            "appearance": "multiple males, similar attire",
+            "clothing": "brown tunics, leather armor, sandals",
+            "position": "periphery of the circle",
+            "posture": "standing",
+            "actions": "watching",
+            "interactions": "spectators"
+        }
+    ],
+    "environment": {
+        "location": "outdoor courtyard or plaza",
+        "interior_exterior": "exterior",
+        "architecture": "stone-paved ground, circular arrangement of stones",
+        "walls": "none visible in immediate foreground; stone walls or structures in background",
+        "floor": "large flat stone tiles arranged in a circle",
+        "ceiling": "not visible (open sky)",
+        "background": "gravel/dirt area beyond the stone circle, more figures standing",
+        "depth": "deep depth of field; foreground action is clear, background figures are slightly out of focus"
+    },
+    "objects": [
+        {
+            "name": "stone block/column",
+            "position": "center of the circle, in front of the victim",
+            "apparent_material": "weathered stone, darkened with blood/stains",
+            "importance_for_reconstruction": "central prop for the assault; must be sturdy and textured"
+        },
+        {
+            "name": "weapons (spear/staff)",
+            "position": "held by guards",
+            "apparent_material": "metallic tip, wooden shaft",
+            "importance_for_reconstruction": "used in the attack; need realistic proportions"
+        },
+        {
+            "name": "table with items",
+            "position": "bottom right corner",
+            "apparent_material": "wooden table surface",
+            "importance_for_reconstruction": "contains indistinct objects (possibly tools or weapons)"
+        },
+        {
+            "name": "garment pile",
+            "position": "on the ground near guard 3",
+            "apparent_material": "tattered cloth/fabric",
+            "importance_for_reconstruction": "adds to the chaotic atmosphere"
+        }
+    ],
+    "camera": {
+        "shot_type": "wide shot / medium-wide",
+        "angle": "high angle, looking down at the scene",
+        "height": "elevation above ground level, approximately 2-3 meters",
+        "composition": "circular framing with action in center; symmetrical balance of guards around victim",
+        "perspective": "slightly elevated perspective emphasizing the circular arrangement",
+        "movement": "static camera position across all frames (no movement detected)",
+        "estimated_focal_length": "35mm - 50mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "overhead, slightly from upper left",
+        "intensity": "moderate to bright; clear visibility",
+        "softness": "hard shadows indicating direct sunlight",
+        "color_temperature": "neutral to slightly cool (daylight)",
+        "shadows": "distinct shadows cast by characters and objects on the stone floor",
+        "mood": "tense, violent, grim"
+    },
+    "visual_style": {
+        "realism": "high realism; gritty, visceral depiction of violence",
+        "color_palette": "earthy tones (browns, grays) with strong red accents from blood",
+        "contrast": "moderate contrast; details visible but not overly saturated",
+        "atmosphere": "oppressive, brutal, historical drama aesthetic",
+        "cinematic_characteristics": "gritty texture, realistic blood effects, naturalistic lighting"
+    },
+    "3d_reconstruction": {
+        "important_assets": [
+            "stone block/column with weathered texture",
+            "character models (guards and victim) with detailed armor and clothing",
+            "blood simulation system for realistic splatter",
+            "stone floor tiles with grout lines"
+        ],
+        "materials": [
+            "leather armor (textured, worn)",
+            "stone (rough, stained)",
+            "fabric (tattered, blood-soaked)",
+            "skin (bloody, damaged)"
+        ],
+        "geometry": [
+            "circular stone platform",
+            "humanoid figures with realistic proportions",
+            "armor plates with overlapping geometry",
+            "weapons with functional shapes"
+        ],
+        "existing_assets": [
+            "historical armor sets (Roman/Greek style)",
+            "stone environment assets",
+            "blood particle systems",
+            "character rigging for combat animation"
+        ]
+    }
+}

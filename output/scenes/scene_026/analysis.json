@@ -1,0 +1,109 @@
+{
+    "scene": 26,
+    "characters": [
+        {
+            "role": "combatant",
+            "appearance": "bald, muscular, older male, facial blood and grime",
+            "clothing": "brown leather segmented armor with metal studs, cloth scarf/turban",
+            "position": "center-right foreground",
+            "posture": "leaning forward, aggressive stance",
+            "actions": "wielding a weapon (possibly a whip or spiked club), striking or lunging",
+            "interactions": "engaged in combat with another character"
+        },
+        {
+            "role": "combatant",
+            "appearance": "bald, muscular, facial blood and grime",
+            "clothing": "similar brown leather armor",
+            "position": "left side of frame (partially visible)",
+            "posture": "defensive or recoiling posture",
+            "actions": "being struck or reacting to attack",
+            "interactions": "opposing the first combatant"
+        },
+        {
+            "role": "victim",
+            "appearance": "bearded male, face covered in blood and wounds",
+            "clothing": "unclear (possibly disheveled)",
+            "position": "lying on ground (seen in final frame)",
+            "posture": "supine, motionless",
+            "actions": "unconscious or dying",
+            "interactions": "result of combat"
+        }
+    ],
+    "environment": {
+        "location": "ancient stone structure",
+        "interior_exterior": "interior courtyard or enclosed space",
+        "architecture": "stone walls with arched openings or windows",
+        "walls": "rough-hewn stone blocks, light beige/tan color",
+        "floor": "stone surface, partially visible",
+        "ceiling": "uncertain (not clearly visible)",
+        "background": "stone architecture, possibly a tower or fortress interior",
+        "depth": "moderate depth; characters occupy foreground to mid-ground"
+    },
+    "objects": [
+        {
+            "name": "leather armor",
+            "position": "worn by combatants",
+            "apparent_material": "stained leather with metal hardware",
+            "importance_for_reconstruction": "high (key visual element)"
+        },
+        {
+            "name": "weapon",
+            "position": "held by first combatant",
+            "apparent_material": "metallic or spiked material",
+            "importance_for_reconstruction": "medium (action prop)"
+        },
+        {
+            "name": "stone architecture",
+            "position": "background and surroundings",
+            "apparent_material": "rough stone blocks",
+            "importance_for_reconstruction": "high (environmental context)"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up to close-up",
+        "angle": "low angle looking up at combatants",
+        "height": "below eye level of characters",
+        "composition": "dynamic, focused on upper bodies and expressions",
+        "perspective": "converging lines from stone architecture enhance sense of enclosure",
+        "movement": "slight handheld shake or dynamic framing to match action",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural light filtering through openings"
+        ],
+        "direction": "from above and slightly behind characters",
+        "intensity": "moderate, with high contrast on faces",
+        "softness": "mixed; some soft areas on skin, harsher on armor details",
+        "color_temperature": "warm, sepia-toned (suggests dust, blood, or time period)",
+        "shadows": "deep shadows under armor plates and facial features",
+        "mood": "tense, gritty, violent"
+    },
+    "visual_style": "gritty realism with cinematic color grading; emphasis on texture (blood, stone, leather); dramatic lighting to enhance emotional impact of violence",
+    "3d_reconstruction": {
+        "important_assets": [
+            "character models (bald muscular male)",
+            "leather armor with metal studs",
+            "stone wall textures",
+            "arched architectural elements"
+        ],
+        "materials": [
+            "stained leather",
+            "metallic hardware",
+            "rough stone",
+            "blood texture (wet, splattered)",
+            "skin with grime and injury"
+        ],
+        "geometry": [
+            "segmented armor plates",
+            "stone blocks with mortar lines",
+            "arched openings",
+            "human anatomy (muscular build)"
+        ],
+        "existing_assets": [
+            "medieval/fantasy armor templates",
+            "ancient stone environment presets",
+            "character rig for combat animation"
+        ]
+    }
+}

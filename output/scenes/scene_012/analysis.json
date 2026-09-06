@@ -1,0 +1,98 @@
+{
+    "scene": 12,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, muscular, covered in blood and sweat",
+            "clothing": "minimalist loincloth",
+            "position": "center foreground on the ground",
+            "posture": "initially contorted in motion, then lying flat with one arm extended upward",
+            "actions": "being whipped or tortured; limbs are flailing and then still",
+            "interactions": "bound to a post by an iron chain"
+        },
+        {
+            "role": "guards/soldiers",
+            "appearance": "multiple figures, male, wearing Roman-style armor",
+            "clothing": "brown tunics, leather armor plates, studded belts, sandals",
+            "position": "standing in the background and periphery",
+            "posture": "mostly standing still, observing",
+            "actions": "watching the victim; one guard is partially visible on the left holding a whip-like object",
+            "interactions": "passive observers of the event"
+        }
+    ],
+    "environment": {
+        "location": "ancient Roman execution ground or courtyard",
+        "interior_exterior": "exterior",
+        "architecture": "stone walls in background, open-air setting",
+        "walls": "rough-hewn stone blocks forming a backdrop",
+        "floor": "paved with large stone slabs, stained with blood",
+        "ceiling": "uncertain (open sky implied)",
+        "background": "stone wall with spears and shields leaning against it",
+        "depth": "moderate depth; foreground dominated by victim, midground by post and guards, background by wall"
+    },
+    "objects": [
+        {
+            "name": "execution post",
+            "position": "center-left, directly behind the victim",
+            "apparent_material": "wooden or stone base with metal bands and iron chain attachment",
+            "importance_for_reconstruction": "critical focal point; source of victim's restraint"
+        },
+        {
+            "name": "whip/chain",
+            "position": "held by guard on left, also attached to post",
+            "apparent_material": "leather or metal chain with thongs",
+            "importance_for_reconstruction": "implies method of torture; may be reused asset"
+        },
+        {
+            "name": "spears and shields",
+            "position": "leaning against background wall",
+            "apparent_material": "metallic tips, painted wood or leather shields",
+            "importance_for_reconstruction": "adds historical context; potential reusable assets"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium-wide shot",
+        "angle": "eye-level to slightly low angle",
+        "height": "approximately waist-to-knee height relative to standing guards",
+        "composition": "centered on victim and post; guards frame the scene horizontally",
+        "perspective": "slight Dutch tilt in first frame suggesting motion or distress",
+        "movement": "static camera with possible subtle push-in or zoom during victim's fall",
+        "estimated_focal_length": "35mm–50mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight, possibly overcast"
+        ],
+        "direction": "diffuse overhead; no harsh shadows",
+        "intensity": "moderate to soft",
+        "softness": "high due to ambient light",
+        "color_temperature": "cool neutral with warm skin tones contrasted by red blood",
+        "shadows": "soft and indistinct",
+        "mood": "grim, visceral, tense"
+    },
+    "visual_style": "hyper-realistic historical drama; high detail in textures (blood, stone, leather); saturated reds against muted earth tones; cinematic color grading emphasizing brutality and realism",
+    "3d_reconstruction": {
+        "important_assets": [
+            "victim model with detailed blood simulation",
+            "execution post with metal fixtures",
+            "Roman guard uniforms and armor",
+            "stone floor and wall textures"
+        ],
+        "materials": [
+            "wet skin/blood shader",
+            "weathered stone",
+            "leather and metal for armor",
+            "paved stone ground with blood stains"
+        ],
+        "geometry": [
+            "low-poly human anatomy for victim",
+            "modular post design for reuse",
+            "repeating guard silhouettes if needed"
+        ],
+        "existing_assets": [
+            "Roman soldier armor packs (e.g., from The Witcher or similar games)",
+            "blood simulation tools (e.g., FX particles or fluid sims)",
+            "ancient courtyard environments from historical films/games"
+        ]
+    }
+}

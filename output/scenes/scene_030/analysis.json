@@ -1,0 +1,118 @@
+{
+    "scene": 30,
+    "characters": [
+        {
+            "role": "servant",
+            "appearance": "male, long dark hair, beard, wearing a textured robe",
+            "clothing": "dark, textured robe with long sleeves",
+            "position": "seated on the floor to the left",
+            "posture": "kneeling or sitting low, leaning forward",
+            "actions": "washing another character's feet",
+            "interactions": "interacting with the standing character by washing their feet"
+        },
+        {
+            "role": "recipient",
+            "appearance": "uncertain gender/age, barefoot",
+            "clothing": "dark robe or garment covering lower body",
+            "position": "standing in the center-right of the frame",
+            "posture": "standing still",
+            "actions": "having feet washed",
+            "interactions": "receiving service from the seated character"
+        },
+        {
+            "role": "observer",
+            "appearance": "male, long hair, beard",
+            "clothing": "light-colored robe",
+            "position": "seated in the background on the right",
+            "posture": "sitting cross-legged or relaxed",
+            "actions": "watching the scene unfold",
+            "interactions": "passive observer"
+        }
+    ],
+    "environment": {
+        "location": "ancient interior space, possibly a room in a house or cave dwelling",
+        "interior_exterior": "interior",
+        "architecture": "simple, rustic structure with rough walls",
+        "walls": "rough-textured, earthen or stone-like material",
+        "floor": "covered with woven mats or rugs",
+        "ceiling": "uncertain, likely low or not visible",
+        "background": "contains pottery vessels and simple furniture",
+        "depth": "moderate depth with foreground action and background observer"
+    },
+    "objects": [
+        {
+            "name": "sandals",
+            "position": "on the floor near the recipient's feet",
+            "apparent_material": "leather or similar material",
+            "importance_for_reconstruction": "high, indicates footwear and setting"
+        },
+        {
+            "name": "bowl",
+            "position": "near the servant's hands",
+            "apparent_material": "ceramic or clay",
+            "importance_for_reconstruction": "medium, used for washing feet"
+        },
+        {
+            "name": "woven mat/rug",
+            "position": "covering the floor throughout the scene",
+            "apparent_material": "textile with visible weave pattern",
+            "importance_for_reconstruction": "high, defines floor texture and surface"
+        },
+        {
+            "name": "pottery vessel",
+            "position": "in background near walls",
+            "apparent_material": "ceramic or clay",
+            "importance_for_reconstruction": "low-medium, adds period detail"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up to medium shot",
+        "angle": "slightly elevated, looking down at the action",
+        "height": "approximately waist-to-knee level relative to characters",
+        "composition": "focused on foot-washing action with background context",
+        "perspective": "slight Dutch angle or tilted perspective",
+        "movement": "static camera with possible very slow push-in or zoom",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    "lighting": {
+        "sources": [
+            "single warm light source from above and slightly behind",
+            "possibly candlelight or oil lamp"
+        ],
+        "direction": "from upper right, casting shadows to the left",
+        "intensity": "low to medium, creating dramatic contrast",
+        "softness": "moderately soft with some hard shadows",
+        "color_temperature": "warm, sepia-toned, reddish-orange",
+        "shadows": "pronounced but not overly harsh",
+        "mood": "intimate, solemn, reverent"
+    },
+    "visual_style": "realistic historical drama with warm, earthy tones and cinematic lighting reminiscent of biblical epics",
+    "3d_reconstruction": {
+        "important_assets": [
+            "human feet and legs geometry",
+            "sandals model",
+            "woven mat texture",
+            "simple robe clothing system",
+            "bowl and pottery assets"
+        ],
+        "materials": [
+            "textile (robes, mats)",
+            "leather/suede (sandals)",
+            "ceramic/clay (vessels)",
+            "skin texture",
+            "rough stone/earthen wall material"
+        ],
+        "geometry": [
+            "low-poly human anatomy for feet/legs",
+            "simple robe draping geometry",
+            "woven pattern floor texture",
+            "basic pottery shapes"
+        ],
+        "existing_assets": [
+            "standard human foot/leg models",
+            "sandals or footwear assets",
+            "textile/woven floor textures",
+            "basic interior room setup"
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "scene": 17,
+    "characters": [
+        {
+            "role": "gladiator",
+            "appearance": "bald, muscular, wearing a braided cloth around the neck",
+            "clothing": "brown tunic and dark leather armor with metal studs",
+            "position": "left side of frame initially, moves to center",
+            "posture": "dynamic, aggressive stances",
+            "actions": "wielding weapons, pointing, raising arms in celebration or aggression",
+            "interactions": "celebrating together, interacting with an unseen opponent"
+        },
+        {
+            "role": "gladiator",
+            "appearance": "bald, muscular, wearing a braided cloth around the neck",
+            "clothing": "brown tunic and dark leather armor with metal studs",
+            "position": "right side of frame",
+            "posture": "dynamic, aggressive stances",
+            "actions": "wielding weapons, raising arms in celebration or aggression",
+            "interactions": "celebrating together"
+        },
+        {
+            "role": "gladiator/opponent",
+            "appearance": "bearded, long dark hair, covered in blood",
+            "clothing": "shirtless",
+            "position": "lying on the ground",
+            "posture": "supine, arms outstretched",
+            "actions": "appearing defeated or dying",
+            "interactions": "victim of the gladiators' actions"
+        }
+    ],
+    "environment": {
+        "location": "ancient coliseum or arena",
+        "interior_exterior": "exterior",
+        "architecture": "stone walls with arched structures",
+        "walls": "tall stone walls, weathered texture",
+        "floor": "stone ground, blood-stained",
+        "ceiling": "uncertain",
+        "background": "ancient stone architecture",
+        "depth": "moderate depth, foreground characters with background walls"
+    },
+    "objects": [
+        {
+            "name": "weapons",
+            "position": "held by gladiators",
+            "apparent_material": "metal and leather",
+            "importance_for_reconstruction": "high, key props for action sequence"
+        },
+        {
+            "name": "blood",
+            "position": "on characters and ground",
+            "apparent_material": "liquid, viscous",
+            "importance_for_reconstruction": "medium, adds realism and context"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium shot",
+        "angle": "slightly low angle",
+        "height": "eye level to slightly below",
+        "composition": "two gladiators in foreground, opponent in background",
+        "perspective": "converging lines from stone walls",
+        "movement": "uncertain, possibly static or slight pan",
+        "estimated_focal_length": "50mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural light"
+        ],
+        "direction": "overhead, diffused",
+        "intensity": "moderate",
+        "softness": "soft shadows",
+        "color_temperature": "neutral to slightly warm",
+        "shadows": "soft, under armor and characters",
+        "mood": "tense, dramatic"
+    },
+    "visual_style": "realistic, cinematic, high contrast, detailed textures",
+    "3d_reconstruction": {
+        "important_assets": [
+            "stone walls",
+            "armor",
+            "weapons",
+            "blood effects"
+        ],
+        "materials": [
+            "stone",
+            "leather",
+            "metal",
+            "skin",
+            "blood"
+        ],
+        "geometry": [
+            "ancient architecture",
+            "armor plates",
+            "weapons",
+            "human figures"
+        ],
+        "existing_assets": [
+            "stone textures",
+            "armor models",
+            "weapon props"
+        ]
+    }
+}

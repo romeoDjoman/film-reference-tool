@@ -1,0 +1,372 @@
+[
+    {
+        "scene": 1,
+        "shot_type": "medium shot transitioning to close-up then wide cut",
+        "angle": "eye-level with central figure, slightly low angle initially",
+        "height": "approximately waist-to-chest height relative to seated figure",
+        "composition": "central figure framed by guards; foreground obstruction in first frame creates depth cue",
+        "perspective": "slight Dutch tilt in first frame suggests tension or instability",
+        "movement": "static camera for most frames; abrupt cut to different angle in final frame",
+        "estimated_focal_length": "35mm–50mm equivalent (standard cinematic range)"
+    },
+    {
+        "scene": 2,
+        "shot_type": "medium shot transitioning to wide shot",
+        "angle": "eye level initially, then high angle looking down",
+        "height": "starts at eye level, ends at elevated position",
+        "composition": "centered on victim with guards framing the scene",
+        "perspective": "slight Dutch angle in first frames, straight-on in final frame",
+        "movement": "slow zoom out from close-up to wide shot",
+        "estimated_focal_length": "50mm-85mm"
+    },
+    {
+        "scene": 3,
+        "shot_type": "wide shot transitioning to medium shot",
+        "angle": "high angle looking down at the scene",
+        "height": "elevated, approximately 2-3 meters above ground",
+        "composition": "symmetrical arrangement of characters around central action",
+        "perspective": "slightly angled downward to capture full context",
+        "movement": "static in first four frames, then cuts to different angle",
+        "estimated_focal_length": "24mm - 35mm (wide angle for environmental context)"
+    },
+    {
+        "scene": 4,
+        "shot_type": "medium shot",
+        "angle": "eye level",
+        "height": "approximately waist height relative to characters",
+        "composition": "characters arranged horizontally across the frame with a table in the foreground",
+        "perspective": "slightly wide angle to capture multiple characters and background details",
+        "movement": "static or minimal movement",
+        "estimated_focal_length": "50mm"
+    },
+    {
+        "scene": 5,
+        "shot_type": "medium close-up to medium shot",
+        "angle": "eye-level, slightly low angle on primary character",
+        "height": "approximately chest-to-head level",
+        "composition": "primary character centered, supporting characters framing the scene",
+        "perspective": "slight wide-angle distortion noticeable in background elements",
+        "movement": "minimal movement, slight pan or cut to secondary character in final frame",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    {
+        "scene": 6,
+        "shot_type": "medium close-up",
+        "angle": "slightly low angle, looking up at primary character",
+        "height": "eye level or slightly below eye level",
+        "composition": "primary character dominates frame, secondary character in background right",
+        "perspective": "slight Dutch tilt in later frames, adding tension",
+        "movement": "uncertain; appears static with possible slight pan or zoom",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    {
+        "scene": 7,
+        "shot_type": "medium close-up to medium shot",
+        "angle": "slightly low angle on gladiator, eye-level on commander",
+        "height": "uncertain, likely around 1.5m - 2m",
+        "composition": "rule of thirds, gladiator dominates right side",
+        "perspective": "slight Dutch tilt in first four frames",
+        "movement": "static or very subtle push-in",
+        "estimated_focal_length": "85mm"
+    },
+    {
+        "scene": 8,
+        "shot_type": "medium shot transitioning to wide shot",
+        "angle": "eye-level in first frames; high-angle in final frame",
+        "height": "chest level initially; elevated in last frame",
+        "composition": "central focus on primary character gesturing; later reveals full scene context",
+        "perspective": "slight Dutch tilt in early frames suggesting tension or instability",
+        "movement": "static to slight pan/zoom out to reveal wider action",
+        "estimated_focal_length": "35mm"
+    },
+    {
+        "scene": 9,
+        "shot_type": "wide shot transitioning to medium close-up",
+        "angle": "high angle, looking down at the scene",
+        "height": "elevated, approximately 2-3 meters above ground",
+        "composition": "symmetrical arrangement of characters around central pillar",
+        "perspective": "slightly angled high-angle perspective",
+        "movement": "static wide shot that cuts to a closer view",
+        "estimated_focal_length": "35mm"
+    },
+    {
+        "scene": 10,
+        "shot_type": "medium to wide shot",
+        "angle": "slightly elevated, looking down at the victim",
+        "height": "eye level or slightly above, approximately 1.5-2 meters from ground",
+        "composition": "centered on victim and immediate guards, with background guards framing the scene",
+        "perspective": "slight Dutch angle tilt in some frames to enhance tension",
+        "movement": "static or minimal movement; slight pan or zoom possible between frames",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    {
+        "scene": 11,
+        "shot_type": "wide shot / medium-wide",
+        "angle": "high angle, looking down at the scene",
+        "height": "elevation above ground level, approximately 2-3 meters",
+        "composition": "circular framing with action in center; symmetrical balance of guards around victim",
+        "perspective": "slightly elevated perspective emphasizing the circular arrangement",
+        "movement": "static camera position across all frames (no movement detected)",
+        "estimated_focal_length": "35mm - 50mm"
+    },
+    {
+        "scene": 12,
+        "shot_type": "medium-wide shot",
+        "angle": "eye-level to slightly low angle",
+        "height": "approximately waist-to-knee height relative to standing guards",
+        "composition": "centered on victim and post; guards frame the scene horizontally",
+        "perspective": "slight Dutch tilt in first frame suggesting motion or distress",
+        "movement": "static camera with possible subtle push-in or zoom during victim's fall",
+        "estimated_focal_length": "35mm–50mm"
+    },
+    {
+        "scene": 13,
+        "shot_type": "Medium shot",
+        "angle": "Eye level",
+        "height": "Approximately 1.5-2 meters",
+        "composition": "Rule of thirds with characters positioned across frame",
+        "perspective": "Slight Dutch angle tilt in later frames",
+        "movement": "Camera appears to be moving or panning slightly, creating motion blur effect",
+        "estimated_focal_length": "50mm"
+    },
+    {
+        "scene": 14,
+        "shot_type": "Medium shot transitioning to close-up",
+        "angle": "Eye-level, slightly low angle",
+        "height": "Approximately waist-to-chest height of characters",
+        "composition": "Foreground motion blur dominates early frames, then clears to show two soldiers and fallen man",
+        "perspective": "Wide-angle perspective emphasizing depth and motion",
+        "movement": "Static camera with foreground subject moving rapidly across frame",
+        "estimated_focal_length": "35mm - 50mm"
+    },
+    {
+        "scene": 15,
+        "shot_type": "medium close-up to extreme close-up sequence",
+        "angle": "low angle looking up at character and post",
+        "height": "eye level with character's torso/head",
+        "composition": "character dominates right side, post on left; later frames focus tightly on face and arm",
+        "perspective": "slightly distorted due to extreme close-ups and motion blur",
+        "movement": "pushes in from wide shot to tight close-up; slight shake or motion blur suggests rapid movement or impact",
+        "estimated_focal_length": "35mm equivalent for initial frames, 85mm+ for final close-up"
+    },
+    {
+        "scene": 16,
+        "shot_type": "close-up to medium shot",
+        "angle": "low angle looking up at victim in first frames; eye-level or slightly low for guards in later frames",
+        "height": "low to ground level initially, then shifts to capture standing figures",
+        "composition": "tight framing on victim’s face in early frames; wider composition including both guards in final frame",
+        "perspective": "slightly distorted wide-angle lens effect noticeable in facial features",
+        "movement": "static or minimal movement between frames; possible slight pan or zoom transition implied by framing change",
+        "estimated_focal_length": "35mm–50mm"
+    },
+    {
+        "scene": 17,
+        "shot_type": "medium shot",
+        "angle": "slightly low angle",
+        "height": "eye level to slightly below",
+        "composition": "two gladiators in foreground, opponent in background",
+        "perspective": "converging lines from stone walls",
+        "movement": "uncertain, possibly static or slight pan",
+        "estimated_focal_length": "50mm"
+    },
+    {
+        "scene": 18,
+        "shot_type": "close-up to medium close-up",
+        "angle": "low angle looking up at victim, then shifts to eye-level with foreground figure",
+        "height": "eye level with victim’s head",
+        "composition": "tight framing on victim’s upper body and face; shallow depth of field blurs foreground figure",
+        "perspective": "slight Dutch tilt in some frames suggesting disorientation or distress",
+        "movement": "static or very subtle push-in across frames",
+        "estimated_focal_length": "85mm – 100mm"
+    },
+    {
+        "scene": 19,
+        "shot_type": "Medium shot to medium close-up",
+        "angle": "Eye-level, slightly low angle for soldiers.",
+        "height": "Approximately 1.5m - 1.7m (adult eye level).",
+        "composition": "Rule of thirds; central soldier framed left-center, woman/infant right.",
+        "perspective": "Slight wide-angle distortion on foreground elements (soldiers), normal on midground.",
+        "movement": "Static or very slow push-in across frames (implied by framing changes).",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    {
+        "scene": 20,
+        "shot_type": "close-up to medium close-up",
+        "angle": "low angle looking up at victim, then over-the-shoulder on aggressor",
+        "height": "eye level with characters",
+        "composition": "tight framing on faces and upper bodies",
+        "perspective": "slightly distorted due to proximity",
+        "movement": "uncertain, possibly static or slight push-in",
+        "estimated_focal_length": "85mm"
+    },
+    {
+        "scene": 21,
+        "shot_type": "close-up to medium close-up",
+        "angle": "low angle looking up at first character, then high angle looking down at second",
+        "height": "variable - low for first character, high for second",
+        "composition": "tight framing on faces and upper bodies",
+        "perspective": "dynamic shift from upward to downward view",
+        "movement": "uncertain - possibly handheld or static with cut between frames",
+        "estimated_focal_length": "50mm-85mm"
+    },
+    {
+        "scene": 22,
+        "shot_type": "close-up to medium shot",
+        "angle": "low angle looking up at victim, then eye-level with observers",
+        "height": "low for victim shots, eye-level for observer shots",
+        "composition": "tight framing on faces and upper bodies",
+        "perspective": "slightly low angle emphasizing victim's vulnerability",
+        "movement": "uncertain - appears static or very slow push-in",
+        "estimated_focal_length": "85mm"
+    },
+    {
+        "scene": 23,
+        "shot_type": "medium close-up",
+        "angle": "eye-level or slightly above eye level",
+        "height": "approximately chest-to-head height relative to subjects",
+        "composition": "two characters framed side-by-side, nurse on left, soldier on right, infant centered between them",
+        "perspective": "slight Dutch angle possible due to framing, but mostly level",
+        "movement": "static or minimal movement (frames appear nearly identical)",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    {
+        "scene": 24,
+        "shot_type": "medium close-up",
+        "angle": "eye-level to slightly above",
+        "height": "approximately chest-to-head level of seated subjects",
+        "composition": "rule of thirds with characters distributed across frame",
+        "perspective": "slight Dutch angle tilt in later frames",
+        "movement": "uncertain, possibly static or very slow pan",
+        "estimated_focal_length": "85mm"
+    },
+    {
+        "scene": 25,
+        "shot_type": "close-up to medium close-up",
+        "angle": "low angle looking up at victim, then shifts to side view of aggressor",
+        "height": "eye level with victim's head",
+        "composition": "tight framing on faces and upper bodies",
+        "perspective": "slightly distorted due to proximity",
+        "movement": "uncertain - frames suggest slight pan or cut between characters",
+        "estimated_focal_length": "85mm"
+    },
+    {
+        "scene": 26,
+        "shot_type": "medium close-up to close-up",
+        "angle": "low angle looking up at combatants",
+        "height": "below eye level of characters",
+        "composition": "dynamic, focused on upper bodies and expressions",
+        "perspective": "converging lines from stone architecture enhance sense of enclosure",
+        "movement": "slight handheld shake or dynamic framing to match action",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    {
+        "scene": 27,
+        "shot_type": "close-up / extreme close-up transitioning to medium shot",
+        "angle": "high angle looking down at victim's face, then shifts to low-angle view of leg",
+        "height": "eye-level with victim’s head initially; later lower, near ground level",
+        "composition": "tight framing on face in first four frames; focused on leg in final frame",
+        "perspective": "shallow depth of field; foreground obstruction (possibly another body part) creates sense of intimacy or voyeurism",
+        "movement": "static or very subtle; no obvious motion between frames",
+        "estimated_focal_length": "85mm – 100mm"
+    },
+    {
+        "scene": 28,
+        "shot_type": "close-up / extreme close-up",
+        "angle": "low angle for legs; top-down or side view for face",
+        "height": "very low for leg shots, eye-level for head shot",
+        "composition": "tight framing on feet/legs then cut to face",
+        "perspective": "shallow depth of field, focus on foreground subject",
+        "movement": "static or minimal movement within each frame; possible cut between frames",
+        "estimated_focal_length": "85mm - 100mm (approximate for cinematic close-up)"
+    },
+    {
+        "scene": 29,
+        "shot_type": "close-up to medium close-up",
+        "angle": "low angle, slightly tilted upward toward the injured person's face",
+        "height": "eye level with the injured person’s head",
+        "composition": "off-center framing; subject on right side, foreground obstruction on left",
+        "perspective": "slight Dutch tilt / angled perspective",
+        "movement": "static or minimal movement across frames",
+        "estimated_focal_length": "85mm - 100mm"
+    },
+    {
+        "scene": 30,
+        "shot_type": "medium close-up to medium shot",
+        "angle": "slightly elevated, looking down at the action",
+        "height": "approximately waist-to-knee level relative to characters",
+        "composition": "focused on foot-washing action with background context",
+        "perspective": "slight Dutch angle or tilted perspective",
+        "movement": "static camera with possible very slow push-in or zoom",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    {
+        "scene": 31,
+        "shot_type": "medium to wide shot",
+        "angle": "eye-level to slightly low angle",
+        "height": "approximately waist-to-knee height relative to characters",
+        "composition": "triangular composition with three figures, primary figure on left, standing figure center, observer right",
+        "perspective": "slight Dutch angle in some frames suggesting movement or emotional tension",
+        "movement": "camera appears to pan slightly and zoom in during the sequence",
+        "estimated_focal_length": "35mm-50mm"
+    },
+    {
+        "scene": 32,
+        "shot_type": "medium close-up to over-the-shoulder composition",
+        "angle": "slightly elevated, looking down at feet and hands initially, then eye-level for character interaction",
+        "height": "approximately waist-to-chest height relative to characters",
+        "composition": "over-the-shoulder shot focusing on foot washing action, then pulling back to show both characters in conversation",
+        "perspective": "slight Dutch angle or tilted perspective in early frames, level in later frames",
+        "movement": "slow push-in or static with subtle framing adjustments between frames",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    {
+        "scene": 33,
+        "shot_type": "medium shot",
+        "angle": "eye level",
+        "height": "uncertain, likely around eye level of seated characters",
+        "composition": "two-shot, balanced framing of both characters",
+        "perspective": "slightly angled to capture both characters' faces",
+        "movement": "static or minimal movement",
+        "estimated_focal_length": "50mm"
+    },
+    {
+        "scene": 34,
+        "shot_type": "medium close-up",
+        "angle": "slightly elevated, looking down at subjects",
+        "height": "uncertain; likely seated or standing height relative to characters",
+        "composition": "rule of thirds; primary subject on right third, secondary on left",
+        "perspective": "slight Dutch angle tilt in some frames",
+        "movement": "minimal; slight shifts in framing across frames",
+        "estimated_focal_length": "85mm"
+    },
+    {
+        "scene": 35,
+        "shot_type": "medium close-up transitioning to low-angle shot",
+        "angle": "eye-level initially, then low angle looking up at foot",
+        "height": "starts at eye level, ends at ground level",
+        "composition": "character-focused in first frames, object-focused in last frame",
+        "perspective": "slight depth of field; background elements softly blurred",
+        "movement": "uncertain if static or slight pan/tilt between frames",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    {
+        "scene": 36,
+        "shot_type": "close-up to medium shot",
+        "angle": "low angle, eye-level with floor",
+        "height": "ground level, near feet",
+        "composition": "rule of thirds; fallen figure on right, soldiers entering center-left",
+        "perspective": "slight Dutch tilt in later frames suggesting motion or instability",
+        "movement": "slow push-in or dolly forward toward the doorway",
+        "estimated_focal_length": "50mm"
+    },
+    {
+        "scene": 37,
+        "shot_type": "extreme close-up",
+        "angle": "slightly elevated, looking down at face",
+        "height": "very low relative to subject",
+        "composition": "tight focus on facial features, shallow depth of field",
+        "perspective": "intimate, claustrophobic",
+        "movement": "static or minimal micro-movement across frames",
+        "estimated_focal_length": "85mm - 100mm"
+    }
+]

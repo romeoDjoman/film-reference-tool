@@ -1,0 +1,471 @@
+[
+    {
+        "scene": 1,
+        "sources": [
+            "natural daylight from above and slightly behind",
+            "possible ambient light from open courtyard"
+        ],
+        "direction": "overhead with soft fill; shadows fall downward and slightly forward",
+        "intensity": "moderate, diffused sunlight without harsh contrasts",
+        "softness": "soft shadows due to overcast or indirect lighting conditions",
+        "color_temperature": "cool neutral tones with earthy undertones (browns, grays, muted reds)",
+        "shadows": "subtle under armor and table; no strong directional shadows",
+        "mood": "tense, somber, authoritative"
+    },
+    {
+        "scene": 2,
+        "sources": [
+            "natural daylight",
+            "fire pit flame"
+        ],
+        "direction": "overhead with some side lighting creating shadows",
+        "intensity": "moderate, realistic outdoor lighting",
+        "softness": "mixed - soft ambient with some harsh shadows",
+        "color_temperature": "cool daylight with warm tones from blood and fire",
+        "shadows": "visible under characters and objects",
+        "mood": "dark, tense, violent"
+    },
+    {
+        "scene": 3,
+        "sources": [
+            "natural daylight",
+            "torch flames on walls"
+        ],
+        "direction": "overhead natural light with some side lighting from torches",
+        "intensity": "moderate, clear visibility of details",
+        "softness": "mixed - hard shadows from armor and soft ambient fill",
+        "color_temperature": "cool daylight with warm accents from blood and torches",
+        "shadows": "distinct shadows under characters and objects",
+        "mood": "tense, grim, historical"
+    },
+    {
+        "scene": 4,
+        "sources": [
+            "torch on the right wall",
+            "ambient light from an unseen source"
+        ],
+        "direction": "primarily from the right side of the frame",
+        "intensity": "moderate, with some areas in shadow",
+        "softness": "mixed, with hard shadows from the torch and softer ambient light",
+        "color_temperature": "warm due to the torchlight",
+        "shadows": "visible on characters' faces and clothing, particularly on the left side",
+        "mood": "serious, tense, authoritative"
+    },
+    {
+        "scene": 5,
+        "sources": [
+            "natural daylight (primary)",
+            "torch flame (secondary)"
+        ],
+        "direction": "overhead natural light with torch providing warm accent from right",
+        "intensity": "moderate, soft shadows indicating overcast or diffused daylight",
+        "softness": "soft shadows, low contrast lighting",
+        "color_temperature": "cool daylight with warm torch accents",
+        "shadows": "soft, subtle shadows under armor and facial features",
+        "mood": "tense, serious, historical drama atmosphere"
+    },
+    {
+        "scene": 6,
+        "sources": [
+            "torch on left side",
+            "ambient daylight or ambient light source from above"
+        ],
+        "direction": "mixed; torch provides warm glow on left, ambient light fills scene",
+        "intensity": "moderate; soft shadows overall",
+        "softness": "soft to medium; diffused lighting",
+        "color_temperature": "warm due to torch, neutral/cool from ambient",
+        "shadows": "soft shadows under chin and armor plates",
+        "mood": "tense, dramatic"
+    },
+    {
+        "scene": 7,
+        "sources": [
+            "torches in background",
+            "ambient daylight (uncertain)"
+        ],
+        "direction": "from above and slightly behind gladiator",
+        "intensity": "moderate, dramatic contrast",
+        "softness": "mixed - soft on face, harsh shadows",
+        "color_temperature": "cool with warm torchlight accents",
+        "shadows": "deep under armor and facial features",
+        "mood": "tense, ominous"
+    },
+    {
+        "scene": 8,
+        "sources": [
+            "natural daylight",
+            "torch flame on right wall"
+        ],
+        "direction": "overhead with side illumination from torch",
+        "intensity": "moderate; shadows present but not harsh",
+        "softness": "soft to medium; diffuse sunlight",
+        "color_temperature": "neutral to slightly cool; warm glow from torch",
+        "shadows": "visible under characters and objects; ground shows blood stains indicating prior violence",
+        "mood": "tense, ominous, historical drama"
+    },
+    {
+        "scene": 9,
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "overhead, slightly from upper left",
+        "intensity": "moderate, bright but not harsh",
+        "softness": "moderately soft with some contrast",
+        "color_temperature": "cool, slightly desaturated tones",
+        "shadows": "visible under characters and objects",
+        "mood": "tense, grim, violent"
+    },
+    {
+        "scene": 10,
+        "sources": [
+            "natural daylight, possibly overcast or shaded"
+        ],
+        "direction": "diffuse from above, no harsh shadows",
+        "intensity": "moderate, not overly bright or dark",
+        "softness": "soft due to overcast conditions or large light source",
+        "color_temperature": "neutral to slightly cool, with warm tones from blood and skin",
+        "shadows": "soft, diffused shadows under bodies and objects",
+        "mood": "tense, grim, violent"
+    },
+    {
+        "scene": 11,
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "overhead, slightly from upper left",
+        "intensity": "moderate to bright; clear visibility",
+        "softness": "hard shadows indicating direct sunlight",
+        "color_temperature": "neutral to slightly cool (daylight)",
+        "shadows": "distinct shadows cast by characters and objects on the stone floor",
+        "mood": "tense, violent, grim"
+    },
+    {
+        "scene": 12,
+        "sources": [
+            "natural daylight, possibly overcast"
+        ],
+        "direction": "diffuse overhead; no harsh shadows",
+        "intensity": "moderate to soft",
+        "softness": "high due to ambient light",
+        "color_temperature": "cool neutral with warm skin tones contrasted by red blood",
+        "shadows": "soft and indistinct",
+        "mood": "grim, visceral, tense"
+    },
+    {
+        "scene": 13,
+        "sources": [
+            "Natural daylight",
+            "Torches providing accent lighting"
+        ],
+        "direction": "Front and side lighting",
+        "intensity": "Moderate - not overly bright or dark",
+        "softness": "Mixed - some soft areas with defined shadows",
+        "color_temperature": "Warm, earthy tones",
+        "shadows": "Defined shadows under armor pieces and characters",
+        "mood": "Tense, serious, military"
+    },
+    {
+        "scene": 14,
+        "sources": [
+            "Torches mounted on walls",
+            "Ambient daylight (uncertain)"
+        ],
+        "direction": "From above and slightly behind the torches, casting shadows forward",
+        "intensity": "Moderate - natural light mixed with artificial torchlight",
+        "softness": "Mixed - hard shadows from torches, softer ambient light",
+        "color_temperature": "Warm due to torches, cool tones from ambient light",
+        "shadows": "Visible under armor and characters, cast on stone floor",
+        "mood": "Tense, violent, gritty"
+    },
+    {
+        "scene": 15,
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "overhead, slightly from upper left",
+        "intensity": "moderate to bright, high contrast between light and shadow",
+        "softness": "hard shadows due to direct sunlight",
+        "color_temperature": "cool daylight with strong reds from blood",
+        "shadows": "deep under post, beneath character's body",
+        "mood": "gritty, violent, urgent"
+    },
+    {
+        "scene": 16,
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "diffuse overhead lighting with soft shadows",
+        "intensity": "moderate, not harsh",
+        "softness": "soft due to overcast or shaded environment",
+        "color_temperature": "neutral to slightly cool",
+        "shadows": "subtle under armor and facial features",
+        "mood": "tense, grim, dramatic"
+    },
+    {
+        "scene": 17,
+        "sources": [
+            "natural light"
+        ],
+        "direction": "overhead, diffused",
+        "intensity": "moderate",
+        "softness": "soft shadows",
+        "color_temperature": "neutral to slightly warm",
+        "shadows": "soft, under armor and characters",
+        "mood": "tense, dramatic"
+    },
+    {
+        "scene": 18,
+        "sources": [
+            "primary key light from above-left, casting shadows on right side of victim’s face",
+            "ambient fill from opposite direction to soften contrast"
+        ],
+        "direction": "top-left dominant",
+        "intensity": "moderate-high, creating strong highlights and deep shadows",
+        "softness": "semi-hard — sharp edges on blood splatters but soft skin tones",
+        "color_temperature": "cool with warm reds from blood overriding ambient tone",
+        "shadows": "pronounced under chin, neck, and right cheek",
+        "mood": "gritty, tense, visceral"
+    },
+    {
+        "scene": 19,
+        "sources": [
+            "Natural light from above/left (diffused)",
+            "Possible ambient fill from right side."
+        ],
+        "direction": "Primary light from upper-left; soft shadows.",
+        "intensity": "Moderate; not harsh, creating dramatic but not overexposed look.",
+        "softness": "Soft to medium; no hard shadows on faces.",
+        "color_temperature": "Cool/neutral (grayish stone tones), with warm accents from red capes and skin tones.",
+        "shadows": "Soft shadows under armor, behind hooded woman.",
+        "mood": "Tense, somber, historical drama."
+    },
+    {
+        "scene": 20,
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "from above and slightly in front of victim",
+        "intensity": "moderate to bright",
+        "softness": "mixed, with some harsh shadows on face",
+        "color_temperature": "cool with warm blood tones",
+        "shadows": "visible under chin and nose",
+        "mood": "gritty, violent, intense"
+    },
+    {
+        "scene": 21,
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "diffuse overhead, soft shadows",
+        "intensity": "moderate - not harsh but clear visibility",
+        "softness": "soft due to overcast or shaded environment",
+        "color_temperature": "cool with warm skin tones",
+        "shadows": "subtle, under armor plates and facial features",
+        "mood": "tense, violent, gritty"
+    },
+    {
+        "scene": 22,
+        "sources": [
+            "natural light from above"
+        ],
+        "direction": "top-down, slightly front-left",
+        "intensity": "moderate, creating strong contrast",
+        "softness": "mixed - soft on faces but harsh shadows in crevices",
+        "color_temperature": "cool with red undertones from blood",
+        "shadows": "deep shadows under chin and nose",
+        "mood": "dark, somber, tragic"
+    },
+    {
+        "scene": 23,
+        "sources": [
+            "natural daylight from above and slightly in front",
+            "possible ambient light from open area behind stone wall"
+        ],
+        "direction": "frontal to slightly elevated, casting soft shadows under chin and nose",
+        "intensity": "moderate, not harsh",
+        "softness": "soft to medium, no hard shadows",
+        "color_temperature": "cool, desaturated tones (bluish-gray)",
+        "shadows": "subtle shadows under chin, beneath cloak folds, and between characters",
+        "mood": "somber, quiet, melancholic"
+    },
+    {
+        "scene": 24,
+        "sources": [
+            "primary key light from upper left",
+            "ambient fill from right side"
+        ],
+        "direction": "coming from upper-left at 45 degrees",
+        "intensity": "moderate, creating soft shadows",
+        "softness": "soft but directional",
+        "color_temperature": "cool, slightly desaturated tones",
+        "shadows": "subtle under chin and garment folds",
+        "mood": "somber, intimate, tense"
+    },
+    {
+        "scene": 25,
+        "sources": [
+            "ambient light from above",
+            "possible torch or fire source off-screen right (seen in aggressor shot)"
+        ],
+        "direction": "from above and slightly behind camera",
+        "intensity": "moderate, dramatic",
+        "softness": "mixed - some soft areas on skin, harsher on armor",
+        "color_temperature": "warm with red/purple tint from blood and lighting",
+        "shadows": "deep shadows under chin, nose, and in crevices",
+        "mood": "gritty, violent, tense"
+    },
+    {
+        "scene": 26,
+        "sources": [
+            "natural light filtering through openings"
+        ],
+        "direction": "from above and slightly behind characters",
+        "intensity": "moderate, with high contrast on faces",
+        "softness": "mixed; some soft areas on skin, harsher on armor details",
+        "color_temperature": "warm, sepia-toned (suggests dust, blood, or time period)",
+        "shadows": "deep shadows under armor plates and facial features",
+        "mood": "tense, gritty, violent"
+    },
+    {
+        "scene": 27,
+        "sources": [
+            "natural or ambient daylight"
+        ],
+        "direction": "diffuse, coming from above and slightly behind camera",
+        "intensity": "moderate; soft shadows",
+        "softness": "high; no harsh contrasts",
+        "color_temperature": "cool with pinkish/red tint due to blood and lighting",
+        "shadows": "soft, minimal",
+        "mood": "grim, somber, visceral"
+    },
+    {
+        "scene": 28,
+        "sources": [
+            "natural daylight",
+            "possible ambient light from surroundings"
+        ],
+        "direction": "diffuse, coming from above and slightly in front",
+        "intensity": "moderate, soft lighting",
+        "softness": "soft shadows due to overcast or diffuse conditions",
+        "color_temperature": "cool with warm highlights (blood)",
+        "shadows": "soft, indistinct shadows",
+        "mood": "gritty, tense, violent"
+    },
+    {
+        "scene": 29,
+        "sources": [
+            "primary ambient light source from above and slightly in front",
+            "possible secondary fill light from opposite side"
+        ],
+        "direction": "top-down with soft directional component",
+        "intensity": "moderate, low-key lighting",
+        "softness": "soft shadows, diffused highlights",
+        "color_temperature": "warm, reddish-orange tint overall",
+        "shadows": "soft, subtle shadows under chin and nose",
+        "mood": "tense, somber, intimate"
+    },
+    {
+        "scene": 30,
+        "sources": [
+            "single warm light source from above and slightly behind",
+            "possibly candlelight or oil lamp"
+        ],
+        "direction": "from upper right, casting shadows to the left",
+        "intensity": "low to medium, creating dramatic contrast",
+        "softness": "moderately soft with some hard shadows",
+        "color_temperature": "warm, sepia-toned, reddish-orange",
+        "shadows": "pronounced but not overly harsh",
+        "mood": "intimate, solemn, reverent"
+    },
+    {
+        "scene": 31,
+        "sources": [
+            "candle or oil lamp visible in background",
+            "ambient warm light from unseen source"
+        ],
+        "direction": "primarily from upper right, creating dramatic shadows on left side of primary figure",
+        "intensity": "low to medium, creating high contrast between lit and shadowed areas",
+        "softness": "moderately soft with some harsh highlights on skin and fabric",
+        "color_temperature": "warm sepia/red-orange tone throughout",
+        "shadows": "pronounced shadows on primary figure's face and robe, adding drama",
+        "mood": "solemn, intimate, reverent"
+    },
+    {
+        "scene": 32,
+        "sources": [
+            "oil lamp mounted on wall",
+            "possible ambient light from doorway or window (right side)"
+        ],
+        "direction": "primarily from upper right and front, casting shadows to left and back",
+        "intensity": "low to medium, creating high contrast between lit areas and deep shadows",
+        "softness": "moderately soft due to single point source, with some harsh shadows in darker areas",
+        "color_temperature": "warm, sepia-toned, reddish-orange hue throughout",
+        "shadows": "pronounced shadows under feet, hands, and clothing; deep blacks in corners",
+        "mood": "intimate, solemn, reverent, ancient ritualistic"
+    },
+    {
+        "scene": 33,
+        "sources": [
+            "wall-mounted lamp",
+            "ambient light from doorway"
+        ],
+        "direction": "primarily from the left and background",
+        "intensity": "low to medium, creating a dim atmosphere",
+        "softness": "soft, diffused lighting",
+        "color_temperature": "warm, reddish-orange hue",
+        "shadows": "soft shadows, minimal contrast",
+        "mood": "intimate, serious, contemplative"
+    },
+    {
+        "scene": 34,
+        "sources": [
+            "single dominant source from upper right",
+            "ambient warm fill light"
+        ],
+        "direction": "from upper right, casting shadows on left side of faces",
+        "intensity": "low to medium; dramatic contrast between light and shadow",
+        "softness": "moderately soft with defined highlights",
+        "color_temperature": "warm, reddish-orange hue throughout",
+        "shadows": "deep shadows on left sides of faces and background",
+        "mood": "somber, intimate, tense"
+    },
+    {
+        "scene": 35,
+        "sources": [
+            "natural light from opening in background",
+            "possible ambient indoor light"
+        ],
+        "direction": "from background (exterior) casting warm glow on character's face",
+        "intensity": "moderate, creating soft shadows",
+        "softness": "soft due to diffused natural light",
+        "color_temperature": "warm, sepia-toned, reddish-orange hue",
+        "shadows": "soft shadows under chin and neck; subtle facial shadows",
+        "mood": "solemn, intimate, possibly tense or reflective"
+    },
+    {
+        "scene": 36,
+        "sources": [
+            "natural daylight from above and behind",
+            "ambient light from open courtyard"
+        ],
+        "direction": "from upper right, casting shadows to left",
+        "intensity": "moderate, soft but directional",
+        "softness": "soft due to overcast or diffused sunlight",
+        "color_temperature": "warm, slightly desaturated",
+        "shadows": "soft, elongated under armor and figures",
+        "mood": "tense, grim, violent"
+    },
+    {
+        "scene": 37,
+        "sources": [
+            "primary key light from above/front-left",
+            "possible fill light from right side"
+        ],
+        "direction": "top-down with slight frontal component",
+        "intensity": "moderate to high, creating strong highlights on wet surfaces",
+        "softness": "mixed - some soft areas (skin), some hard speculars (blood)",
+        "color_temperature": "warm, reddish-pink tint overall",
+        "shadows": "subtle under chin and nose; shadows in eye sockets",
+        "mood": "gruesome, intimate, tense"
+    }
+]

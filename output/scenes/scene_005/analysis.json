@@ -1,0 +1,110 @@
+{
+    "scene": 5,
+    "characters": [
+        {
+            "role": "primary character",
+            "appearance": "middle-aged man with short brown hair and a serious expression",
+            "clothing": "brown tunic, braided beige scarf, dark leather armor with metal studs",
+            "position": "center foreground",
+            "posture": "standing upright, initially still then extending right arm forward",
+            "actions": "gesturing with open palm as if giving orders or making a point",
+            "interactions": "appears to be addressing someone off-screen or commanding the group"
+        },
+        {
+            "role": "secondary character (foreground)",
+            "appearance": "bald man with blood on face and armor, surprised expression",
+            "clothing": "similar leather armor with braided scarf",
+            "position": "right foreground in later frames",
+            "posture": "standing, looking toward the primary character",
+            "actions": "reacting to the primary character's gesture",
+            "interactions": "appears to be receiving orders or reacting to a command"
+        },
+        {
+            "role": "supporting characters (background)",
+            "appearance": "men wearing Roman-style helmets and armor",
+            "clothing": "metal helmets, leather armor, red cloaks",
+            "position": "behind primary character, left side of frame",
+            "posture": "standing at attention",
+            "actions": "observing the scene passively",
+            "interactions": "part of a guard formation"
+        }
+    ],
+    "environment": {
+        "location": "ancient stone structure, possibly a fortress or temple exterior",
+        "interior_exterior": "exterior",
+        "architecture": "rough-hewn stone walls with arched doorway and small ventilation slots above",
+        "walls": "large irregular stone blocks, weathered texture",
+        "floor": "not clearly visible, likely stone ground",
+        "ceiling": "not visible",
+        "background": "stone wall with torch mounted on it",
+        "depth": "moderate depth with characters in foreground and background layers"
+    },
+    "objects": [
+        {
+            "name": "torch",
+            "position": "mounted on right stone wall, burning",
+            "apparent_material": "metal holder with flame",
+            "importance_for_reconstruction": "provides light source and atmospheric element"
+        },
+        {
+            "name": "Roman helmets",
+            "position": "worn by background characters",
+            "apparent_material": "metallic, polished",
+            "importance_for_reconstruction": "establishes historical period and character roles"
+        },
+        {
+            "name": "leather armor",
+            "position": "worn by all main characters",
+            "apparent_material": "dark leather with metal studs and buckles",
+            "importance_for_reconstruction": "key visual element for character design"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up to medium shot",
+        "angle": "eye-level, slightly low angle on primary character",
+        "height": "approximately chest-to-head level",
+        "composition": "primary character centered, supporting characters framing the scene",
+        "perspective": "slight wide-angle distortion noticeable in background elements",
+        "movement": "minimal movement, slight pan or cut to secondary character in final frame",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight (primary)",
+            "torch flame (secondary)"
+        ],
+        "direction": "overhead natural light with torch providing warm accent from right",
+        "intensity": "moderate, soft shadows indicating overcast or diffused daylight",
+        "softness": "soft shadows, low contrast lighting",
+        "color_temperature": "cool daylight with warm torch accents",
+        "shadows": "soft, subtle shadows under armor and facial features",
+        "mood": "tense, serious, historical drama atmosphere"
+    },
+    "visual_style": "realistic historical drama, natural color palette with earth tones, cinematic lighting with practical sources, detailed period costumes and props",
+    "3d_reconstruction": {
+        "important_assets": [
+            "stone wall texture",
+            "Roman helmet models",
+            "leather armor with metal hardware",
+            "torch model with flame simulation"
+        ],
+        "materials": [
+            "rough stone",
+            "metallic leather",
+            "fabric (tunics and scarves)",
+            "flame material"
+        ],
+        "geometry": [
+            "irregular stone blocks",
+            "arched doorway structure",
+            "helmet shapes",
+            "armor plates with studs and buckles"
+        ],
+        "existing_assets": [
+            "Roman soldier armor sets",
+            "ancient stone architecture assets",
+            "torch/fire effects",
+            "period-appropriate clothing textures"
+        ]
+    }
+}

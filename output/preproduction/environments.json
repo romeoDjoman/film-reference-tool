@@ -1,0 +1,605 @@
+[
+    {
+        "id": "ENV_001",
+        "name": "ancient Roman courtyard or execution area",
+        "scenes": [
+            1
+        ],
+        "architecture": [
+            "stone walls with rough-hewn blocks, large wooden doors visible in background"
+        ],
+        "walls": [
+            "weathered stone masonry, some showing signs of age and wear"
+        ],
+        "floor": [
+            "paved stone ground, wet with blood stains"
+        ],
+        "background": [
+            "stone wall structure, possibly part of a fortress or prison complex"
+        ]
+    },
+    {
+        "id": "ENV_002",
+        "name": "Roman-style courtyard or execution ground",
+        "scenes": [
+            2
+        ],
+        "architecture": [
+            "stone walls with large wooden doors, classical Roman architectural style"
+        ],
+        "walls": [
+            "weathered stone blocks, some with visible wear and discoloration"
+        ],
+        "floor": [
+            "paved stone surface with blood stains"
+        ],
+        "background": [
+            "stone walls, wooden doors, fire pit on the left"
+        ]
+    },
+    {
+        "id": "ENV_003",
+        "name": "Roman courtyard or public square",
+        "scenes": [
+            3
+        ],
+        "architecture": [
+            "stone-paved ground, stone walls in background"
+        ],
+        "walls": [
+            "rough-hewn stone blocks visible in background"
+        ],
+        "floor": [
+            "large rectangular stone tiles arranged in a grid pattern"
+        ],
+        "background": [
+            "gravel/dirt area beyond the paved square, stone wall with torches"
+        ]
+    },
+    {
+        "id": "ENV_004",
+        "name": "stone courtyard or fortress interior",
+        "scenes": [
+            4
+        ],
+        "architecture": [
+            "rough-hewn stone walls with visible mortar lines"
+        ],
+        "walls": [
+            "large, irregularly shaped stone blocks forming the background"
+        ],
+        "floor": [
+            "not clearly visible"
+        ],
+        "background": [
+            "stone wall with mounted torches and spears"
+        ]
+    },
+    {
+        "id": "ENV_005",
+        "name": "ancient stone structure, possibly a fortress or temple exterior",
+        "scenes": [
+            5
+        ],
+        "architecture": [
+            "rough-hewn stone walls with arched doorway and small ventilation slots above"
+        ],
+        "walls": [
+            "large irregular stone blocks, weathered texture"
+        ],
+        "floor": [
+            "not clearly visible, likely stone ground"
+        ],
+        "background": [
+            "stone wall with torch mounted on it"
+        ]
+    },
+    {
+        "id": "ENV_006",
+        "name": "ancient stone structure, possibly a fortress or castle courtyard",
+        "scenes": [
+            6
+        ],
+        "architecture": [
+            "stone walls with arched openings and small windows"
+        ],
+        "walls": [
+            "large stone blocks forming walls, weathered texture"
+        ],
+        "floor": [
+            "uncertain, not clearly visible"
+        ],
+        "background": [
+            "stone architecture, blurred due to depth of field"
+        ]
+    },
+    {
+        "id": "ENV_007",
+        "name": "ancient Roman setting",
+        "scenes": [
+            7,
+            36
+        ],
+        "architecture": [
+            "stone walls with arched doorway",
+            "stone walls, arched doorway"
+        ],
+        "walls": [
+            "rough-hewn stone blocks, weathered texture",
+            "rough-hewn stone, weathered texture"
+        ],
+        "floor": [
+            "paved stone surface, wet with blood",
+            "uncertain, likely stone or dirt"
+        ],
+        "background": [
+            "blurred figures and architecture, shallow depth of field",
+            "blurred stone structures and soldiers"
+        ]
+    },
+    {
+        "id": "ENV_008",
+        "name": "outdoor courtyard or plaza",
+        "scenes": [
+            8,
+            9,
+            10,
+            11
+        ],
+        "architecture": [
+            "stone building with arched doorway and small windows above",
+            "stone-paved ground, circular arrangement of stones",
+            "stone-paved ground, stone pillar used as torture device",
+            "stone-paved ground, stone pillar with a metal collar"
+        ],
+        "walls": [
+            "none visible in immediate foreground; background shows more of the open space",
+            "none visible in immediate foreground; stone walls or structures in background",
+            "none visible, open space",
+            "rough-hewn stone walls, weathered texture"
+        ],
+        "floor": [
+            "large flat stone tiles arranged in a circle",
+            "large stone tiles arranged in a circular pattern, stained with blood",
+            "large stone tiles with blood stains",
+            "paved stone ground"
+        ],
+        "background": [
+            "additional guards standing around the perimeter, distant structures or walls uncertain",
+            "gravel or dirt ground extending into distance",
+            "gravel/dirt area beyond the stone circle, more figures standing",
+            "stone structure with torch mounted on wall"
+        ]
+    },
+    {
+        "id": "ENV_009",
+        "name": "ancient Roman execution ground or courtyard",
+        "scenes": [
+            12
+        ],
+        "architecture": [
+            "stone walls in background, open-air setting"
+        ],
+        "walls": [
+            "rough-hewn stone blocks forming a backdrop"
+        ],
+        "floor": [
+            "paved with large stone slabs, stained with blood"
+        ],
+        "background": [
+            "stone wall with spears and shields leaning against it"
+        ]
+    },
+    {
+        "id": "ENV_010",
+        "name": "Ancient Roman military camp or fortification",
+        "scenes": [
+            13
+        ],
+        "architecture": [
+            "Stone wall with rough-hewn blocks"
+        ],
+        "walls": [
+            "Large stone blocks, weathered texture"
+        ],
+        "floor": [
+            "Uncertain - not clearly visible"
+        ],
+        "background": [
+            "Stone wall with spears mounted on it"
+        ]
+    },
+    {
+        "id": "ENV_011",
+        "name": "Ancient Roman setting, possibly a courtyard or prison area",
+        "scenes": [
+            14
+        ],
+        "architecture": [
+            "Stone walls made of large rectangular blocks"
+        ],
+        "walls": [
+            "Rough-hewn stone masonry, weathered texture"
+        ],
+        "floor": [
+            "Paved with large stone slabs"
+        ],
+        "background": [
+            "Stone wall with spears mounted on it"
+        ]
+    },
+    {
+        "id": "ENV_012",
+        "name": "outdoor public square or courtyard",
+        "scenes": [
+            15
+        ],
+        "architecture": [
+            "stone-paved ground, large cylindrical wooden post with metal bands"
+        ],
+        "walls": [
+            "none visible in frame"
+        ],
+        "floor": [
+            "large stone tiles arranged in a grid pattern"
+        ],
+        "background": [
+            "paved ground extending into distance, no distinct background elements"
+        ]
+    },
+    {
+        "id": "ENV_013",
+        "name": "ancient Roman-style arena or courtyard",
+        "scenes": [
+            16
+        ],
+        "architecture": [
+            "stone walls with arched openings visible in background"
+        ],
+        "walls": [
+            "weathered stone, light beige/tan color"
+        ],
+        "floor": [
+            "not clearly visible; implied to be ground level"
+        ],
+        "background": [
+            "stone wall structure suggesting enclosed space or amphitheater"
+        ]
+    },
+    {
+        "id": "ENV_014",
+        "name": "ancient coliseum or arena",
+        "scenes": [
+            17
+        ],
+        "architecture": [
+            "stone walls with arched structures"
+        ],
+        "walls": [
+            "tall stone walls, weathered texture"
+        ],
+        "floor": [
+            "stone ground, blood-stained"
+        ],
+        "background": [
+            "ancient stone architecture"
+        ]
+    },
+    {
+        "id": "ENV_015",
+        "name": "indoor stone chamber or dungeon",
+        "scenes": [
+            18
+        ],
+        "architecture": [
+            "stone walls with visible mortar lines"
+        ],
+        "walls": [
+            "rough-hewn stone, stained with blood"
+        ],
+        "floor": [
+            "not clearly visible, but implied to be stone"
+        ],
+        "background": [
+            "stone wall behind victim, blurred foreground figure"
+        ]
+    },
+    {
+        "id": "ENV_016",
+        "name": "Stone courtyard or prison cell area",
+        "scenes": [
+            19
+        ],
+        "architecture": [
+            "Rustic stone walls with vertical metal bars or posts."
+        ],
+        "walls": [
+            "Large rough-hewn stone blocks, grayish-brown tone."
+        ],
+        "floor": [
+            "Stone floor, partially visible; stained with blood in final frame."
+        ],
+        "background": [
+            "Stone wall with vertical metal elements (bars or structural posts)."
+        ]
+    },
+    {
+        "id": "ENV_017",
+        "name": "outdoor rocky area",
+        "scenes": [
+            20
+        ],
+        "architecture": [
+            "none visible"
+        ],
+        "walls": [
+            "rock face behind victim"
+        ],
+        "floor": [
+            "ground surface, possibly stone or dirt"
+        ],
+        "background": [
+            "textured rock wall with blood splatters"
+        ]
+    },
+    {
+        "id": "ENV_018",
+        "name": "ancient ruin or battlefield",
+        "scenes": [
+            21
+        ],
+        "architecture": [
+            "stone structures with arches visible in background"
+        ],
+        "walls": [
+            "weathered stone walls, possibly part of a ruined building"
+        ],
+        "floor": [
+            "stone ground, covered in blood and debris"
+        ],
+        "background": [
+            "blurred stone architecture suggesting depth and ruins"
+        ]
+    },
+    {
+        "id": "ENV_019",
+        "name": "indoor stone structure",
+        "scenes": [
+            22
+        ],
+        "architecture": [
+            "stone walls with rough texture"
+        ],
+        "walls": [
+            "visible in background, textured and stained"
+        ],
+        "floor": [
+            "not clearly visible"
+        ],
+        "background": [
+            "stone wall with blood splatters"
+        ]
+    },
+    {
+        "id": "ENV_020",
+        "name": "outdoor courtyard or stone structure",
+        "scenes": [
+            23
+        ],
+        "architecture": [
+            "stone walls with visible masonry, possibly part of a castle or fortress"
+        ],
+        "walls": [
+            "rough-hewn stone blocks, weathered texture, vertical seams between stones"
+        ],
+        "floor": [
+            "not clearly visible"
+        ],
+        "background": [
+            "stone wall behind characters, slightly out of focus"
+        ]
+    },
+    {
+        "id": "ENV_021",
+        "name": "indeterminate outdoor or semi-outdoor setting",
+        "scenes": [
+            24
+        ],
+        "architecture": [
+            "stone walls visible in background"
+        ],
+        "walls": [
+            "rough-textured stone surfaces"
+        ],
+        "floor": [
+            "not clearly visible"
+        ],
+        "background": [
+            "blurred stone wall structure"
+        ]
+    },
+    {
+        "id": "ENV_022",
+        "name": "stone dungeon or prison cell",
+        "scenes": [
+            25
+        ],
+        "architecture": [
+            "rough stone walls, narrow space"
+        ],
+        "walls": [
+            "weathered stone, stained with blood"
+        ],
+        "floor": [
+            "stone, covered in blood and grime"
+        ],
+        "background": [
+            "blood-stained stone surfaces"
+        ]
+    },
+    {
+        "id": "ENV_023",
+        "name": "ancient stone structure",
+        "scenes": [
+            26
+        ],
+        "architecture": [
+            "stone walls with arched openings or windows"
+        ],
+        "walls": [
+            "rough-hewn stone blocks, light beige/tan color"
+        ],
+        "floor": [
+            "stone surface, partially visible"
+        ],
+        "background": [
+            "stone architecture, possibly a tower or fortress interior"
+        ]
+    },
+    {
+        "id": "ENV_024",
+        "name": "indistinct outdoor or semi-outdoor setting",
+        "scenes": [
+            27
+        ],
+        "architecture": [
+            "uncertain; background is blurred and indistinct"
+        ],
+        "walls": [
+            "none clearly visible"
+        ],
+        "floor": [
+            "ground surface, possibly dirt or stone"
+        ],
+        "background": [
+            "blurred figures in armor, suggesting a camp or battlefield setting"
+        ]
+    },
+    {
+        "id": "ENV_025",
+        "name": "ancient arena or battlefield",
+        "scenes": [
+            28
+        ],
+        "architecture": [
+            "indistinct stone structures in background"
+        ],
+        "walls": [
+            "blurred, possibly stone walls"
+        ],
+        "floor": [
+            "flat, light-colored surface (dirt/sand)"
+        ],
+        "background": [
+            "out-of-focus figures and architecture"
+        ]
+    },
+    {
+        "id": "ENV_026",
+        "name": "uncertain",
+        "scenes": [
+            29,
+            37
+        ],
+        "architecture": [
+            "none visible"
+        ],
+        "walls": [
+            "none visible"
+        ],
+        "floor": [
+            "textured fabric surface (possibly rug or blanket)",
+            "white or light-colored surface beneath"
+        ],
+        "background": [
+            "blurred, neutral tones",
+            "neutral, indistinct background with soft lighting"
+        ]
+    },
+    {
+        "id": "ENV_027",
+        "name": "ancient interior space, possibly a room in a house or cave dwelling",
+        "scenes": [
+            30
+        ],
+        "architecture": [
+            "simple, rustic structure with rough walls"
+        ],
+        "walls": [
+            "rough-textured, earthen or stone-like material"
+        ],
+        "floor": [
+            "covered with woven mats or rugs"
+        ],
+        "background": [
+            "contains pottery vessels and simple furniture"
+        ]
+    },
+    {
+        "id": "ENV_028",
+        "name": "ancient interior space, likely a room in a house or cave dwelling",
+        "scenes": [
+            31
+        ],
+        "architecture": [
+            "rough stone walls, simple construction"
+        ],
+        "walls": [
+            "textured stone surfaces, uneven and aged appearance"
+        ],
+        "floor": [
+            "earthen or dirt floor covered with woven matting"
+        ],
+        "background": [
+            "simple furnishings including pottery vessels and wooden table"
+        ]
+    },
+    {
+        "id": "ENV_029",
+        "name": "ancient interior room",
+        "scenes": [
+            32,
+            33
+        ],
+        "architecture": [
+            "simple stone or plaster walls, rough texture",
+            "simple, rustic structure with rough walls"
+        ],
+        "walls": [
+            "textured, possibly stone or mud-plaster, warm-toned",
+            "textured, uneven surface, possibly stone or plaster"
+        ],
+        "floor": [
+            "earthen or stone floor, textured surface",
+            "uncertain, not clearly visible"
+        ],
+        "background": [
+            "dimly lit background with a hanging oil lamp and large ceramic jar",
+            "dimly lit room with a doorway leading to another space"
+        ]
+    },
+    {
+        "id": "ENV_030",
+        "name": "indoor setting, possibly a room or courtyard",
+        "scenes": [
+            34,
+            35
+        ],
+        "architecture": [
+            "stone or plaster walls, rough texture",
+            "uncertain; walls appear rough-textured"
+        ],
+        "walls": [
+            "textured, warm-toned, appear aged",
+            "visible on left and background; texture suggests stone or plaster"
+        ],
+        "floor": [
+            "flat, stone or hard surface",
+            "not clearly visible"
+        ],
+        "background": [
+            "dimly lit, indistinct shapes suggesting architectural elements",
+            "outdoor view through opening, hazy, possibly desert-like landscape"
+        ]
+    }
+]

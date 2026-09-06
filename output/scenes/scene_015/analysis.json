@@ -1,0 +1,93 @@
+{
+    "scene": 15,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, bearded, disheveled hair, bloody face and torso",
+            "clothing": "tattered brown cloth around waist",
+            "position": "lying on ground",
+            "posture": "supine, one arm extended upward gripping a post",
+            "actions": "screaming in agony, body contorted by force",
+            "interactions": "clinging to a wooden post while being pulled or crushed"
+        }
+    ],
+    "environment": {
+        "location": "outdoor public square or courtyard",
+        "interior_exterior": "exterior",
+        "architecture": "stone-paved ground, large cylindrical wooden post with metal bands",
+        "walls": "none visible in frame",
+        "floor": "large stone tiles arranged in a grid pattern",
+        "ceiling": "not visible",
+        "background": "paved ground extending into distance, no distinct background elements",
+        "depth": "moderate depth shown from foreground post to mid-ground body"
+    },
+    "objects": [
+        {
+            "name": "wooden post",
+            "position": "left side of frame, vertical",
+            "apparent_material": "weathered wood with metal bands and rings",
+            "importance_for_reconstruction": "central object causing physical stress on character"
+        },
+        {
+            "name": "blood",
+            "position": "on character's body, face, floor, and post",
+            "apparent_material": "liquid, viscous, dark red",
+            "importance_for_reconstruction": "key visual element indicating violence and injury"
+        },
+        {
+            "name": "metal bands/rings",
+            "position": "around wooden post",
+            "apparent_material": "blackened metal, possibly iron or steel",
+            "importance_for_reconstruction": "structural detail of the post, may indicate mechanism for pulling"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up to extreme close-up sequence",
+        "angle": "low angle looking up at character and post",
+        "height": "eye level with character's torso/head",
+        "composition": "character dominates right side, post on left; later frames focus tightly on face and arm",
+        "perspective": "slightly distorted due to extreme close-ups and motion blur",
+        "movement": "pushes in from wide shot to tight close-up; slight shake or motion blur suggests rapid movement or impact",
+        "estimated_focal_length": "35mm equivalent for initial frames, 85mm+ for final close-up"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "overhead, slightly from upper left",
+        "intensity": "moderate to bright, high contrast between light and shadow",
+        "softness": "hard shadows due to direct sunlight",
+        "color_temperature": "cool daylight with strong reds from blood",
+        "shadows": "deep under post, beneath character's body",
+        "mood": "gritty, violent, urgent"
+    },
+    "visual_style": "hyper-realistic action sequence with emphasis on gore and physical trauma; cinematic color grading with desaturated tones punctuated by vivid reds; dynamic camera work enhancing sense of violence and helplessness",
+    "3d_reconstruction": {
+        "important_assets": [
+            "character model (male, bearded)",
+            "wooden post with metal bands",
+            "blood simulation system",
+            "stone floor texture"
+        ],
+        "materials": [
+            "wet skin",
+            "tattered fabric",
+            "weathered wood",
+            "metallic iron/steel",
+            "liquid blood",
+            "stone tile"
+        ],
+        "geometry": [
+            "human anatomy (torso, arms, head)",
+            "cylindrical post with bands",
+            "paved floor plane",
+            "blood splatter geometry"
+        ],
+        "existing_assets": [
+            "generic male character rig",
+            "stone environment pack",
+            "blood particle system",
+            "wooden structure assets"
+        ]
+    }
+}

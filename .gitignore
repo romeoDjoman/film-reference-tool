@@ -22,9 +22,6 @@ videos/
 *.mkv
 *.mov
 
-# Output data (generated, can be reproduced)
-output/
-
 # IDE
 .vscode/
 .idea/

@@ -1,0 +1,98 @@
+{
+    "scene": 25,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, dark curly hair, beard, bloody face and chest",
+            "clothing": "shirtless",
+            "position": "lying on back",
+            "posture": "supine, head tilted back",
+            "actions": "passive, eyes closed or barely open",
+            "interactions": "none"
+        },
+        {
+            "role": "aggressor",
+            "appearance": "older male, white hair, grimacing face",
+            "clothing": "brown leather armor with metal studs",
+            "position": "standing over victim",
+            "posture": "leaning forward, arm extended",
+            "actions": "wielding a weapon (claws/gauntlets), striking or about to strike",
+            "interactions": "attacking the victim"
+        }
+    ],
+    "environment": {
+        "location": "stone dungeon or prison cell",
+        "interior_exterior": "interior",
+        "architecture": "rough stone walls, narrow space",
+        "walls": "weathered stone, stained with blood",
+        "floor": "stone, covered in blood and grime",
+        "ceiling": "uncertain",
+        "background": "blood-stained stone surfaces",
+        "depth": "shallow depth of field on victim, background slightly out of focus"
+    },
+    "objects": [
+        {
+            "name": "clawed gauntlet/weapon",
+            "position": "held by aggressor, extended toward victim",
+            "apparent_material": "metallic with leather straps",
+            "importance_for_reconstruction": "high - key prop for action"
+        },
+        {
+            "name": "chains",
+            "position": "visible on left side of frame near victim",
+            "apparent_material": "metal, rusted",
+            "importance_for_reconstruction": "medium - suggests captivity"
+        }
+    ],
+    "camera": {
+        "shot_type": "close-up to medium close-up",
+        "angle": "low angle looking up at victim, then shifts to side view of aggressor",
+        "height": "eye level with victim's head",
+        "composition": "tight framing on faces and upper bodies",
+        "perspective": "slightly distorted due to proximity",
+        "movement": "uncertain - frames suggest slight pan or cut between characters",
+        "estimated_focal_length": "85mm"
+    },
+    "lighting": {
+        "sources": [
+            "ambient light from above",
+            "possible torch or fire source off-screen right (seen in aggressor shot)"
+        ],
+        "direction": "from above and slightly behind camera",
+        "intensity": "moderate, dramatic",
+        "softness": "mixed - some soft areas on skin, harsher on armor",
+        "color_temperature": "warm with red/purple tint from blood and lighting",
+        "shadows": "deep shadows under chin, nose, and in crevices",
+        "mood": "gritty, violent, tense"
+    },
+    "visual_style": "realistic, gritty, high-contrast, cinematic violence with emphasis on texture and detail",
+    "3d_reconstruction": {
+        "important_assets": [
+            "human anatomy (skin, muscle)",
+            "blood simulation",
+            "leather armor with metal studs",
+            "stone textures",
+            "metallic gauntlet/weapon"
+        ],
+        "materials": [
+            "wet blood",
+            "dried blood stains",
+            "rough stone",
+            "leather",
+            "metal (rusted and polished)",
+            "skin with injury details"
+        ],
+        "geometry": [
+            "human head and torso",
+            "stone wall geometry",
+            "gauntlet shape",
+            "chain links"
+        ],
+        "existing_assets": [
+            "character rig for human male",
+            "armor template with studs",
+            "blood particle system",
+            "stone texture pack"
+        ]
+    }
+}

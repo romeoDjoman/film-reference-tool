@@ -1,0 +1,164 @@
+{
+    "scene": 3,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, dark hair, covered in blood",
+            "clothing": "loose tunic",
+            "position": "center-left, on the ground",
+            "posture": "lying prone, arms raised holding a stone",
+            "actions": "being tortured",
+            "interactions": "holding onto a large stone block"
+        },
+        {
+            "role": "torturer 1",
+            "appearance": "bald male",
+            "clothing": "brown tunic, leather armor plates",
+            "position": "left of victim",
+            "posture": "standing, leaning over",
+            "actions": "overseeing the torture",
+            "interactions": "supervising the execution"
+        },
+        {
+            "role": "torturer 2",
+            "appearance": "bald male",
+            "clothing": "brown tunic, leather armor plates",
+            "position": "center-right, bent over",
+            "posture": "bent forward at the waist",
+            "actions": "holding a weapon (likely a mace or club)",
+            "interactions": "preparing to strike"
+        },
+        {
+            "role": "torturer 3",
+            "appearance": "male with dark hair",
+            "clothing": "brown tunic, leather armor plates",
+            "position": "right side, near table",
+            "posture": "standing, leaning on table",
+            "actions": "observing",
+            "interactions": "watching the scene"
+        },
+        {
+            "role": "spectators",
+            "appearance": "multiple males in Roman-style armor",
+            "clothing": "various leather and metal armor, tunics",
+            "position": "background, surrounding the central area",
+            "posture": "standing, some with arms crossed",
+            "actions": "watching the execution",
+            "interactions": "observing from a distance"
+        },
+        {
+            "role": "officer group",
+            "appearance": "three males in detailed Roman armor",
+            "clothing": "elaborate leather and metal breastplates, helmets",
+            "position": "foreground right (in later frames)",
+            "posture": "standing at attention",
+            "actions": "watching intently",
+            "interactions": "supervising the execution"
+        }
+    ],
+    "environment": {
+        "location": "Roman courtyard or public square",
+        "interior_exterior": "exterior",
+        "architecture": "stone-paved ground, stone walls in background",
+        "walls": "rough-hewn stone blocks visible in background",
+        "floor": "large rectangular stone tiles arranged in a grid pattern",
+        "ceiling": "not visible (open sky implied)",
+        "background": "gravel/dirt area beyond the paved square, stone wall with torches",
+        "depth": "deep field of view showing foreground action and background spectators"
+    },
+    "objects": [
+        {
+            "name": "stone block",
+            "position": "center-left, on ground",
+            "apparent_material": "rough-hewn stone",
+            "importance_for_reconstruction": "central prop for torture device"
+        },
+        {
+            "name": "wooden table",
+            "position": "right side of frame",
+            "apparent_material": "wood with metal supports",
+            "importance_for_reconstruction": "holds items like helmet and writing tools"
+        },
+        {
+            "name": "small side table",
+            "position": "far right",
+            "apparent_material": "metal or wood with ornate legs",
+            "importance_for_reconstruction": "contains a helmet"
+        },
+        {
+            "name": "helmet",
+            "position": "on small side table and on ground near table",
+            "apparent_material": "metal, polished",
+            "importance_for_reconstruction": "prop for Roman setting"
+        },
+        {
+            "name": "weapon (mace/club)",
+            "position": "held by torturer 2",
+            "apparent_material": "wood and metal",
+            "importance_for_reconstruction": "key prop for action sequence"
+        },
+        {
+            "name": "torch",
+            "position": "mounted on wall in background",
+            "apparent_material": "metal holder with flame",
+            "importance_for_reconstruction": "lighting source and atmospheric element"
+        }
+    ],
+    "camera": {
+        "shot_type": "wide shot transitioning to medium shot",
+        "angle": "high angle looking down at the scene",
+        "height": "elevated, approximately 2-3 meters above ground",
+        "composition": "symmetrical arrangement of characters around central action",
+        "perspective": "slightly angled downward to capture full context",
+        "movement": "static in first four frames, then cuts to different angle",
+        "estimated_focal_length": "24mm - 35mm (wide angle for environmental context)"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight",
+            "torch flames on walls"
+        ],
+        "direction": "overhead natural light with some side lighting from torches",
+        "intensity": "moderate, clear visibility of details",
+        "softness": "mixed - hard shadows from armor and soft ambient fill",
+        "color_temperature": "cool daylight with warm accents from blood and torches",
+        "shadows": "distinct shadows under characters and objects",
+        "mood": "tense, grim, historical"
+    },
+    "visual_style": {
+        "realism": "highly realistic, period-accurate costumes and props",
+        "color_palette": "earthy tones (browns, grays) with strong red from blood",
+        "contrast": "moderate contrast, naturalistic exposure",
+        "atmosphere": "oppressive, violent, historical drama",
+        "cinematic_characteristics": "film grain, natural lighting, authentic period detail"
+    },
+    "3d_reconstruction": {
+        "important_assets": [
+            "stone floor tiles",
+            "Roman armor models",
+            "torture device (stone block)",
+            "wooden tables",
+            "helmet props",
+            "torch fixtures on wall"
+        ],
+        "materials": [
+            "stone (rough and polished)",
+            "leather (weathered, textured)",
+            "metal (armor plates, helmets)",
+            "wood (tables, weapons)",
+            "blood (viscous, spreading)"
+        ],
+        "geometry": [
+            "low-poly characters with detailed armor",
+            "procedural stone floor pattern",
+            "simple table geometry with ornate details",
+            "torched wall fixtures"
+        ],
+        "existing_assets": [
+            "Roman soldier models (common in game engines)",
+            "stone texture packs for historical settings",
+            "armor plate UV maps",
+            "basic table and chair geometry"
+        ]
+    }
+}

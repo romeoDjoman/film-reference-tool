@@ -1,0 +1,94 @@
+{
+    "scene": 24,
+    "characters": [
+        {
+            "role": "primary adult figure",
+            "appearance": "pale skin, dark eyes, hooded head covering",
+            "clothing": "black hooded garment",
+            "position": "left side of frame, behind the child",
+            "posture": "seated or standing still, looking forward",
+            "actions": "holding the child",
+            "interactions": "protective proximity to the child"
+        },
+        {
+            "role": "child character",
+            "appearance": "bald head, pale skin, small stature",
+            "clothing": "dark textured garment around shoulders",
+            "position": "center foreground, held by adult figure",
+            "posture": "upright, facing slightly right",
+            "actions": "looking around, hand near mouth",
+            "interactions": "being held and observed by the adult"
+        },
+        {
+            "role": "secondary adult figure",
+            "appearance": "brown hair, visible ear profile",
+            "clothing": "light-colored tunic under dark outer garment",
+            "position": "right edge of frame, partially visible",
+            "posture": "standing or seated, facing left toward center",
+            "actions": "observing the scene",
+            "interactions": "passive observer"
+        }
+    ],
+    "environment": {
+        "location": "indeterminate outdoor or semi-outdoor setting",
+        "interior_exterior": "uncertain, appears to be exterior with stone background",
+        "architecture": "stone walls visible in background",
+        "walls": "rough-textured stone surfaces",
+        "floor": "not clearly visible",
+        "ceiling": "not visible",
+        "background": "blurred stone wall structure",
+        "depth": "shallow depth of field, foreground characters sharp, background out of focus"
+    },
+    "objects": [
+        {
+            "name": "stone wall",
+            "position": "background throughout all frames",
+            "apparent_material": "weathered stone",
+            "importance_for_reconstruction": "establishes setting context"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up",
+        "angle": "eye-level to slightly above",
+        "height": "approximately chest-to-head level of seated subjects",
+        "composition": "rule of thirds with characters distributed across frame",
+        "perspective": "slight Dutch angle tilt in later frames",
+        "movement": "uncertain, possibly static or very slow pan",
+        "estimated_focal_length": "85mm"
+    },
+    "lighting": {
+        "sources": [
+            "primary key light from upper left",
+            "ambient fill from right side"
+        ],
+        "direction": "coming from upper-left at 45 degrees",
+        "intensity": "moderate, creating soft shadows",
+        "softness": "soft but directional",
+        "color_temperature": "cool, slightly desaturated tones",
+        "shadows": "subtle under chin and garment folds",
+        "mood": "somber, intimate, tense"
+    },
+    "visual_style": "cinematic realism with muted color palette, high contrast between dark clothing and pale skin, atmospheric lighting typical of period drama",
+    "3d_reconstruction": {
+        "important_assets": [
+            "character models (adult female, child, male partial)",
+            "stone wall texture",
+            "fabric materials (black hood, tunic)"
+        ],
+        "materials": [
+            "pale skin shader",
+            "dark matte fabric",
+            "weathered stone surface"
+        ],
+        "geometry": [
+            "human anatomy proportions",
+            "hooded garment topology",
+            "stone wall plane"
+        ],
+        "existing_assets": [
+            "generic human character rigs",
+            "period costume templates",
+            "stone texture libraries"
+        ]
+    }
+}

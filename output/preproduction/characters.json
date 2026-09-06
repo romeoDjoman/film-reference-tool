@@ -1,0 +1,1310 @@
+[
+    {
+        "id": "CHAR_001",
+        "name": "central authority figure / judge",
+        "appearances": [
+            1
+        ],
+        "descriptions": [
+            "middle-aged male, receding hairline, intense expression"
+        ],
+        "clothing": [
+            "leather armor with shoulder pauldrons, light-colored scarf or wrap around neck"
+        ],
+        "actions": [
+            "writing or signing documents, then raising hand to gesture"
+        ]
+    },
+    {
+        "id": "CHAR_002",
+        "name": "Roman soldiers / guards",
+        "appearances": [
+            1
+        ],
+        "descriptions": [
+            "multiple figures, muscular build, wearing similar leather armor"
+        ],
+        "clothing": [
+            "brown leather cuirasses with metal studs, some with red cloaks or sashes"
+        ],
+        "actions": [
+            "observing the scene; one guard on right holds chains"
+        ]
+    },
+    {
+        "id": "CHAR_003",
+        "name": "prisoner / condemned individual",
+        "appearances": [
+            1
+        ],
+        "descriptions": [
+            "male, dark hair, bare torso covered in blood and wounds"
+        ],
+        "clothing": [
+            "minimal clothing, only a small cloth around waist"
+        ],
+        "actions": [
+            "being tortured or executed; blood pooling on floor"
+        ]
+    },
+    {
+        "id": "CHAR_004",
+        "name": "victim",
+        "appearances": [
+            2,
+            3,
+            9,
+            10,
+            11,
+            12,
+            15,
+            16,
+            20,
+            22,
+            25,
+            26,
+            27
+        ],
+        "descriptions": [
+            "bearded male, face covered in blood and wounds",
+            "male, beard, disheveled hair, facial injuries",
+            "male, bearded, disheveled hair, bloody face and torso",
+            "male, dark curly hair, beard, bloody face and chest",
+            "male, dark curly hair, beard, bruised and bloody face, eyes closed or barely open",
+            "male, dark hair, beard, bloody face with visible wounds and bruising",
+            "male, dark hair, beard, covered in blood",
+            "male, dark hair, covered in blood",
+            "male, dark hair, covered in blood and scratches",
+            "male, dark hair, pale skin covered in blood and wounds",
+            "male, dark hair, shirtless, covered in blood and grime",
+            "male, long dark hair, beard, bloody face with bruised eye, shirtless",
+            "male, muscular, covered in blood and sweat"
+        ],
+        "clothing": [
+            "loose brown tunic/skirt",
+            "loose tunic",
+            "minimalist loincloth",
+            "none visible in close-up frames; later seen wearing brown tunic under armor",
+            "none visible in close-up; later shot shows bare leg with laced footwear",
+            "none visible on torso, possibly a loincloth or tattered garment at the bottom",
+            "none visible on upper body",
+            "shirtless",
+            "tattered brown cloth around waist",
+            "tattered brown loincloth",
+            "tattered loincloth",
+            "unclear (possibly disheveled)"
+        ],
+        "actions": [
+            "appearing to be in distress or dying",
+            "appearing unconscious or dying",
+            "appears unconscious or dying",
+            "being restrained by guards",
+            "being tortured",
+            "being tortured by a stone millstone",
+            "being tortured or restrained",
+            "being whipped or tortured; limbs are flailing and then still",
+            "passive, eyes closed or barely open",
+            "screaming in agony, body contorted by force",
+            "struggling against a stone block, being struck, falling back",
+            "unconscious or dying"
+        ]
+    },
+    {
+        "id": "CHAR_005",
+        "name": "guard",
+        "appearances": [
+            2
+        ],
+        "descriptions": [
+            "male, bald, wearing leather armor",
+            "male, muscular, bald or short hair",
+            "male, wearing brown tunic and leather armor",
+            "male, wearing dark leather armor with metal buckles"
+        ],
+        "clothing": [
+            "brown tunic with metal studs, leather shorts",
+            "brown tunic with metal studs, leather shorts, sandals",
+            "dark leather armor over brown tunic",
+            "leather armor with metal accents"
+        ],
+        "actions": [
+            "holding the victim down",
+            "leaning on a table",
+            "observing",
+            "observing the scene"
+        ]
+    },
+    {
+        "id": "CHAR_006",
+        "name": "torturer 1",
+        "appearances": [
+            3
+        ],
+        "descriptions": [
+            "bald male"
+        ],
+        "clothing": [
+            "brown tunic, leather armor plates"
+        ],
+        "actions": [
+            "overseeing the torture"
+        ]
+    },
+    {
+        "id": "CHAR_007",
+        "name": "torturer 2",
+        "appearances": [
+            3
+        ],
+        "descriptions": [
+            "bald male"
+        ],
+        "clothing": [
+            "brown tunic, leather armor plates"
+        ],
+        "actions": [
+            "holding a weapon (likely a mace or club)"
+        ]
+    },
+    {
+        "id": "CHAR_008",
+        "name": "torturer 3",
+        "appearances": [
+            3
+        ],
+        "descriptions": [
+            "male with dark hair"
+        ],
+        "clothing": [
+            "brown tunic, leather armor plates"
+        ],
+        "actions": [
+            "observing"
+        ]
+    },
+    {
+        "id": "CHAR_009",
+        "name": "spectators",
+        "appearances": [
+            3
+        ],
+        "descriptions": [
+            "multiple males in Roman-style armor"
+        ],
+        "clothing": [
+            "various leather and metal armor, tunics"
+        ],
+        "actions": [
+            "watching the execution"
+        ]
+    },
+    {
+        "id": "CHAR_010",
+        "name": "officer group",
+        "appearances": [
+            3
+        ],
+        "descriptions": [
+            "three males in detailed Roman armor"
+        ],
+        "clothing": [
+            "elaborate leather and metal breastplates, helmets"
+        ],
+        "actions": [
+            "watching intently"
+        ]
+    },
+    {
+        "id": "CHAR_011",
+        "name": "primary character",
+        "appearances": [
+            4,
+            5,
+            6,
+            8
+        ],
+        "descriptions": [
+            "bald man with blood on face and head",
+            "middle-aged man with short brown hair and a serious expression",
+            "middle-aged man with short brown hair and facial stubble",
+            "middle-aged man with short brown hair, pale skin"
+        ],
+        "clothing": [
+            "brown tunic, braided beige scarf, dark leather armor with metal studs",
+            "brown tunic, braided beige scarf, dark leather cuirass with shoulder guards and horizontal straps",
+            "brown tunic, leather armor vest with metal buckles, braided scarf",
+            "brown tunic, leather shoulder armor plates, beige cloth tied around neck"
+        ],
+        "actions": [
+            "expressing shock or distress, mouth open as if speaking or gasping",
+            "gesturing with open palm as if giving orders or making a point",
+            "gesturing with open palm, directing or commanding",
+            "looking forward with a serious expression"
+        ]
+    },
+    {
+        "id": "CHAR_012",
+        "name": "secondary character",
+        "appearances": [
+            4,
+            6,
+            34
+        ],
+        "descriptions": [
+            "male, curly hair, beard and mustache",
+            "man wearing a helmet",
+            "man wearing a helmet with a crest"
+        ],
+        "clothing": [
+            "brown tunic, dark leather cuirass with shoulder guards and vertical straps, studded belt",
+            "military-style attire, possibly armor",
+            "simple robe or tunic"
+        ],
+        "actions": [
+            "looking forward with a serious expression",
+            "observing the scene, out of focus"
+        ]
+    },
+    {
+        "id": "CHAR_013",
+        "name": "tertiary character",
+        "appearances": [
+            4
+        ],
+        "descriptions": [
+            "man wearing a helmet"
+        ],
+        "clothing": [
+            "brown tunic, dark leather cuirass with shoulder guards and horizontal straps"
+        ],
+        "actions": [
+            "none observed"
+        ]
+    },
+    {
+        "id": "CHAR_014",
+        "name": "background character",
+        "appearances": [
+            4
+        ],
+        "descriptions": [
+            "man wearing a helmet"
+        ],
+        "clothing": [
+            "brown tunic, dark leather cuirass with shoulder guards and horizontal straps"
+        ],
+        "actions": [
+            "none observed"
+        ]
+    },
+    {
+        "id": "CHAR_015",
+        "name": "secondary character (foreground)",
+        "appearances": [
+            5
+        ],
+        "descriptions": [
+            "bald man with blood on face and armor, surprised expression"
+        ],
+        "clothing": [
+            "similar leather armor with braided scarf"
+        ],
+        "actions": [
+            "reacting to the primary character's gesture"
+        ]
+    },
+    {
+        "id": "CHAR_016",
+        "name": "supporting characters (background)",
+        "appearances": [
+            5
+        ],
+        "descriptions": [
+            "men wearing Roman-style helmets and armor"
+        ],
+        "clothing": [
+            "metal helmets, leather armor, red cloaks"
+        ],
+        "actions": [
+            "observing the scene passively"
+        ]
+    },
+    {
+        "id": "CHAR_017",
+        "name": "gladiator",
+        "appearances": [
+            7,
+            17
+        ],
+        "descriptions": [
+            "bald, muscular, bloodied face and head",
+            "bald, muscular, wearing a braided cloth around the neck"
+        ],
+        "clothing": [
+            "brown tunic and dark leather armor with metal studs",
+            "brown tunic, leather armor vest"
+        ],
+        "actions": [
+            "grinning menacingly, looking at camera",
+            "wielding weapons, pointing, raising arms in celebration or aggression",
+            "wielding weapons, raising arms in celebration or aggression"
+        ]
+    },
+    {
+        "id": "CHAR_018",
+        "name": "commander",
+        "appearances": [
+            7
+        ],
+        "descriptions": [
+            "middle-aged, brown hair, stern expression"
+        ],
+        "clothing": [
+            "brown tunic, leather armor with metal buckles, scarf"
+        ],
+        "actions": [
+            "gesturing or commanding"
+        ]
+    },
+    {
+        "id": "CHAR_019",
+        "name": "soldiers",
+        "appearances": [
+            7
+        ],
+        "descriptions": [
+            "wearing helmets and armor"
+        ],
+        "clothing": [
+            "metallic helmets, leather armor"
+        ],
+        "actions": [
+            "observing the scene"
+        ]
+    },
+    {
+        "id": "CHAR_020",
+        "name": "soldier",
+        "appearances": [
+            8,
+            23
+        ],
+        "descriptions": [
+            "male, bald",
+            "male, light brown hair, weathered face, serious expression",
+            "male, wearing Roman-style helmet",
+            "male, wearing helmet"
+        ],
+        "clothing": [
+            "brown leather tunic with metal shoulder guards (scutum style), beige braided scarf wrapped around neck",
+            "leather armor",
+            "leather armor with metal shoulder piece",
+            "leather armor, red cape"
+        ],
+        "actions": [
+            "gesturing toward the bound figure",
+            "observing the scene",
+            "standing still, looking ahead with neutral expression"
+        ]
+    },
+    {
+        "id": "CHAR_021",
+        "name": "bound figure",
+        "appearances": [
+            8
+        ],
+        "descriptions": [
+            "person with dark hair, shirtless"
+        ],
+        "clothing": [
+            "tattered cloth around waist"
+        ],
+        "actions": [
+            "passive, restrained"
+        ]
+    },
+    {
+        "id": "CHAR_022",
+        "name": "guard/commander (left)",
+        "appearances": [
+            9
+        ],
+        "descriptions": [
+            "bald, muscular"
+        ],
+        "clothing": [
+            "Roman-style armor with brown tunic and leather straps"
+        ],
+        "actions": [
+            "gesturing towards the victim"
+        ]
+    },
+    {
+        "id": "CHAR_023",
+        "name": "guard/commander (center)",
+        "appearances": [
+            9
+        ],
+        "descriptions": [
+            "bald, muscular"
+        ],
+        "clothing": [
+            "Roman-style armor with brown tunic and leather straps"
+        ],
+        "actions": [
+            "watching the victim"
+        ]
+    },
+    {
+        "id": "CHAR_024",
+        "name": "guard/commander (right)",
+        "appearances": [
+            9
+        ],
+        "descriptions": [
+            "short dark hair"
+        ],
+        "clothing": [
+            "Roman-style armor with brown tunic and leather straps"
+        ],
+        "actions": [
+            "pointing or directing"
+        ]
+    },
+    {
+        "id": "CHAR_025",
+        "name": "guards (background)",
+        "appearances": [
+            9
+        ],
+        "descriptions": [
+            "various, some bald, some with hair"
+        ],
+        "clothing": [
+            "Roman-style armor and tunics"
+        ],
+        "actions": [
+            "watching the central action"
+        ]
+    },
+    {
+        "id": "CHAR_026",
+        "name": "soldier (foreground right)",
+        "appearances": [
+            9
+        ],
+        "descriptions": [
+            "wearing helmet"
+        ],
+        "clothing": [
+            "Roman armor"
+        ],
+        "actions": [
+            "observing"
+        ]
+    },
+    {
+        "id": "CHAR_027",
+        "name": "guard 1",
+        "appearances": [
+            10,
+            11
+        ],
+        "descriptions": [
+            "male, bald or short hair, muscular build",
+            "male, bald, muscular"
+        ],
+        "clothing": [
+            "brown tunic, dark knee-length trousers, sandals",
+            "brown tunic, leather armor plates on chest and shoulders, knee-high boots"
+        ],
+        "actions": [
+            "holding a weapon (possibly a sword or mace) and assisting in restraining the victim",
+            "holding a weapon (spear/staff), watching closely"
+        ]
+    },
+    {
+        "id": "CHAR_028",
+        "name": "guard 2",
+        "appearances": [
+            10,
+            11
+        ],
+        "descriptions": [
+            "male, dark hair, muscular",
+            "male, dark hair, muscular build"
+        ],
+        "clothing": [
+            "brown tunic, dark knee-length trousers, sandals",
+            "brown tunic, leather armor plates on chest and shoulders"
+        ],
+        "actions": [
+            "holding the victim's arms and chains",
+            "striking the victim with a weapon, pushing against the stone block"
+        ]
+    },
+    {
+        "id": "CHAR_029",
+        "name": "guard 3",
+        "appearances": [
+            10,
+            11
+        ],
+        "descriptions": [
+            "male, bald or short hair, muscular build",
+            "male, bald, muscular"
+        ],
+        "clothing": [
+            "brown tunic, dark knee-length trousers, sandals",
+            "brown tunic, leather armor plates on chest and shoulders"
+        ],
+        "actions": [
+            "watching the scene unfold"
+        ]
+    },
+    {
+        "id": "CHAR_030",
+        "name": "guard 4",
+        "appearances": [
+            10
+        ],
+        "descriptions": [
+            "male, partially visible on far left"
+        ],
+        "clothing": [
+            "brown tunic with metal studs, dark knee-length trousers"
+        ],
+        "actions": [
+            "observing"
+        ]
+    },
+    {
+        "id": "CHAR_031",
+        "name": "guard 5",
+        "appearances": [
+            10
+        ],
+        "descriptions": [
+            "male, partially visible on far right"
+        ],
+        "clothing": [
+            "brown tunic with metal studs, dark knee-length trousers"
+        ],
+        "actions": [
+            "observing"
+        ]
+    },
+    {
+        "id": "CHAR_032",
+        "name": "background figures",
+        "appearances": [
+            11
+        ],
+        "descriptions": [
+            "multiple males, similar attire"
+        ],
+        "clothing": [
+            "brown tunics, leather armor, sandals"
+        ],
+        "actions": [
+            "watching"
+        ]
+    },
+    {
+        "id": "CHAR_033",
+        "name": "guards/soldiers",
+        "appearances": [
+            12
+        ],
+        "descriptions": [
+            "multiple figures, male, wearing Roman-style armor"
+        ],
+        "clothing": [
+            "brown tunics, leather armor plates, studded belts, sandals"
+        ],
+        "actions": [
+            "watching the victim; one guard is partially visible on the left holding a whip-like object"
+        ]
+    },
+    {
+        "id": "CHAR_034",
+        "name": "Roman soldier",
+        "appearances": [
+            13,
+            14,
+            19,
+            36
+        ],
+        "descriptions": [
+            "Male, clean-shaven, wearing a metal helmet with cheek guards and a crest.",
+            "Male, middle-aged, short brown hair, clean-shaven",
+            "Male, middle-aged, short brown hair, intense expression",
+            "Male, muscular build, helmet with crest, beard",
+            "Male, muscular build, wearing a lion emblem on chest.",
+            "Male, partially visible on the left edge",
+            "Male, short brown hair, serious expression.",
+            "male, wearing full armor including breastplate and greaves"
+        ],
+        "clothing": [
+            "Brown leather armor with metal shoulder pieces, red cape.",
+            "Brown leather armor with metal shoulder plates, beige braided scarf.",
+            "Brown tunic, leather armor",
+            "Brown tunic, leather armor with metal studs and shoulder guards, rope tied around neck",
+            "Brown tunic, leather armor with shoulder guards and chest plates, braided rope around neck",
+            "Brown tunic, leather armor, shoulder guards, chest plates",
+            "Metallic breastplate with shoulder armor (scutum style), red cape, beige scarf.",
+            "brown tunic, red cape, metal armor with studs, sandals"
+        ],
+        "actions": [
+            "Holding an object in right hand; observing the scene.",
+            "Looking slightly to the right, expression neutral to faintly smiling.",
+            "Partially obscured by foreground motion",
+            "Watching intently, slight frown",
+            "Watching the action unfold, expression shifts from neutral to grimacing",
+            "Watching the scene with a stern expression.",
+            "approaching the fallen figure"
+        ]
+    },
+    {
+        "id": "CHAR_035",
+        "name": "Roman soldier (foreground)",
+        "appearances": [
+            13
+        ],
+        "descriptions": [
+            "Male, partially visible"
+        ],
+        "clothing": [
+            "Brown tunic, leather armor"
+        ],
+        "actions": [
+            "Swinging arm/weapon in motion blur"
+        ]
+    },
+    {
+        "id": "CHAR_036",
+        "name": "Roman soldier (background)",
+        "appearances": [
+            13
+        ],
+        "descriptions": [
+            "Male, partially visible"
+        ],
+        "clothing": [
+            "Brown tunic, leather armor"
+        ],
+        "actions": [
+            "Watching intently"
+        ]
+    },
+    {
+        "id": "CHAR_037",
+        "name": "Foreground figure",
+        "appearances": [
+            14
+        ],
+        "descriptions": [
+            "Male, muscular build, wearing dark armor with gold trim"
+        ],
+        "clothing": [
+            "Dark leather armor with gold detailing"
+        ],
+        "actions": [
+            "Moving quickly, possibly attacking or reacting to something"
+        ]
+    },
+    {
+        "id": "CHAR_038",
+        "name": "Fallen man",
+        "appearances": [
+            14
+        ],
+        "descriptions": [
+            "Male, shirtless, covered in blood"
+        ],
+        "clothing": [
+            "Tattered brown cloth around waist"
+        ],
+        "actions": [
+            "Appears unconscious or dead"
+        ]
+    },
+    {
+        "id": "CHAR_039",
+        "name": "guards / soldiers",
+        "appearances": [
+            16
+        ],
+        "descriptions": [
+            "two bald males, muscular build, facial hair"
+        ],
+        "clothing": [
+            "brown tunics with leather armor plates over shoulders and chest"
+        ],
+        "actions": [
+            "appearing triumphant or shouting"
+        ]
+    },
+    {
+        "id": "CHAR_040",
+        "name": "gladiator/opponent",
+        "appearances": [
+            17
+        ],
+        "descriptions": [
+            "bearded, long dark hair, covered in blood"
+        ],
+        "clothing": [
+            "shirtless"
+        ],
+        "actions": [
+            "appearing defeated or dying"
+        ]
+    },
+    {
+        "id": "CHAR_041",
+        "name": "victim / protagonist",
+        "appearances": [
+            18,
+            37
+        ],
+        "descriptions": [
+            "male, bearded, disheveled hair, facial injuries including bruising and blood, eyes open but unresponsive or dying",
+            "male, dark wavy hair, beard, bloody face and chest"
+        ],
+        "clothing": [
+            "none visible (shirtless)",
+            "shirtless"
+        ],
+        "actions": [
+            "eyes open then closing, mouth slightly open, appearing injured or dying",
+            "passive, possibly unconscious or near death"
+        ]
+    },
+    {
+        "id": "CHAR_042",
+        "name": "observer / antagonist",
+        "appearances": [
+            18
+        ],
+        "descriptions": [
+            "male, wearing Roman-style armor and helmet"
+        ],
+        "clothing": [
+            "metal breastplate, red cape, scarf"
+        ],
+        "actions": [
+            "smiling slightly, looking at the victim"
+        ]
+    },
+    {
+        "id": "CHAR_043",
+        "name": "Woman",
+        "appearances": [
+            19
+        ],
+        "descriptions": [
+            "Female, pale skin, dark hair under a black hood."
+        ],
+        "clothing": [
+            "Black hooded cloak, visible hands with painted nails."
+        ],
+        "actions": [
+            "Holding and cradling an infant; touching her face near the baby's head."
+        ]
+    },
+    {
+        "id": "CHAR_044",
+        "name": "Infant",
+        "appearances": [
+            19,
+            23
+        ],
+        "descriptions": [
+            "Bald, pale skin, wrapped in black fabric.",
+            "bald, pale skin, small size, appears very young"
+        ],
+        "clothing": [
+            "Wrapped in black cloth/blanket.",
+            "wrapped in dark fabric (possibly black fur or wool)"
+        ],
+        "actions": [
+            "Being held; eyes closed or looking up.",
+            "passive, being held"
+        ]
+    },
+    {
+        "id": "CHAR_045",
+        "name": "Dead man",
+        "appearances": [
+            19
+        ],
+        "descriptions": [
+            "Male, long dark hair, beard, bloodied face and chest."
+        ],
+        "clothing": [
+            "None visible (shirtless), covered in blood."
+        ],
+        "actions": [
+            "Dead or dying; mouth open as if gasping."
+        ]
+    },
+    {
+        "id": "CHAR_046",
+        "name": "aggressor",
+        "appearances": [
+            20,
+            25
+        ],
+        "descriptions": [
+            "male, shaved head, bloody face, muscular build",
+            "older male, white hair, grimacing face"
+        ],
+        "clothing": [
+            "brown leather armor with metal studs",
+            "brown tunic with leather armor straps over shoulder"
+        ],
+        "actions": [
+            "wielding a sword, aggressive expression",
+            "wielding a weapon (claws/gauntlets), striking or about to strike"
+        ]
+    },
+    {
+        "id": "CHAR_047",
+        "name": "combatant",
+        "appearances": [
+            21,
+            26
+        ],
+        "descriptions": [
+            "bald male, muscular build, blood on face and arms",
+            "bald, muscular, facial blood and grime",
+            "bald, muscular, older male, facial blood and grime",
+            "bearded male, dark curly hair, blood covering face and upper body"
+        ],
+        "clothing": [
+            "brown leather segmented armor with metal studs, cloth scarf/turban",
+            "brown tunic, dark segmented armor plates over shoulders, braided cloth around neck",
+            "shirtless or minimal clothing (only torso visible)",
+            "similar brown leather armor"
+        ],
+        "actions": [
+            "appears defeated or dying, blood pooling around him",
+            "being struck or reacting to attack",
+            "struggling, grimacing in exertion or pain, raising weapon",
+            "wielding a weapon (possibly a whip or spiked club), striking or lunging"
+        ]
+    },
+    {
+        "id": "CHAR_048",
+        "name": "observer 1",
+        "appearances": [
+            22
+        ],
+        "descriptions": [
+            "female, pale skin, dark hooded cloak"
+        ],
+        "clothing": [
+            "black hooded robe"
+        ],
+        "actions": [
+            "looking down with somber expression"
+        ]
+    },
+    {
+        "id": "CHAR_049",
+        "name": "observer 2",
+        "appearances": [
+            22
+        ],
+        "descriptions": [
+            "male, short brown hair, stern expression"
+        ],
+        "clothing": [
+            "leather armor with straps and buckles, beige scarf"
+        ],
+        "actions": [
+            "looking down at victim with serious expression"
+        ]
+    },
+    {
+        "id": "CHAR_050",
+        "name": "child",
+        "appearances": [
+            22
+        ],
+        "descriptions": [
+            "bald or very short hair, pale skin"
+        ],
+        "clothing": [
+            "wrapped in black cloth"
+        ],
+        "actions": [
+            "passive"
+        ]
+    },
+    {
+        "id": "CHAR_051",
+        "name": "nurse",
+        "appearances": [
+            23
+        ],
+        "descriptions": [
+            "female, pale skin, dark hair under a hood, gaunt features"
+        ],
+        "clothing": [
+            "black hooded cloak with fur trim"
+        ],
+        "actions": [
+            "holding an infant close to her chest, one hand supporting the child's head and back, other hand resting on the child's torso"
+        ]
+    },
+    {
+        "id": "CHAR_052",
+        "name": "primary adult figure",
+        "appearances": [
+            24
+        ],
+        "descriptions": [
+            "pale skin, dark eyes, hooded head covering"
+        ],
+        "clothing": [
+            "black hooded garment"
+        ],
+        "actions": [
+            "holding the child"
+        ]
+    },
+    {
+        "id": "CHAR_053",
+        "name": "child character",
+        "appearances": [
+            24
+        ],
+        "descriptions": [
+            "bald head, pale skin, small stature"
+        ],
+        "clothing": [
+            "dark textured garment around shoulders"
+        ],
+        "actions": [
+            "looking around, hand near mouth"
+        ]
+    },
+    {
+        "id": "CHAR_054",
+        "name": "secondary adult figure",
+        "appearances": [
+            24
+        ],
+        "descriptions": [
+            "brown hair, visible ear profile"
+        ],
+        "clothing": [
+            "light-colored tunic under dark outer garment"
+        ],
+        "actions": [
+            "observing the scene"
+        ]
+    },
+    {
+        "id": "CHAR_055",
+        "name": "observer / aggressor (implied)",
+        "appearances": [
+            27
+        ],
+        "descriptions": [
+            "unclear; only partial body visible in foreground"
+        ],
+        "clothing": [
+            "indistinct; later shot shows armored leg with greaves and laced boots"
+        ],
+        "actions": [
+            "observing or standing over victim"
+        ]
+    },
+    {
+        "id": "CHAR_056",
+        "name": "combatant / gladiator",
+        "appearances": [
+            28,
+            36
+        ],
+        "descriptions": [
+            "male, bearded, bloody face and body, lying prone on the ground",
+            "male, bearded, covered in blood and sweat"
+        ],
+        "clothing": [
+            "ancient sandals with leather straps",
+            "none visible in close-up; earlier frames show leather sandals"
+        ],
+        "actions": [
+            "motionless or dying",
+            "walking or standing, later shown injured on the ground"
+        ]
+    },
+    {
+        "id": "CHAR_057",
+        "name": "background figures / soldiers",
+        "appearances": [
+            28
+        ],
+        "descriptions": [
+            "blurred, indistinct forms"
+        ],
+        "clothing": [
+            "similar ancient attire"
+        ],
+        "actions": [
+            "uncertain"
+        ]
+    },
+    {
+        "id": "CHAR_058",
+        "name": "victim / injured person",
+        "appearances": [
+            29
+        ],
+        "descriptions": [
+            "male, dark curly hair, beard, facial injuries including a large laceration near the mouth and bruising around the eyes"
+        ],
+        "clothing": [
+            "none visible in frame"
+        ],
+        "actions": [
+            "passive, motionless"
+        ]
+    },
+    {
+        "id": "CHAR_059",
+        "name": "observer / second character",
+        "appearances": [
+            29
+        ],
+        "descriptions": [
+            "unclear, only partial body visible"
+        ],
+        "clothing": [
+            "black sandals on one foot, barefoot on other"
+        ],
+        "actions": [
+            "observing the injured person"
+        ]
+    },
+    {
+        "id": "CHAR_060",
+        "name": "servant",
+        "appearances": [
+            30,
+            32
+        ],
+        "descriptions": [
+            "male, dark hair, beard, long hair reaching shoulders",
+            "male, long dark hair, beard, wearing a textured robe"
+        ],
+        "clothing": [
+            "dark textured robe or tunic",
+            "dark, textured robe with long sleeves"
+        ],
+        "actions": [
+            "holding a bowl, pouring water, washing another character's feet",
+            "washing another character's feet"
+        ]
+    },
+    {
+        "id": "CHAR_061",
+        "name": "recipient",
+        "appearances": [
+            30,
+            32
+        ],
+        "descriptions": [
+            "male, short dark hair, beard",
+            "uncertain gender/age, barefoot"
+        ],
+        "clothing": [
+            "dark robe or garment covering lower body",
+            "dark robe or tunic"
+        ],
+        "actions": [
+            "having feet washed",
+            "receiving foot washing"
+        ]
+    },
+    {
+        "id": "CHAR_062",
+        "name": "observer",
+        "appearances": [
+            30
+        ],
+        "descriptions": [
+            "male, long hair, beard"
+        ],
+        "clothing": [
+            "light-colored robe"
+        ],
+        "actions": [
+            "watching the scene unfold"
+        ]
+    },
+    {
+        "id": "CHAR_063",
+        "name": "primary figure (Jesus)",
+        "appearances": [
+            31
+        ],
+        "descriptions": [
+            "male, long dark hair, beard"
+        ],
+        "clothing": [
+            "dark textured robe with visible inner garment"
+        ],
+        "actions": [
+            "washing another person's feet, then holding a foot up"
+        ]
+    },
+    {
+        "id": "CHAR_064",
+        "name": "standing figure (disciple)",
+        "appearances": [
+            31
+        ],
+        "descriptions": [
+            "male, partially obscured by robe"
+        ],
+        "clothing": [
+            "dark robe covering lower body"
+        ],
+        "actions": [
+            "having feet washed, then kneeling before the primary figure"
+        ]
+    },
+    {
+        "id": "CHAR_065",
+        "name": "seated observer (disciple)",
+        "appearances": [
+            31
+        ],
+        "descriptions": [
+            "male, long hair, beard"
+        ],
+        "clothing": [
+            "light-colored robe"
+        ],
+        "actions": [
+            "watching the foot washing ritual"
+        ]
+    },
+    {
+        "id": "CHAR_066",
+        "name": "primary speaker",
+        "appearances": [
+            33
+        ],
+        "descriptions": [
+            "male, long dark hair, beard, facial hair"
+        ],
+        "clothing": [
+            "dark textured robe or tunic"
+        ],
+        "actions": [
+            "looking intently at the other character, speaking"
+        ]
+    },
+    {
+        "id": "CHAR_067",
+        "name": "listener",
+        "appearances": [
+            33
+        ],
+        "descriptions": [
+            "male, curly hair, beard"
+        ],
+        "clothing": [
+            "dark robe or tunic"
+        ],
+        "actions": [
+            "listening attentively"
+        ]
+    },
+    {
+        "id": "CHAR_068",
+        "name": "primary subject",
+        "appearances": [
+            34
+        ],
+        "descriptions": [
+            "male, long wavy hair, beard and mustache, clean-shaven chin"
+        ],
+        "clothing": [
+            "dark textured robe or tunic"
+        ],
+        "actions": [
+            "looking down with a somber expression, then turns his gaze upward and to the left"
+        ]
+    },
+    {
+        "id": "CHAR_069",
+        "name": "primary",
+        "appearances": [
+            35
+        ],
+        "descriptions": [
+            "male, long wavy brown hair, beard and mustache"
+        ],
+        "clothing": [
+            "dark textured robe or tunic"
+        ],
+        "actions": [
+            "speaking, facial expressions change from neutral to smiling"
+        ]
+    },
+    {
+        "id": "CHAR_070",
+        "name": "secondary",
+        "appearances": [
+            35
+        ],
+        "descriptions": [
+            "male, partially visible on the right"
+        ],
+        "clothing": [
+            "dark garment"
+        ],
+        "actions": [
+            "uncertain, mostly out of frame"
+        ]
+    },
+    {
+        "id": "CHAR_071",
+        "name": "Roman soldier (secondary)",
+        "appearances": [
+            36
+        ],
+        "descriptions": [
+            "male, similar armor to first soldier"
+        ],
+        "clothing": [
+            "brown tunic, red cape, metal breastplate, sandals"
+        ],
+        "actions": [
+            "accompanying the central soldier"
+        ]
+    },
+    {
+        "id": "CHAR_072",
+        "name": "Roman soldier (third)",
+        "appearances": [
+            36
+        ],
+        "descriptions": [
+            "male, similar armor"
+        ],
+        "clothing": [
+            "brown tunic, red cape, sandals"
+        ],
+        "actions": [
+            "part of the group"
+        ]
+    }
+]

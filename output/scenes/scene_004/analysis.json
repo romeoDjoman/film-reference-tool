@@ -1,0 +1,150 @@
+{
+    "scene": 4,
+    "characters": [
+        {
+            "role": "primary character",
+            "appearance": "middle-aged man with short brown hair, pale skin",
+            "clothing": "brown tunic, braided beige scarf, dark leather cuirass with shoulder guards and horizontal straps",
+            "position": "center-left foreground, standing behind a table",
+            "posture": "standing upright, hands resting on the table",
+            "actions": "looking forward with a serious expression",
+            "interactions": "none observed"
+        },
+        {
+            "role": "secondary character",
+            "appearance": "man wearing a helmet",
+            "clothing": "brown tunic, dark leather cuirass with shoulder guards and vertical straps, studded belt",
+            "position": "center-right foreground, standing behind the table",
+            "posture": "standing with hands on hips",
+            "actions": "looking forward with a serious expression",
+            "interactions": "none observed"
+        },
+        {
+            "role": "tertiary character",
+            "appearance": "man wearing a helmet",
+            "clothing": "brown tunic, dark leather cuirass with shoulder guards and horizontal straps",
+            "position": "far right foreground, standing slightly behind the table",
+            "posture": "standing upright, looking forward",
+            "actions": "none observed",
+            "interactions": "none observed"
+        },
+        {
+            "role": "background character",
+            "appearance": "man wearing a helmet",
+            "clothing": "brown tunic, dark leather cuirass with shoulder guards and horizontal straps",
+            "position": "far left background, standing behind the table",
+            "posture": "standing upright",
+            "actions": "none observed",
+            "interactions": "none observed"
+        },
+        {
+            "role": "background character",
+            "appearance": "man wearing a helmet",
+            "clothing": "brown tunic, dark leather cuirass with shoulder guards and horizontal straps",
+            "position": "far left edge of frame, partially visible",
+            "posture": "standing upright",
+            "actions": "none observed",
+            "interactions": "none observed"
+        }
+    ],
+    "environment": {
+        "location": "stone courtyard or fortress interior",
+        "interior_exterior": "interior",
+        "architecture": "rough-hewn stone walls with visible mortar lines",
+        "walls": "large, irregularly shaped stone blocks forming the background",
+        "floor": "not clearly visible",
+        "ceiling": "not visible",
+        "background": "stone wall with mounted torches and spears",
+        "depth": "moderate depth with characters in foreground and background"
+    },
+    "objects": [
+        {
+            "name": "wooden table",
+            "position": "center foreground",
+            "apparent_material": "wood",
+            "importance_for_reconstruction": "high, serves as a focal point for the scene"
+        },
+        {
+            "name": "ceramic jug",
+            "position": "on the table, left side",
+            "apparent_material": "ceramic or clay",
+            "importance_for_reconstruction": "medium, adds to the period setting"
+        },
+        {
+            "name": "ceramic cups",
+            "position": "on the table, near the jug",
+            "apparent_material": "ceramic or clay",
+            "importance_for_reconstruction": "low, minor detail"
+        },
+        {
+            "name": "scroll",
+            "position": "on the table, center",
+            "apparent_material": "papyrus or parchment",
+            "importance_for_reconstruction": "medium, suggests a setting of command or decision-making"
+        },
+        {
+            "name": "helmet",
+            "position": "on the table, center-right",
+            "apparent_material": "metal",
+            "importance_for_reconstruction": "low, minor detail"
+        },
+        {
+            "name": "torch",
+            "position": "mounted on the wall, right side",
+            "apparent_material": "metal holder with flame",
+            "importance_for_reconstruction": "medium, provides light source and atmosphere"
+        },
+        {
+            "name": "spears",
+            "position": "leaning against the wall in background",
+            "apparent_material": "metal shafts with wooden handles",
+            "importance_for_reconstruction": "low, adds to the military setting"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium shot",
+        "angle": "eye level",
+        "height": "approximately waist height relative to characters",
+        "composition": "characters arranged horizontally across the frame with a table in the foreground",
+        "perspective": "slightly wide angle to capture multiple characters and background details",
+        "movement": "static or minimal movement",
+        "estimated_focal_length": "50mm"
+    },
+    "lighting": {
+        "sources": [
+            "torch on the right wall",
+            "ambient light from an unseen source"
+        ],
+        "direction": "primarily from the right side of the frame",
+        "intensity": "moderate, with some areas in shadow",
+        "softness": "mixed, with hard shadows from the torch and softer ambient light",
+        "color_temperature": "warm due to the torchlight",
+        "shadows": "visible on characters' faces and clothing, particularly on the left side",
+        "mood": "serious, tense, authoritative"
+    },
+    "visual_style": "realistic historical drama with a focus on period-accurate costumes and setting, warm color palette dominated by browns and earth tones, high contrast between light and shadow",
+    "3d_reconstruction": {
+        "important_assets": [
+            "characters in Roman-style armor",
+            "stone wall environment",
+            "wooden table with period-appropriate objects"
+        ],
+        "materials": [
+            "leather (armor)",
+            "metal (helmets, torch holders)",
+            "wood (table)",
+            "ceramic (jugs, cups)",
+            "stone (walls)"
+        ],
+        "geometry": [
+            "characters with detailed armor and clothing",
+            "rough-hewn stone walls",
+            "simple wooden table geometry"
+        ],
+        "existing_assets": [
+            "Roman soldier models",
+            "period-accurate armor sets",
+            "stone texture assets"
+        ]
+    }
+}

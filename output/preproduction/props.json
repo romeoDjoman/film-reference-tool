@@ -1,0 +1,1106 @@
+[
+    {
+        "id": "PROP_001",
+        "name": "wooden table",
+        "scenes": [
+            1,
+            2,
+            3,
+            4,
+            31
+        ],
+        "materials": [],
+        "positions": [
+            "center foreground",
+            "center foreground, extending horizontally across frame",
+            "right background",
+            "right side of frame",
+            "right side, near foreground guard"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_002",
+        "name": "ceramic jug",
+        "scenes": [
+            1,
+            4
+        ],
+        "materials": [],
+        "positions": [
+            "left side of table, near edge",
+            "on the table, left side"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_003",
+        "name": "ceramic cups",
+        "scenes": [
+            1,
+            4
+        ],
+        "materials": [],
+        "positions": [
+            "next to jug on table",
+            "on the table, near the jug"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_004",
+        "name": "inkwell with quill pen",
+        "scenes": [
+            1
+        ],
+        "materials": [],
+        "positions": [
+            "center of table, in front of central figure"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_005",
+        "name": "scrolls",
+        "scenes": [
+            1
+        ],
+        "materials": [],
+        "positions": [
+            "right side of table, unrolled partially"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_006",
+        "name": "metal helmet",
+        "scenes": [
+            1,
+            19
+        ],
+        "materials": [],
+        "positions": [
+            "On head of central soldier.",
+            "right side of table, near scrolls"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_007",
+        "name": "chains",
+        "scenes": [
+            1,
+            25
+        ],
+        "materials": [],
+        "positions": [
+            "held by guard on right side",
+            "visible on left side of frame near victim"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_008",
+        "name": "stone millstone",
+        "scenes": [
+            2
+        ],
+        "materials": [],
+        "positions": [
+            "center, above victim's head"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_009",
+        "name": "whip",
+        "scenes": [
+            2
+        ],
+        "materials": [],
+        "positions": [
+            "held by guard on left"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_010",
+        "name": "small table",
+        "scenes": [
+            2
+        ],
+        "materials": [],
+        "positions": [
+            "far right background"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_011",
+        "name": "fire pit",
+        "scenes": [
+            2
+        ],
+        "materials": [],
+        "positions": [
+            "left side, near wall"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_012",
+        "name": "stone block",
+        "scenes": [
+            3
+        ],
+        "materials": [],
+        "positions": [
+            "center-left, on ground"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_013",
+        "name": "small side table",
+        "scenes": [
+            3
+        ],
+        "materials": [],
+        "positions": [
+            "far right"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_014",
+        "name": "helmet",
+        "scenes": [
+            3,
+            4,
+            13
+        ],
+        "materials": [],
+        "positions": [
+            "On ground in foreground",
+            "on small side table and on ground near table",
+            "on the table, center-right"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_015",
+        "name": "weapon (mace/club)",
+        "scenes": [
+            3
+        ],
+        "materials": [],
+        "positions": [
+            "held by torturer 2"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_016",
+        "name": "torch",
+        "scenes": [
+            3,
+            4,
+            5,
+            6,
+            8
+        ],
+        "materials": [],
+        "positions": [
+            "left side of frame, background",
+            "mounted on right stone wall, burning",
+            "mounted on right wall",
+            "mounted on the wall, right side",
+            "mounted on wall in background"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_017",
+        "name": "scroll",
+        "scenes": [
+            4
+        ],
+        "materials": [],
+        "positions": [
+            "on the table, center"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_018",
+        "name": "spears",
+        "scenes": [
+            4,
+            13,
+            14
+        ],
+        "materials": [],
+        "positions": [
+            "Mounted against the stone wall in the background",
+            "Mounted on stone wall in background",
+            "leaning against the wall in background"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_019",
+        "name": "Roman helmets",
+        "scenes": [
+            5
+        ],
+        "materials": [],
+        "positions": [
+            "worn by background characters"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_020",
+        "name": "leather armor",
+        "scenes": [
+            5,
+            16,
+            26
+        ],
+        "materials": [],
+        "positions": [
+            "worn by all main characters",
+            "worn by combatants",
+            "worn by guards on upper body"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_021",
+        "name": "leather shoulder armor",
+        "scenes": [
+            6
+        ],
+        "materials": [],
+        "positions": [
+            "on shoulders of primary character"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_022",
+        "name": "beige cloth scarf",
+        "scenes": [
+            6
+        ],
+        "materials": [],
+        "positions": [
+            "around neck of primary character"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_023",
+        "name": "sword or spear tip",
+        "scenes": [
+            6
+        ],
+        "materials": [],
+        "positions": [
+            "vertical object behind primary character"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_024",
+        "name": "torches",
+        "scenes": [
+            7,
+            13,
+            14
+        ],
+        "materials": [],
+        "positions": [
+            "Attached to the wall, burning",
+            "Held by soldiers or mounted on wall",
+            "background, left side"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_025",
+        "name": "armor pieces",
+        "scenes": [
+            7
+        ],
+        "materials": [],
+        "positions": [
+            "on characters"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_026",
+        "name": "stone pillar",
+        "scenes": [
+            8,
+            9
+        ],
+        "materials": [],
+        "positions": [
+            "center foreground, serving as torture device",
+            "center-left, where bound figure is tied"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_027",
+        "name": "foldable table",
+        "scenes": [
+            8
+        ],
+        "materials": [],
+        "positions": [
+            "right foreground"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_028",
+        "name": "bound figure's restraints",
+        "scenes": [
+            8
+        ],
+        "materials": [],
+        "positions": [
+            "arms tied behind back to pillar"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_029",
+        "name": "whips",
+        "scenes": [
+            9
+        ],
+        "materials": [],
+        "positions": [
+            "held by guards"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_030",
+        "name": "table",
+        "scenes": [
+            9
+        ],
+        "materials": [],
+        "positions": [
+            "right side of frame"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_031",
+        "name": "small table/crate",
+        "scenes": [
+            9
+        ],
+        "materials": [],
+        "positions": [
+            "far right background"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_032",
+        "name": "helmets",
+        "scenes": [
+            9
+        ],
+        "materials": [],
+        "positions": [
+            "on floor near right side"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_033",
+        "name": "stone pillar with metal collar",
+        "scenes": [
+            10
+        ],
+        "materials": [],
+        "positions": [
+            "center of frame, victim bound to it"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_034",
+        "name": "chains and shackles",
+        "scenes": [
+            10
+        ],
+        "materials": [],
+        "positions": [
+            "around victim's wrists and upper arms, attached to the pillar"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_035",
+        "name": "weapons (swords/maces)",
+        "scenes": [
+            10
+        ],
+        "materials": [],
+        "positions": [
+            "held by guards 1 and 2"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_036",
+        "name": "blood stains",
+        "scenes": [
+            10
+        ],
+        "materials": [],
+        "positions": [
+            "on victim's body, floor, and stone pillar"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_037",
+        "name": "stone block/column",
+        "scenes": [
+            11
+        ],
+        "materials": [],
+        "positions": [
+            "center of the circle, in front of the victim"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_038",
+        "name": "weapons (spear/staff)",
+        "scenes": [
+            11
+        ],
+        "materials": [],
+        "positions": [
+            "held by guards"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_039",
+        "name": "table with items",
+        "scenes": [
+            11
+        ],
+        "materials": [],
+        "positions": [
+            "bottom right corner"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_040",
+        "name": "garment pile",
+        "scenes": [
+            11
+        ],
+        "materials": [],
+        "positions": [
+            "on the ground near guard 3"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_041",
+        "name": "execution post",
+        "scenes": [
+            12
+        ],
+        "materials": [],
+        "positions": [
+            "center-left, directly behind the victim"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_042",
+        "name": "whip/chain",
+        "scenes": [
+            12
+        ],
+        "materials": [],
+        "positions": [
+            "held by guard on left, also attached to post"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_043",
+        "name": "spears and shields",
+        "scenes": [
+            12
+        ],
+        "materials": [],
+        "positions": [
+            "leaning against background wall"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_044",
+        "name": "Leather armor pieces",
+        "scenes": [
+            13
+        ],
+        "materials": [],
+        "positions": [
+            "Worn by characters"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_045",
+        "name": "Stone pillar or structure",
+        "scenes": [
+            14
+        ],
+        "materials": [],
+        "positions": [
+            "Near the fallen man on the ground"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_046",
+        "name": "Weapons/tools held by soldiers",
+        "scenes": [
+            14
+        ],
+        "materials": [],
+        "positions": [
+            "In hands of Roman soldiers"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_047",
+        "name": "wooden post",
+        "scenes": [
+            15
+        ],
+        "materials": [],
+        "positions": [
+            "left side of frame, vertical"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_048",
+        "name": "blood",
+        "scenes": [
+            15,
+            17,
+            18,
+            19,
+            21,
+            22,
+            27,
+            36,
+            37
+        ],
+        "materials": [],
+        "positions": [
+            "On dead man's body and floor (final frame).",
+            "on both characters, ground, and stone surfaces",
+            "on character's body, face, floor, and post",
+            "on characters and ground",
+            "on face and neck of character",
+            "on victim's face and body",
+            "on victim's face, chest, arms, and background wall",
+            "splattered on victim's body and background walls",
+            "sprayed on legs, pooled on floor"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_049",
+        "name": "metal bands/rings",
+        "scenes": [
+            15
+        ],
+        "materials": [],
+        "positions": [
+            "around wooden post"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_050",
+        "name": "blood and wounds",
+        "scenes": [
+            16
+        ],
+        "materials": [],
+        "positions": [
+            "on victim's face"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_051",
+        "name": "weapons",
+        "scenes": [
+            17
+        ],
+        "materials": [],
+        "positions": [
+            "held by gladiators"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_052",
+        "name": "Roman armor",
+        "scenes": [
+            18,
+            36
+        ],
+        "materials": [],
+        "positions": [
+            "worn by foreground character",
+            "worn by soldiers in background"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_053",
+        "name": "Breastplate armor",
+        "scenes": [
+            19
+        ],
+        "materials": [],
+        "positions": [
+            "Chest of central soldier."
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_054",
+        "name": "Red cape",
+        "scenes": [
+            19
+        ],
+        "materials": [],
+        "positions": [
+            "Draped over shoulders of central soldier."
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_055",
+        "name": "Black hooded cloak",
+        "scenes": [
+            19
+        ],
+        "materials": [],
+        "positions": [
+            "Worn by woman, covering infant."
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_056",
+        "name": "Metal shoulder plates",
+        "scenes": [
+            19
+        ],
+        "materials": [],
+        "positions": [
+            "On soldiers' armor."
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_057",
+        "name": "sword",
+        "scenes": [
+            20
+        ],
+        "materials": [],
+        "positions": [
+            "held in raised hand by aggressor"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_058",
+        "name": "blood splatters",
+        "scenes": [
+            20,
+            28
+        ],
+        "materials": [],
+        "positions": [
+            "on legs and face of main character",
+            "on rock wall and characters' bodies"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_059",
+        "name": "weapon (sword or mace)",
+        "scenes": [
+            21
+        ],
+        "materials": [],
+        "positions": [
+            "held in raised hand of first character"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_060",
+        "name": "stone wall",
+        "scenes": [
+            22,
+            23,
+            24
+        ],
+        "materials": [],
+        "positions": [
+            "background",
+            "background behind all characters",
+            "background throughout all frames"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_061",
+        "name": "metal shoulder guards",
+        "scenes": [
+            23
+        ],
+        "materials": [],
+        "positions": [
+            "on soldier's shoulders"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_062",
+        "name": "braided scarf",
+        "scenes": [
+            23
+        ],
+        "materials": [],
+        "positions": [
+            "around soldier's neck"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_063",
+        "name": "fur trim",
+        "scenes": [
+            23
+        ],
+        "materials": [],
+        "positions": [
+            "on nurse's cloak"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_064",
+        "name": "clawed gauntlet/weapon",
+        "scenes": [
+            25
+        ],
+        "materials": [],
+        "positions": [
+            "held by aggressor, extended toward victim"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_065",
+        "name": "weapon",
+        "scenes": [
+            26
+        ],
+        "materials": [],
+        "positions": [
+            "held by first combatant"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_066",
+        "name": "stone architecture",
+        "scenes": [
+            26
+        ],
+        "materials": [],
+        "positions": [
+            "background and surroundings"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_067",
+        "name": "armor / greaves",
+        "scenes": [
+            27
+        ],
+        "materials": [],
+        "positions": [
+            "on leg of second character (visible in last frame)"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_068",
+        "name": "laced footwear / boots",
+        "scenes": [
+            27
+        ],
+        "materials": [],
+        "positions": [
+            "on foot of armored character"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_069",
+        "name": "ancient sandals",
+        "scenes": [
+            28
+        ],
+        "materials": [],
+        "positions": [
+            "on feet of main character"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_070",
+        "name": "sword or weapon (implied)",
+        "scenes": [
+            28
+        ],
+        "materials": [],
+        "positions": [
+            "not clearly visible but implied by context"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_071",
+        "name": "black sandals",
+        "scenes": [
+            29
+        ],
+        "materials": [],
+        "positions": [
+            "on floor near standing character's feet"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_072",
+        "name": "textured fabric surface",
+        "scenes": [
+            29
+        ],
+        "materials": [],
+        "positions": [
+            "beneath both characters"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_073",
+        "name": "sandals",
+        "scenes": [
+            30,
+            31,
+            32
+        ],
+        "materials": [],
+        "positions": [
+            "on floor in background, near center",
+            "on floor near standing figure's feet",
+            "on the floor near the recipient's feet"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_074",
+        "name": "bowl",
+        "scenes": [
+            30,
+            32
+        ],
+        "materials": [],
+        "positions": [
+            "held by servant in left hand, later placed near foot basin",
+            "near the servant's hands"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_075",
+        "name": "woven mat/rug",
+        "scenes": [
+            30
+        ],
+        "materials": [],
+        "positions": [
+            "covering the floor throughout the scene"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_076",
+        "name": "pottery vessel",
+        "scenes": [
+            30
+        ],
+        "materials": [],
+        "positions": [
+            "in background near walls"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_077",
+        "name": "foot washing basin/bowl",
+        "scenes": [
+            31
+        ],
+        "materials": [],
+        "positions": [
+            "on floor near primary figure's hands"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_078",
+        "name": "large pottery vessel",
+        "scenes": [
+            31
+        ],
+        "materials": [],
+        "positions": [
+            "background left side"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_079",
+        "name": "basin",
+        "scenes": [
+            32
+        ],
+        "materials": [],
+        "positions": [
+            "on floor in front of recipient's feet"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_080",
+        "name": "oil lamp",
+        "scenes": [
+            32
+        ],
+        "materials": [],
+        "positions": [
+            "mounted on wall in background"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_081",
+        "name": "large jar",
+        "scenes": [
+            32
+        ],
+        "materials": [],
+        "positions": [
+            "on floor in background, near lamp"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_082",
+        "name": "large ceramic jar",
+        "scenes": [
+            33
+        ],
+        "materials": [],
+        "positions": [
+            "on the floor behind the speaker"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_083",
+        "name": "wall-mounted lamp",
+        "scenes": [
+            33
+        ],
+        "materials": [],
+        "positions": [
+            "on the wall behind the speaker"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_084",
+        "name": "ceramic vessel",
+        "scenes": [
+            34
+        ],
+        "materials": [],
+        "positions": [
+            "held by secondary character in lower-left area"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_085",
+        "name": "footwear",
+        "scenes": [
+            35
+        ],
+        "materials": [],
+        "positions": [
+            "foreground, lower center"
+        ],
+        "importance": []
+    },
+    {
+        "id": "PROP_086",
+        "name": "leather sandals",
+        "scenes": [
+            36
+        ],
+        "materials": [],
+        "positions": [
+            "on foot of fallen combatant"
+        ],
+        "importance": []
+    }
+]

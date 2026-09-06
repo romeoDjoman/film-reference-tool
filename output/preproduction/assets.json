@@ -1,0 +1,1325 @@
+[
+    {
+        "id": "ASSET_001",
+        "name": "wooden table geometry with realistic wear texture",
+        "usage_scenes": [
+            1
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_002",
+        "name": "leather armor materials with metallic studs and straps",
+        "usage_scenes": [
+            1
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_003",
+        "name": "ceramic textures with handcrafted imperfections",
+        "usage_scenes": [
+            1
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_004",
+        "name": "parchment scrolls with rolled ends",
+        "usage_scenes": [
+            1
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_005",
+        "name": "metal helmet with reflective surface",
+        "usage_scenes": [
+            1
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_006",
+        "name": "stone wall environment with weathered texture",
+        "usage_scenes": [
+            1
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_007",
+        "name": "blood-stained floor plane",
+        "usage_scenes": [
+            1
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_008",
+        "name": "stone millstone mechanism",
+        "usage_scenes": [
+            2
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_009",
+        "name": "Roman-style armor pieces",
+        "usage_scenes": [
+            2
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_010",
+        "name": "whip prop",
+        "usage_scenes": [
+            2
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_011",
+        "name": "wooden tables",
+        "usage_scenes": [
+            2,
+            3,
+            9
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_012",
+        "name": "stone floor textures",
+        "usage_scenes": [
+            2
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_013",
+        "name": "stone floor tiles",
+        "usage_scenes": [
+            3,
+            9,
+            10
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_014",
+        "name": "Roman armor models",
+        "usage_scenes": [
+            3
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_015",
+        "name": "torture device (stone block)",
+        "usage_scenes": [
+            3
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_016",
+        "name": "helmet props",
+        "usage_scenes": [
+            3
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_017",
+        "name": "torch fixtures on wall",
+        "usage_scenes": [
+            3
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_018",
+        "name": "characters in Roman-style armor",
+        "usage_scenes": [
+            4
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_019",
+        "name": "stone wall environment",
+        "usage_scenes": [
+            4,
+            6,
+            7
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_020",
+        "name": "wooden table with period-appropriate objects",
+        "usage_scenes": [
+            4
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_021",
+        "name": "stone wall texture",
+        "usage_scenes": [
+            5,
+            13,
+            14,
+            19,
+            24
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_022",
+        "name": "Roman helmet models",
+        "usage_scenes": [
+            5
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_023",
+        "name": "leather armor with metal hardware",
+        "usage_scenes": [
+            5
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_024",
+        "name": "torch model with flame simulation",
+        "usage_scenes": [
+            5
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_025",
+        "name": "character model (bald man in armor)",
+        "usage_scenes": [
+            6
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_026",
+        "name": "leather armor plates",
+        "usage_scenes": [
+            6
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_027",
+        "name": "torch",
+        "usage_scenes": [
+            6
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_028",
+        "name": "gladiator character model",
+        "usage_scenes": [
+            7
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_029",
+        "name": "commander character model",
+        "usage_scenes": [
+            7
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_030",
+        "name": "Roman soldier models",
+        "usage_scenes": [
+            7,
+            13
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_031",
+        "name": "torch prop",
+        "usage_scenes": [
+            7
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_032",
+        "name": "Roman-style helmets",
+        "usage_scenes": [
+            8
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_033",
+        "name": "leather armor pieces",
+        "usage_scenes": [
+            8
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_034",
+        "name": "stone textures (walls, floor, pillar)",
+        "usage_scenes": [
+            8
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_035",
+        "name": "foldable table model",
+        "usage_scenes": [
+            8
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_036",
+        "name": "bound character rigging",
+        "usage_scenes": [
+            8
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_037",
+        "name": "stone pillar with metal fixtures",
+        "usage_scenes": [
+            9
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_038",
+        "name": "Roman-style armor sets",
+        "usage_scenes": [
+            9
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_039",
+        "name": "whips",
+        "usage_scenes": [
+            9
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_040",
+        "name": "stone pillar with metal collar",
+        "usage_scenes": [
+            10
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_041",
+        "name": "chains and shackles",
+        "usage_scenes": [
+            10
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_042",
+        "name": "guard uniforms (brown tunics, dark trousers)",
+        "usage_scenes": [
+            10
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_043",
+        "name": "blood effects",
+        "usage_scenes": [
+            10,
+            17
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_044",
+        "name": "stone block/column with weathered texture",
+        "usage_scenes": [
+            11
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_045",
+        "name": "character models (guards and victim) with detailed armor and clothing",
+        "usage_scenes": [
+            11
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_046",
+        "name": "blood simulation system for realistic splatter",
+        "usage_scenes": [
+            11
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_047",
+        "name": "stone floor tiles with grout lines",
+        "usage_scenes": [
+            11
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_048",
+        "name": "victim model with detailed blood simulation",
+        "usage_scenes": [
+            12
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_049",
+        "name": "execution post with metal fixtures",
+        "usage_scenes": [
+            12
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_050",
+        "name": "Roman guard uniforms and armor",
+        "usage_scenes": [
+            12
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_051",
+        "name": "stone floor and wall textures",
+        "usage_scenes": [
+            12,
+            36
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_052",
+        "name": "Leather armor with metal studs",
+        "usage_scenes": [
+            13,
+            25,
+            26
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_053",
+        "name": "Metal helmets",
+        "usage_scenes": [
+            13
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_054",
+        "name": "Torches",
+        "usage_scenes": [
+            13
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_055",
+        "name": "Roman soldier armor models",
+        "usage_scenes": [
+            14
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_056",
+        "name": "Paved floor geometry",
+        "usage_scenes": [
+            14
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_057",
+        "name": "Torche model with flame simulation",
+        "usage_scenes": [
+            14
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_058",
+        "name": "Blood particle system for fallen man",
+        "usage_scenes": [
+            14
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_059",
+        "name": "Motion blur effect for foreground figure",
+        "usage_scenes": [
+            14
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_060",
+        "name": "character model (male, bearded)",
+        "usage_scenes": [
+            15
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_061",
+        "name": "wooden post with metal bands",
+        "usage_scenes": [
+            15
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_062",
+        "name": "blood simulation system",
+        "usage_scenes": [
+            15
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_063",
+        "name": "stone floor texture",
+        "usage_scenes": [
+            15
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_064",
+        "name": "human face geometry with wound details",
+        "usage_scenes": [
+            16
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_065",
+        "name": "leather armor rigging",
+        "usage_scenes": [
+            16
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_066",
+        "name": "stone wall environment assets",
+        "usage_scenes": [
+            16
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_067",
+        "name": "stone walls",
+        "usage_scenes": [
+            17
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_068",
+        "name": "armor",
+        "usage_scenes": [
+            17
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_069",
+        "name": "weapons",
+        "usage_scenes": [
+            17
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_070",
+        "name": "human skin texture with wounds and blood",
+        "usage_scenes": [
+            18
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_071",
+        "name": "Roman helmet and armor set",
+        "usage_scenes": [
+            18
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_072",
+        "name": "stone wall texture with blood stains",
+        "usage_scenes": [
+            18
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_073",
+        "name": "Roman soldier armor (breastplate, shoulder plates, helmet)",
+        "usage_scenes": [
+            19
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_074",
+        "name": "Fabric materials (cape, cloak, scarf)",
+        "usage_scenes": [
+            19
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_075",
+        "name": "Blood particle system or texture map",
+        "usage_scenes": [
+            19
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_076",
+        "name": "Infant model (simplified)",
+        "usage_scenes": [
+            19
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_077",
+        "name": "human anatomy (male)",
+        "usage_scenes": [
+            20
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_078",
+        "name": "sword prop",
+        "usage_scenes": [
+            20
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_079",
+        "name": "rock texture",
+        "usage_scenes": [
+            20
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_080",
+        "name": "blood material",
+        "usage_scenes": [
+            20
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_081",
+        "name": "humanoid characters (bald muscular male, bearded male)",
+        "usage_scenes": [
+            21
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_082",
+        "name": "armor plates",
+        "usage_scenes": [
+            21
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_083",
+        "name": "weapon model",
+        "usage_scenes": [
+            21
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_084",
+        "name": "blood simulation assets",
+        "usage_scenes": [
+            21,
+            22
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_085",
+        "name": "stone architecture background",
+        "usage_scenes": [
+            21
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_086",
+        "name": "human anatomy (face, torso)",
+        "usage_scenes": [
+            22
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_087",
+        "name": "stone texture maps",
+        "usage_scenes": [
+            22
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_088",
+        "name": "leather armor textures",
+        "usage_scenes": [
+            22
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_089",
+        "name": "character models (nurse, soldier, infant)",
+        "usage_scenes": [
+            23
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_090",
+        "name": "clothing assets (fur cloak, leather armor, scarf)",
+        "usage_scenes": [
+            23
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_091",
+        "name": "environment asset (stone wall)",
+        "usage_scenes": [
+            23
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_092",
+        "name": "lighting setup (natural daylight simulation)",
+        "usage_scenes": [
+            23
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_093",
+        "name": "character models (adult female, child, male partial)",
+        "usage_scenes": [
+            24
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_094",
+        "name": "fabric materials (black hood, tunic)",
+        "usage_scenes": [
+            24
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_095",
+        "name": "human anatomy (skin, muscle)",
+        "usage_scenes": [
+            25
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_096",
+        "name": "blood simulation",
+        "usage_scenes": [
+            25
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_097",
+        "name": "stone textures",
+        "usage_scenes": [
+            25
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_098",
+        "name": "metallic gauntlet/weapon",
+        "usage_scenes": [
+            25
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_099",
+        "name": "character models (bald muscular male)",
+        "usage_scenes": [
+            26
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_100",
+        "name": "stone wall textures",
+        "usage_scenes": [
+            26
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_101",
+        "name": "arched architectural elements",
+        "usage_scenes": [
+            26
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_102",
+        "name": "human face with wounds",
+        "usage_scenes": [
+            27
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_103",
+        "name": "beard and hair",
+        "usage_scenes": [
+            27
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_104",
+        "name": "leg with armor and boots",
+        "usage_scenes": [
+            27
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_105",
+        "name": "blood splatter and pooling",
+        "usage_scenes": [
+            27
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_106",
+        "name": "ancient sandals model",
+        "usage_scenes": [
+            28
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_107",
+        "name": "human leg anatomy (muscle, skin)",
+        "usage_scenes": [
+            28
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_108",
+        "name": "blood particle system",
+        "usage_scenes": [
+            28
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_109",
+        "name": "bearded male face model",
+        "usage_scenes": [
+            28
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_110",
+        "name": "background crowd placeholder",
+        "usage_scenes": [
+            28
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_111",
+        "name": "human face geometry (injured)",
+        "usage_scenes": [
+            29
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_112",
+        "name": "foot anatomy",
+        "usage_scenes": [
+            29
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_113",
+        "name": "sandals model",
+        "usage_scenes": [
+            29,
+            30
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_114",
+        "name": "textured fabric plane",
+        "usage_scenes": [
+            29
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_115",
+        "name": "human feet and legs geometry",
+        "usage_scenes": [
+            30
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_116",
+        "name": "woven mat texture",
+        "usage_scenes": [
+            30
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_117",
+        "name": "simple robe clothing system",
+        "usage_scenes": [
+            30
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_118",
+        "name": "bowl and pottery assets",
+        "usage_scenes": [
+            30
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_119",
+        "name": "character models for three figures with period-appropriate clothing",
+        "usage_scenes": [
+            31
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_120",
+        "name": "foot washing basin prop",
+        "usage_scenes": [
+            31
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_121",
+        "name": "ancient room environment with stone walls and earthen floor",
+        "usage_scenes": [
+            31
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_122",
+        "name": "woven matting texture for floor",
+        "usage_scenes": [
+            31
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_123",
+        "name": "human feet anatomy",
+        "usage_scenes": [
+            32
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_124",
+        "name": "hands with detailed fingers",
+        "usage_scenes": [
+            32
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_125",
+        "name": "ceramic bowl geometry",
+        "usage_scenes": [
+            32
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_126",
+        "name": "basin with water simulation",
+        "usage_scenes": [
+            32
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_127",
+        "name": "ancient robe textures",
+        "usage_scenes": [
+            32
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_128",
+        "name": "oil lamp model",
+        "usage_scenes": [
+            32
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_129",
+        "name": "stone/plaster wall textures",
+        "usage_scenes": [
+            32
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_130",
+        "name": "character models (two males)",
+        "usage_scenes": [
+            33,
+            34
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_131",
+        "name": "ancient interior room",
+        "usage_scenes": [
+            33
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_132",
+        "name": "ceramic jar",
+        "usage_scenes": [
+            33
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_133",
+        "name": "wall-mounted lamp",
+        "usage_scenes": [
+            33
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_134",
+        "name": "ceramic vessel prop",
+        "usage_scenes": [
+            34
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_135",
+        "name": "textured robe materials",
+        "usage_scenes": [
+            34
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_136",
+        "name": "character model (long hair, beard, facial features)",
+        "usage_scenes": [
+            35
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_137",
+        "name": "footwear model (strapped sandals)",
+        "usage_scenes": [
+            35
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_138",
+        "name": "textured wall geometry",
+        "usage_scenes": [
+            35
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_139",
+        "name": "environment with opening to exterior",
+        "usage_scenes": [
+            35
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_140",
+        "name": "Roman soldier armor set (breastplate, greaves, sandals)",
+        "usage_scenes": [
+            36
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_141",
+        "name": "blood splatter and pool geometry",
+        "usage_scenes": [
+            36
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_142",
+        "name": "gladiator face model with injuries",
+        "usage_scenes": [
+            36
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_143",
+        "name": "human face geometry (high poly for skin texture)",
+        "usage_scenes": [
+            37
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_144",
+        "name": "beard/hair system with wetness simulation",
+        "usage_scenes": [
+            37
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    },
+    {
+        "id": "ASSET_145",
+        "name": "blood particle system or shader-based blood layer",
+        "usage_scenes": [
+            37
+        ],
+        "type": "3D asset",
+        "status": "TO_FIND"
+    }
+]

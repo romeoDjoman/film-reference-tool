@@ -1,0 +1,88 @@
+{
+    "scene": 35,
+    "characters": [
+        {
+            "role": "primary",
+            "appearance": "male, long wavy brown hair, beard and mustache",
+            "clothing": "dark textured robe or tunic",
+            "position": "foreground left",
+            "posture": "seated, turned slightly right",
+            "actions": "speaking, facial expressions change from neutral to smiling",
+            "interactions": "appears to be addressing someone off-screen or the second character"
+        },
+        {
+            "role": "secondary",
+            "appearance": "male, partially visible on the right",
+            "clothing": "dark garment",
+            "position": "background right",
+            "posture": "seated",
+            "actions": "uncertain, mostly out of frame",
+            "interactions": "appears to be listening or present in the conversation"
+        }
+    ],
+    "environment": {
+        "location": "indoor setting, possibly a room or courtyard",
+        "interior_exterior": "interior with view to exterior",
+        "architecture": "stone or plaster walls, rough texture",
+        "walls": "textured, warm-toned, appear aged",
+        "floor": "flat, stone or hard surface",
+        "ceiling": "uncertain, not visible",
+        "background": "outdoor view through opening, hazy, possibly desert-like landscape",
+        "depth": "moderate depth; foreground character is sharp, background slightly blurred"
+    },
+    "objects": [
+        {
+            "name": "footwear",
+            "position": "foreground, lower center",
+            "apparent_material": "leather sandals with straps",
+            "importance_for_reconstruction": "high detail for period accuracy; shows blood or red substance on foot"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up transitioning to low-angle shot",
+        "angle": "eye-level initially, then low angle looking up at foot",
+        "height": "starts at eye level, ends at ground level",
+        "composition": "character-focused in first frames, object-focused in last frame",
+        "perspective": "slight depth of field; background elements softly blurred",
+        "movement": "uncertain if static or slight pan/tilt between frames",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural light from opening in background",
+            "possible ambient indoor light"
+        ],
+        "direction": "from background (exterior) casting warm glow on character's face",
+        "intensity": "moderate, creating soft shadows",
+        "softness": "soft due to diffused natural light",
+        "color_temperature": "warm, sepia-toned, reddish-orange hue",
+        "shadows": "soft shadows under chin and neck; subtle facial shadows",
+        "mood": "solemn, intimate, possibly tense or reflective"
+    },
+    "visual_style": "cinematic realism with warm color grading; historical drama aesthetic; high contrast between lit face and darker surroundings; attention to texture and period detail",
+    "3d_reconstruction": {
+        "important_assets": [
+            "character model (long hair, beard, facial features)",
+            "footwear model (strapped sandals)",
+            "textured wall geometry",
+            "environment with opening to exterior"
+        ],
+        "materials": [
+            "skin (pores, texture)",
+            "fabric (rough, woven texture)",
+            "leather (wrinkled, worn)",
+            "stone/plaster (rough surface)"
+        ],
+        "geometry": [
+            "human anatomy (head, torso, foot)",
+            "architectural elements (walls, opening)",
+            "ground plane"
+        ],
+        "existing_assets": [
+            "historical robe or tunic asset",
+            "ancient sandal model",
+            "period-accurate skin texture pack",
+            "interior room template with stone walls"
+        ]
+    }
+}

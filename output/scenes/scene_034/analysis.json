@@ -1,0 +1,85 @@
+{
+    "scene": 34,
+    "characters": [
+        {
+            "role": "primary subject",
+            "appearance": "male, long wavy hair, beard and mustache, clean-shaven chin",
+            "clothing": "dark textured robe or tunic",
+            "position": "foreground right side of frame",
+            "posture": "seated, head slightly bowed then looking up",
+            "actions": "looking down with a somber expression, then turns his gaze upward and to the left",
+            "interactions": "appears to be listening or reacting to someone off-screen"
+        },
+        {
+            "role": "secondary character",
+            "appearance": "male, curly hair, beard and mustache",
+            "clothing": "simple robe or tunic",
+            "position": "background left side of frame, out of focus",
+            "posture": "seated, holding a vessel",
+            "actions": "looking forward with a serious expression",
+            "interactions": "participates in the scene but remains passive"
+        }
+    ],
+    "environment": {
+        "location": "indoor setting, possibly a room or courtyard",
+        "interior_exterior": "interior",
+        "architecture": "uncertain; walls appear rough-textured",
+        "walls": "visible on left and background; texture suggests stone or plaster",
+        "floor": "not clearly visible",
+        "ceiling": "not visible",
+        "background": "dimly lit, indistinct shapes suggesting architectural elements",
+        "depth": "shallow depth of field; foreground subject in focus, background blurred"
+    },
+    "objects": [
+        {
+            "name": "ceramic vessel",
+            "position": "held by secondary character in lower-left area",
+            "apparent_material": "ceramic or clay with a handle",
+            "importance_for_reconstruction": "moderate; provides context for setting"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up",
+        "angle": "slightly elevated, looking down at subjects",
+        "height": "uncertain; likely seated or standing height relative to characters",
+        "composition": "rule of thirds; primary subject on right third, secondary on left",
+        "perspective": "slight Dutch angle tilt in some frames",
+        "movement": "minimal; slight shifts in framing across frames",
+        "estimated_focal_length": "85mm"
+    },
+    "lighting": {
+        "sources": [
+            "single dominant source from upper right",
+            "ambient warm fill light"
+        ],
+        "direction": "from upper right, casting shadows on left side of faces",
+        "intensity": "low to medium; dramatic contrast between light and shadow",
+        "softness": "moderately soft with defined highlights",
+        "color_temperature": "warm, reddish-orange hue throughout",
+        "shadows": "deep shadows on left sides of faces and background",
+        "mood": "somber, intimate, tense"
+    },
+    "visual_style": "cinematic realism with warm color grading; high contrast; shallow depth of field; atmospheric lighting; historical or biblical aesthetic",
+    "3d_reconstruction": {
+        "important_assets": [
+            "character models (two males)",
+            "ceramic vessel prop",
+            "textured robe materials"
+        ],
+        "materials": [
+            "rough fabric for robes",
+            "skin with realistic texture and subsurface scattering",
+            "ceramic or clay material for vessel"
+        ],
+        "geometry": [
+            "human anatomy (heads, torsos)",
+            "simple geometric shapes for background elements",
+            "vessel geometry with handle"
+        ],
+        "existing_assets": [
+            "historical robe textures",
+            "ancient pottery assets",
+            "character rigging for facial expressions"
+        ]
+    }
+}

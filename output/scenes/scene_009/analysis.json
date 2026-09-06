@@ -1,0 +1,149 @@
+{
+    "scene": 9,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, dark hair, covered in blood and scratches",
+            "clothing": "tattered loincloth",
+            "position": "center foreground, leaning against a stone pillar",
+            "posture": "slumped, arms bound to the pillar",
+            "actions": "being tortured or restrained",
+            "interactions": "passive victim of the scene"
+        },
+        {
+            "role": "guard/commander (left)",
+            "appearance": "bald, muscular",
+            "clothing": "Roman-style armor with brown tunic and leather straps",
+            "position": "standing to the left of the pillar",
+            "posture": "standing, holding a whip",
+            "actions": "gesturing towards the victim",
+            "interactions": "overseeing the torture"
+        },
+        {
+            "role": "guard/commander (center)",
+            "appearance": "bald, muscular",
+            "clothing": "Roman-style armor with brown tunic and leather straps",
+            "position": "standing to the right of the pillar",
+            "posture": "holding a whip, looking down",
+            "actions": "watching the victim",
+            "interactions": "participating in the scene"
+        },
+        {
+            "role": "guard/commander (right)",
+            "appearance": "short dark hair",
+            "clothing": "Roman-style armor with brown tunic and leather straps",
+            "position": "standing near a table on the right",
+            "posture": "gesturing with arm extended",
+            "actions": "pointing or directing",
+            "interactions": "communicating with others"
+        },
+        {
+            "role": "guards (background)",
+            "appearance": "various, some bald, some with hair",
+            "clothing": "Roman-style armor and tunics",
+            "position": "standing in the background around the perimeter",
+            "posture": "standing, observing",
+            "actions": "watching the central action",
+            "interactions": "spectators"
+        },
+        {
+            "role": "soldier (foreground right)",
+            "appearance": "wearing helmet",
+            "clothing": "Roman armor",
+            "position": "bottom right corner, partially visible",
+            "posture": "seated or crouching",
+            "actions": "observing",
+            "interactions": "spectator"
+        }
+    ],
+    "environment": {
+        "location": "outdoor courtyard or plaza",
+        "interior_exterior": "exterior",
+        "architecture": "stone-paved ground, stone pillar used as torture device",
+        "walls": "none visible, open space",
+        "floor": "large stone tiles with blood stains",
+        "ceiling": "none visible, open sky implied",
+        "background": "gravel or dirt ground extending into distance",
+        "depth": "deep field of view showing multiple characters in background"
+    },
+    "objects": [
+        {
+            "name": "stone pillar",
+            "position": "center foreground, serving as torture device",
+            "apparent_material": "weathered stone with metal fixtures",
+            "importance_for_reconstruction": "central prop for the scene"
+        },
+        {
+            "name": "whips",
+            "position": "held by guards",
+            "apparent_material": "leather and thongs",
+            "importance_for_reconstruction": "props indicating torture context"
+        },
+        {
+            "name": "table",
+            "position": "right side of frame",
+            "apparent_material": "wooden with metal legs",
+            "importance_for_reconstruction": "contains items on it, possibly for interrogation or torture"
+        },
+        {
+            "name": "small table/crate",
+            "position": "far right background",
+            "apparent_material": "metal or wood",
+            "importance_for_reconstruction": "minor prop"
+        },
+        {
+            "name": "helmets",
+            "position": "on floor near right side",
+            "apparent_material": "metal",
+            "importance_for_reconstruction": "props for Roman setting"
+        }
+    ],
+    "camera": {
+        "shot_type": "wide shot transitioning to medium close-up",
+        "angle": "high angle, looking down at the scene",
+        "height": "elevated, approximately 2-3 meters above ground",
+        "composition": "symmetrical arrangement of characters around central pillar",
+        "perspective": "slightly angled high-angle perspective",
+        "movement": "static wide shot that cuts to a closer view",
+        "estimated_focal_length": "35mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "overhead, slightly from upper left",
+        "intensity": "moderate, bright but not harsh",
+        "softness": "moderately soft with some contrast",
+        "color_temperature": "cool, slightly desaturated tones",
+        "shadows": "visible under characters and objects",
+        "mood": "tense, grim, violent"
+    },
+    "visual_style": "realistic historical drama, gritty, blood-soaked, Roman period aesthetic with muted earth tones and stark red from blood",
+    "3d_reconstruction": {
+        "important_assets": [
+            "stone pillar with metal fixtures",
+            "Roman-style armor sets",
+            "whips",
+            "wooden tables",
+            "stone floor tiles"
+        ],
+        "materials": [
+            "weathered stone",
+            "leather",
+            "metal",
+            "blood (wet, viscous)",
+            "fabric/tunic material"
+        ],
+        "geometry": [
+            "low-poly characters with detailed armor",
+            "detailed blood splatter on floor and victim",
+            "stone pillar with mechanical elements",
+            "simple table geometry"
+        ],
+        "existing_assets": [
+            "Roman soldier models can be reused",
+            "armor pieces may exist in game assets",
+            "blood simulation tools available for realistic effects"
+        ]
+    }
+}

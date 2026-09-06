@@ -1,0 +1,115 @@
+{
+    "scene": 31,
+    "characters": [
+        {
+            "role": "primary figure (Jesus)",
+            "appearance": "male, long dark hair, beard",
+            "clothing": "dark textured robe with visible inner garment",
+            "position": "seated on the floor, left side of frame",
+            "posture": "leaning forward, hands engaged in washing feet",
+            "actions": "washing another person's feet, then holding a foot up",
+            "interactions": "interacting with the standing figure and the seated observer"
+        },
+        {
+            "role": "standing figure (disciple)",
+            "appearance": "male, partially obscured by robe",
+            "clothing": "dark robe covering lower body",
+            "position": "center foreground, initially standing then kneeling",
+            "posture": "standing with feet being washed, later kneeling",
+            "actions": "having feet washed, then kneeling before the primary figure",
+            "interactions": "receiving foot washing service"
+        },
+        {
+            "role": "seated observer (disciple)",
+            "appearance": "male, long hair, beard",
+            "clothing": "light-colored robe",
+            "position": "background right side, seated on floor",
+            "posture": "sitting cross-legged or with legs folded",
+            "actions": "watching the foot washing ritual",
+            "interactions": "observing the interaction between primary figure and standing figure"
+        }
+    ],
+    "environment": {
+        "location": "ancient interior space, likely a room in a house or cave dwelling",
+        "interior_exterior": "interior",
+        "architecture": "rough stone walls, simple construction",
+        "walls": "textured stone surfaces, uneven and aged appearance",
+        "floor": "earthen or dirt floor covered with woven matting",
+        "ceiling": "uncertain, likely low ceiling given the cave-like feel",
+        "background": "simple furnishings including pottery vessels and wooden table",
+        "depth": "moderate depth with foreground action and background observer"
+    },
+    "objects": [
+        {
+            "name": "foot washing basin/bowl",
+            "position": "on floor near primary figure's hands",
+            "apparent_material": "ceramic or clay",
+            "importance_for_reconstruction": "central prop for the foot washing action"
+        },
+        {
+            "name": "sandals",
+            "position": "on floor near standing figure's feet",
+            "apparent_material": "leather or woven material",
+            "importance_for_reconstruction": "indicates footwear removal for ritual"
+        },
+        {
+            "name": "large pottery vessel",
+            "position": "background left side",
+            "apparent_material": "ceramic/clay",
+            "importance_for_reconstruction": "environmental detail suggesting ancient setting"
+        },
+        {
+            "name": "wooden table",
+            "position": "right background",
+            "apparent_material": "wood",
+            "importance_for_reconstruction": "furniture element of the space"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium to wide shot",
+        "angle": "eye-level to slightly low angle",
+        "height": "approximately waist-to-knee height relative to characters",
+        "composition": "triangular composition with three figures, primary figure on left, standing figure center, observer right",
+        "perspective": "slight Dutch angle in some frames suggesting movement or emotional tension",
+        "movement": "camera appears to pan slightly and zoom in during the sequence",
+        "estimated_focal_length": "35mm-50mm"
+    },
+    "lighting": {
+        "sources": [
+            "candle or oil lamp visible in background",
+            "ambient warm light from unseen source"
+        ],
+        "direction": "primarily from upper right, creating dramatic shadows on left side of primary figure",
+        "intensity": "low to medium, creating high contrast between lit and shadowed areas",
+        "softness": "moderately soft with some harsh highlights on skin and fabric",
+        "color_temperature": "warm sepia/red-orange tone throughout",
+        "shadows": "pronounced shadows on primary figure's face and robe, adding drama",
+        "mood": "solemn, intimate, reverent"
+    },
+    "visual_style": "realistic historical drama with warm color grading, high contrast, dramatic lighting typical of biblical epics",
+    "3d_reconstruction": {
+        "important_assets": [
+            "character models for three figures with period-appropriate clothing",
+            "foot washing basin prop",
+            "ancient room environment with stone walls and earthen floor",
+            "woven matting texture for floor"
+        ],
+        "materials": [
+            "rough stone wall material",
+            "textured fabric for robes (wool-like)",
+            "ceramic/clay material for vessels",
+            "leather or woven material for sandals",
+            "earthen floor texture with mat overlay"
+        ],
+        "geometry": [
+            "low-poly environment suitable for ancient setting",
+            "character geometry with detailed robes and facial features",
+            "simple furniture geometry (table, vessels)"
+        ],
+        "existing_assets": [
+            "biblical character models may be available",
+            "ancient room templates could be reused",
+            "period-appropriate clothing assets"
+        ]
+    }
+}

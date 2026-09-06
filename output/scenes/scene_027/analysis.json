@@ -1,0 +1,98 @@
+{
+    "scene": 27,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, beard, disheveled hair, facial injuries",
+            "clothing": "none visible in close-up; later shot shows bare leg with laced footwear",
+            "position": "lying supine on ground",
+            "posture": "recumbent, head tilted back",
+            "actions": "unconscious or dying",
+            "interactions": "none observed"
+        },
+        {
+            "role": "observer / aggressor (implied)",
+            "appearance": "unclear; only partial body visible in foreground",
+            "clothing": "indistinct; later shot shows armored leg with greaves and laced boots",
+            "position": "standing or kneeling beside victim, out of focus in foreground",
+            "posture": "uncertain",
+            "actions": "observing or standing over victim",
+            "interactions": "none directly shown"
+        }
+    ],
+    "environment": {
+        "location": "indistinct outdoor or semi-outdoor setting",
+        "interior_exterior": "exterior or open interior space",
+        "architecture": "uncertain; background is blurred and indistinct",
+        "walls": "none clearly visible",
+        "floor": "ground surface, possibly dirt or stone",
+        "ceiling": "not visible",
+        "background": "blurred figures in armor, suggesting a camp or battlefield setting",
+        "depth": "shallow depth of field; foreground out of focus, mid-ground sharp"
+    },
+    "objects": [
+        {
+            "name": "blood",
+            "position": "on victim's face and body",
+            "apparent_material": "liquid, viscous",
+            "importance_for_reconstruction": "high; defines injury state and realism"
+        },
+        {
+            "name": "armor / greaves",
+            "position": "on leg of second character (visible in last frame)",
+            "apparent_material": "metallic, worn",
+            "importance_for_reconstruction": "medium; indicates context of conflict"
+        },
+        {
+            "name": "laced footwear / boots",
+            "position": "on foot of armored character",
+            "apparent_material": "leather or fabric",
+            "importance_for_reconstruction": "low-medium; adds detail to character design"
+        }
+    ],
+    "camera": {
+        "shot_type": "close-up / extreme close-up transitioning to medium shot",
+        "angle": "high angle looking down at victim's face, then shifts to low-angle view of leg",
+        "height": "eye-level with victim’s head initially; later lower, near ground level",
+        "composition": "tight framing on face in first four frames; focused on leg in final frame",
+        "perspective": "shallow depth of field; foreground obstruction (possibly another body part) creates sense of intimacy or voyeurism",
+        "movement": "static or very subtle; no obvious motion between frames",
+        "estimated_focal_length": "85mm – 100mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural or ambient daylight"
+        ],
+        "direction": "diffuse, coming from above and slightly behind camera",
+        "intensity": "moderate; soft shadows",
+        "softness": "high; no harsh contrasts",
+        "color_temperature": "cool with pinkish/red tint due to blood and lighting",
+        "shadows": "soft, minimal",
+        "mood": "grim, somber, visceral"
+    },
+    "visual_style": "realistic, gritty, cinematic; emphasis on texture and detail in injuries; muted color palette dominated by flesh tones and reds; shallow focus enhances emotional impact",
+    "3d_reconstruction": {
+        "important_assets": [
+            "human face with wounds",
+            "beard and hair",
+            "leg with armor and boots",
+            "blood splatter and pooling"
+        ],
+        "materials": [
+            "skin (wet, bloody)",
+            "metallic armor",
+            "leather/fabric footwear",
+            "dirt or ground surface"
+        ],
+        "geometry": [
+            "high-poly facial geometry for wounds",
+            "articulated leg with greaves and boot details",
+            "foreground obstruction (uncertain shape)"
+        ],
+        "existing_assets": [
+            "human anatomy templates",
+            "armor pieces from historical or fantasy game assets",
+            "blood simulation shaders"
+        ]
+    }
+}

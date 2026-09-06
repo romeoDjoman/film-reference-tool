@@ -1,0 +1,97 @@
+{
+    "scene": 21,
+    "characters": [
+        {
+            "role": "combatant",
+            "appearance": "bald male, muscular build, blood on face and arms",
+            "clothing": "brown tunic, dark segmented armor plates over shoulders, braided cloth around neck",
+            "position": "standing or leaning forward, head tilted back",
+            "posture": "arms raised, one holding a weapon (likely a sword or mace), body tense",
+            "actions": "struggling, grimacing in exertion or pain, raising weapon",
+            "interactions": "engaged in combat with another character"
+        },
+        {
+            "role": "combatant",
+            "appearance": "bearded male, dark curly hair, blood covering face and upper body",
+            "clothing": "shirtless or minimal clothing (only torso visible)",
+            "position": "lying on ground",
+            "posture": "supine, head tilted back, eyes closed or nearly closed",
+            "actions": "appears defeated or dying, blood pooling around him",
+            "interactions": "has been struck by the first character's weapon"
+        }
+    ],
+    "environment": {
+        "location": "ancient ruin or battlefield",
+        "interior_exterior": "exterior",
+        "architecture": "stone structures with arches visible in background",
+        "walls": "weathered stone walls, possibly part of a ruined building",
+        "floor": "stone ground, covered in blood and debris",
+        "ceiling": "uncertain - not clearly visible",
+        "background": "blurred stone architecture suggesting depth and ruins",
+        "depth": "moderate - foreground characters, midground weapon, background architecture"
+    },
+    "objects": [
+        {
+            "name": "weapon (sword or mace)",
+            "position": "held in raised hand of first character",
+            "apparent_material": "metallic with dark handle",
+            "importance_for_reconstruction": "high - central to action and impact"
+        },
+        {
+            "name": "blood",
+            "position": "on both characters, ground, and stone surfaces",
+            "apparent_material": "liquid, viscous, red",
+            "importance_for_reconstruction": "high - defines violence and aftermath"
+        }
+    ],
+    "camera": {
+        "shot_type": "close-up to medium close-up",
+        "angle": "low angle looking up at first character, then high angle looking down at second",
+        "height": "variable - low for first character, high for second",
+        "composition": "tight framing on faces and upper bodies",
+        "perspective": "dynamic shift from upward to downward view",
+        "movement": "uncertain - possibly handheld or static with cut between frames",
+        "estimated_focal_length": "50mm-85mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "diffuse overhead, soft shadows",
+        "intensity": "moderate - not harsh but clear visibility",
+        "softness": "soft due to overcast or shaded environment",
+        "color_temperature": "cool with warm skin tones",
+        "shadows": "subtle, under armor plates and facial features",
+        "mood": "tense, violent, gritty"
+    },
+    "visual_style": "realistic, gritty, cinematic action sequence with emphasis on physical struggle and violence. Color palette dominated by muted earth tones contrasted with vivid red blood.",
+    "3d_reconstruction": {
+        "important_assets": [
+            "humanoid characters (bald muscular male, bearded male)",
+            "armor plates",
+            "weapon model",
+            "blood simulation assets",
+            "stone architecture background"
+        ],
+        "materials": [
+            "skin (wet, bloody)",
+            "metallic armor",
+            "fabric (tunic, braided cloth)",
+            "stone (weathered)",
+            "blood (liquid, splattered)"
+        ],
+        "geometry": [
+            "human anatomy (muscular, bald head, beard)",
+            "armor segments",
+            "weapon shape",
+            "ruined architectural elements"
+        ],
+        "existing_assets": [
+            "medieval armor models",
+            "sword/mace weapon models",
+            "blood particle systems",
+            "ancient ruin environments",
+            "human character rigs (if available)"
+        ]
+    }
+}

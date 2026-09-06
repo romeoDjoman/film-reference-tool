@@ -1,0 +1,82 @@
+{
+    "scene": 37,
+    "characters": [
+        {
+            "number": 1,
+            "role": "victim / protagonist",
+            "appearance": "male, bearded, disheveled hair, facial injuries including bruising and blood, eyes open but unresponsive or dying",
+            "clothing": "none visible (shirtless)",
+            "position": "lying supine on a surface",
+            "posture": "relaxed, limp",
+            "actions": "passive, possibly unconscious or near death",
+            "interactions": "none observed"
+        }
+    ],
+    "environment": {
+        "location": "uncertain",
+        "interior_exterior": "uncertain",
+        "architecture": "none visible",
+        "walls": "none visible",
+        "floor": "white or light-colored surface beneath",
+        "ceiling": "not visible",
+        "background": "blurred, neutral tones",
+        "depth": "shallow due to close framing"
+    },
+    "objects": [
+        {
+            "name": "blood",
+            "position": "on face and neck of character",
+            "apparent_material": "liquid, viscous",
+            "importance_for_reconstruction": "high - key visual element defining state"
+        }
+    ],
+    "camera": {
+        "shot_type": "extreme close-up",
+        "angle": "slightly elevated, looking down at face",
+        "height": "very low relative to subject",
+        "composition": "tight focus on facial features, shallow depth of field",
+        "perspective": "intimate, claustrophobic",
+        "movement": "static or minimal micro-movement across frames",
+        "estimated_focal_length": "85mm - 100mm"
+    },
+    "lighting": {
+        "sources": [
+            "primary key light from above/front-left",
+            "possible fill light from right side"
+        ],
+        "direction": "top-down with slight frontal component",
+        "intensity": "moderate to high, creating strong highlights on wet surfaces",
+        "softness": "mixed - some soft areas (skin), some hard speculars (blood)",
+        "color_temperature": "warm, reddish-pink tint overall",
+        "shadows": "subtle under chin and nose; shadows in eye sockets",
+        "mood": "gruesome, intimate, tense"
+    },
+    "visual_style": {
+        "realism": "hyper-realistic, visceral",
+        "color_palette": "dominated by reds, pinks, flesh tones, muted background",
+        "contrast": "low to medium contrast, desaturated except for blood highlights",
+        "atmosphere": "gory, emotional, dramatic",
+        "cinematic_characteristics": "slow motion implied, focus on texture and detail"
+    },
+    "3d_reconstruction": {
+        "important_assets": [
+            "human face geometry (high poly for skin texture)",
+            "beard/hair system with wetness simulation",
+            "blood particle system or shader-based blood layer"
+        ],
+        "materials": [
+            "wet skin material with subsurface scattering",
+            "blood material with viscosity and specular highlights",
+            "damp hair material"
+        ],
+        "geometry": [
+            "high-detail facial mesh including pores, wrinkles, injuries",
+            "displaced geometry for blood splatter effects"
+        ],
+        "existing_assets": [
+            "human face base model",
+            "hair simulation assets",
+            "blood particle or fluid solver assets"
+        ]
+    }
+}

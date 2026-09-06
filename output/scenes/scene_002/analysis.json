@@ -1,0 +1,160 @@
+{
+    "scene": 2,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, dark hair, pale skin covered in blood and wounds",
+            "clothing": "tattered brown loincloth",
+            "position": "center of the frame, lying on his back",
+            "posture": "supine, arms raised holding a stone weight above his head",
+            "actions": "being tortured by a stone millstone",
+            "interactions": "held down by guards"
+        },
+        {
+            "role": "guard",
+            "appearance": "male, muscular, bald or short hair",
+            "clothing": "brown tunic with metal studs, leather shorts, sandals",
+            "position": "standing to the left of the victim",
+            "posture": "standing upright, holding a whip",
+            "actions": "holding the victim down",
+            "interactions": "overseeing the torture"
+        },
+        {
+            "role": "guard",
+            "appearance": "male, wearing dark leather armor with metal buckles",
+            "clothing": "dark leather armor over brown tunic",
+            "position": "foreground right, partially out of frame",
+            "posture": "standing, facing away from camera",
+            "actions": "observing the scene",
+            "interactions": "none visible"
+        },
+        {
+            "role": "guard",
+            "appearance": "male, wearing brown tunic and leather armor",
+            "clothing": "brown tunic with metal studs, leather shorts",
+            "position": "background right, standing near the victim",
+            "posture": "standing",
+            "actions": "observing",
+            "interactions": "none visible"
+        },
+        {
+            "role": "guard",
+            "appearance": "male, bald, wearing leather armor",
+            "clothing": "leather armor with metal accents",
+            "position": "background left, standing near the victim",
+            "posture": "standing",
+            "actions": "observing",
+            "interactions": "none visible"
+        },
+        {
+            "role": "guard",
+            "appearance": "male, wearing brown tunic and leather armor",
+            "clothing": "brown tunic with metal studs, leather shorts",
+            "position": "background right, standing near the table",
+            "posture": "standing with arms crossed",
+            "actions": "observing",
+            "interactions": "none visible"
+        },
+        {
+            "role": "guard",
+            "appearance": "male, wearing brown tunic and leather armor",
+            "clothing": "brown tunic with metal studs, leather shorts",
+            "position": "background right, standing near the table",
+            "posture": "standing",
+            "actions": "leaning on a table",
+            "interactions": "none visible"
+        }
+    ],
+    "environment": {
+        "location": "Roman-style courtyard or execution ground",
+        "interior_exterior": "exterior",
+        "architecture": "stone walls with large wooden doors, classical Roman architectural style",
+        "walls": "weathered stone blocks, some with visible wear and discoloration",
+        "floor": "paved stone surface with blood stains",
+        "ceiling": "not visible (open sky or high ceiling)",
+        "background": "stone walls, wooden doors, fire pit on the left",
+        "depth": "deep depth of field showing multiple characters in background"
+    },
+    "objects": [
+        {
+            "name": "stone millstone",
+            "position": "center, above victim's head",
+            "apparent_material": "dark stone with metal components",
+            "importance_for_reconstruction": "central prop for torture mechanism"
+        },
+        {
+            "name": "whip",
+            "position": "held by guard on left",
+            "apparent_material": "leather with metal tips",
+            "importance_for_reconstruction": "prop indicating threat of further punishment"
+        },
+        {
+            "name": "wooden table",
+            "position": "right side, near foreground guard",
+            "apparent_material": "dark wood with metal frame",
+            "importance_for_reconstruction": "contains items for scene context"
+        },
+        {
+            "name": "small table",
+            "position": "far right background",
+            "apparent_material": "metal or dark wood",
+            "importance_for_reconstruction": "contains helmet and other items"
+        },
+        {
+            "name": "fire pit",
+            "position": "left side, near wall",
+            "apparent_material": "metal with fire inside",
+            "importance_for_reconstruction": "adds atmospheric element"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium shot transitioning to wide shot",
+        "angle": "eye level initially, then high angle looking down",
+        "height": "starts at eye level, ends at elevated position",
+        "composition": "centered on victim with guards framing the scene",
+        "perspective": "slight Dutch angle in first frames, straight-on in final frame",
+        "movement": "slow zoom out from close-up to wide shot",
+        "estimated_focal_length": "50mm-85mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight",
+            "fire pit flame"
+        ],
+        "direction": "overhead with some side lighting creating shadows",
+        "intensity": "moderate, realistic outdoor lighting",
+        "softness": "mixed - soft ambient with some harsh shadows",
+        "color_temperature": "cool daylight with warm tones from blood and fire",
+        "shadows": "visible under characters and objects",
+        "mood": "dark, tense, violent"
+    },
+    "visual_style": "realistic historical drama with high contrast between pale skin/blood and dark clothing, gritty texture, cinematic color grading emphasizing reds and browns",
+    "3d_reconstruction": {
+        "important_assets": [
+            "stone millstone mechanism",
+            "Roman-style armor pieces",
+            "whip prop",
+            "wooden tables",
+            "stone floor textures"
+        ],
+        "materials": [
+            "blood-slicked skin",
+            "leather armor",
+            "stone surfaces",
+            "metal hardware",
+            "tattered fabric"
+        ],
+        "geometry": [
+            "low-poly human figures with detailed clothing",
+            "modular stone floor tiles",
+            "simple table geometry",
+            "basic architectural elements"
+        ],
+        "existing_assets": [
+            "Roman armor templates",
+            "historical costume pieces",
+            "stone texture packs",
+            "blood simulation assets"
+        ]
+    }
+}

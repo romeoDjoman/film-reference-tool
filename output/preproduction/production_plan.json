@@ -1,0 +1,3341 @@
+[
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_001",
+        "name": "central authority figure / judge",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_002",
+        "name": "Roman soldiers / guards",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_003",
+        "name": "prisoner / condemned individual",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_004",
+        "name": "victim",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_005",
+        "name": "guard",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_006",
+        "name": "torturer 1",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_007",
+        "name": "torturer 2",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_008",
+        "name": "torturer 3",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_009",
+        "name": "spectators",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_010",
+        "name": "officer group",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_011",
+        "name": "primary character",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_012",
+        "name": "secondary character",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_013",
+        "name": "tertiary character",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_014",
+        "name": "background character",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_015",
+        "name": "secondary character (foreground)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_016",
+        "name": "supporting characters (background)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_017",
+        "name": "gladiator",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_018",
+        "name": "commander",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_019",
+        "name": "soldiers",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_020",
+        "name": "soldier",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_021",
+        "name": "bound figure",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_022",
+        "name": "guard/commander (left)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_023",
+        "name": "guard/commander (center)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_024",
+        "name": "guard/commander (right)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_025",
+        "name": "guards (background)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_026",
+        "name": "soldier (foreground right)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_027",
+        "name": "guard 1",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_028",
+        "name": "guard 2",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_029",
+        "name": "guard 3",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_030",
+        "name": "guard 4",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_031",
+        "name": "guard 5",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_032",
+        "name": "background figures",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_033",
+        "name": "guards/soldiers",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_034",
+        "name": "Roman soldier",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_035",
+        "name": "Roman soldier (foreground)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_036",
+        "name": "Roman soldier (background)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_037",
+        "name": "Foreground figure",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_038",
+        "name": "Fallen man",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_039",
+        "name": "guards / soldiers",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_040",
+        "name": "gladiator/opponent",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_041",
+        "name": "victim / protagonist",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_042",
+        "name": "observer / antagonist",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_043",
+        "name": "Woman",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_044",
+        "name": "Infant",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_045",
+        "name": "Dead man",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_046",
+        "name": "aggressor",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_047",
+        "name": "combatant",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_048",
+        "name": "observer 1",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_049",
+        "name": "observer 2",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_050",
+        "name": "child",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_051",
+        "name": "nurse",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_052",
+        "name": "primary adult figure",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_053",
+        "name": "child character",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_054",
+        "name": "secondary adult figure",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_055",
+        "name": "observer / aggressor (implied)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_056",
+        "name": "combatant / gladiator",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_057",
+        "name": "background figures / soldiers",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_058",
+        "name": "victim / injured person",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_059",
+        "name": "observer / second character",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_060",
+        "name": "servant",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_061",
+        "name": "recipient",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_062",
+        "name": "observer",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_063",
+        "name": "primary figure (Jesus)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_064",
+        "name": "standing figure (disciple)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_065",
+        "name": "seated observer (disciple)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_066",
+        "name": "primary speaker",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_067",
+        "name": "listener",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_068",
+        "name": "primary subject",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_069",
+        "name": "primary",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_070",
+        "name": "secondary",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_071",
+        "name": "Roman soldier (secondary)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "CHARACTER",
+        "id": "CHAR_072",
+        "name": "Roman soldier (third)",
+        "action": "CREATE_OR_FIND",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_001",
+        "name": "ancient Roman courtyard or execution area",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_002",
+        "name": "Roman-style courtyard or execution ground",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_003",
+        "name": "Roman courtyard or public square",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_004",
+        "name": "stone courtyard or fortress interior",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_005",
+        "name": "ancient stone structure, possibly a fortress or temple exterior",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_006",
+        "name": "ancient stone structure, possibly a fortress or castle courtyard",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_007",
+        "name": "ancient Roman setting",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_008",
+        "name": "outdoor courtyard or plaza",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_009",
+        "name": "ancient Roman execution ground or courtyard",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_010",
+        "name": "Ancient Roman military camp or fortification",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_011",
+        "name": "Ancient Roman setting, possibly a courtyard or prison area",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_012",
+        "name": "outdoor public square or courtyard",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_013",
+        "name": "ancient Roman-style arena or courtyard",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_014",
+        "name": "ancient coliseum or arena",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_015",
+        "name": "indoor stone chamber or dungeon",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_016",
+        "name": "Stone courtyard or prison cell area",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_017",
+        "name": "outdoor rocky area",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_018",
+        "name": "ancient ruin or battlefield",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_019",
+        "name": "indoor stone structure",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_020",
+        "name": "outdoor courtyard or stone structure",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_021",
+        "name": "indeterminate outdoor or semi-outdoor setting",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_022",
+        "name": "stone dungeon or prison cell",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_023",
+        "name": "ancient stone structure",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_024",
+        "name": "indistinct outdoor or semi-outdoor setting",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_025",
+        "name": "ancient arena or battlefield",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_026",
+        "name": "uncertain",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_027",
+        "name": "ancient interior space, possibly a room in a house or cave dwelling",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_028",
+        "name": "ancient interior space, likely a room in a house or cave dwelling",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_029",
+        "name": "ancient interior room",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ENVIRONMENT",
+        "id": "ENV_030",
+        "name": "indoor setting, possibly a room or courtyard",
+        "action": "CREATE",
+        "priority": "HIGH"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_001",
+        "name": "wooden table",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_002",
+        "name": "ceramic jug",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_003",
+        "name": "ceramic cups",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_004",
+        "name": "inkwell with quill pen",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_005",
+        "name": "scrolls",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_006",
+        "name": "metal helmet",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_007",
+        "name": "chains",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_008",
+        "name": "stone millstone",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_009",
+        "name": "whip",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_010",
+        "name": "small table",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_011",
+        "name": "fire pit",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_012",
+        "name": "stone block",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_013",
+        "name": "small side table",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_014",
+        "name": "helmet",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_015",
+        "name": "weapon (mace/club)",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_016",
+        "name": "torch",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_017",
+        "name": "scroll",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_018",
+        "name": "spears",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_019",
+        "name": "Roman helmets",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_020",
+        "name": "leather armor",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_021",
+        "name": "leather shoulder armor",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_022",
+        "name": "beige cloth scarf",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_023",
+        "name": "sword or spear tip",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_024",
+        "name": "torches",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_025",
+        "name": "armor pieces",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_026",
+        "name": "stone pillar",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_027",
+        "name": "foldable table",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_028",
+        "name": "bound figure's restraints",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_029",
+        "name": "whips",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_030",
+        "name": "table",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_031",
+        "name": "small table/crate",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_032",
+        "name": "helmets",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_033",
+        "name": "stone pillar with metal collar",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_034",
+        "name": "chains and shackles",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_035",
+        "name": "weapons (swords/maces)",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_036",
+        "name": "blood stains",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_037",
+        "name": "stone block/column",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_038",
+        "name": "weapons (spear/staff)",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_039",
+        "name": "table with items",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_040",
+        "name": "garment pile",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_041",
+        "name": "execution post",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_042",
+        "name": "whip/chain",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_043",
+        "name": "spears and shields",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_044",
+        "name": "Leather armor pieces",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_045",
+        "name": "Stone pillar or structure",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_046",
+        "name": "Weapons/tools held by soldiers",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_047",
+        "name": "wooden post",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_048",
+        "name": "blood",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_049",
+        "name": "metal bands/rings",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_050",
+        "name": "blood and wounds",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_051",
+        "name": "weapons",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_052",
+        "name": "Roman armor",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_053",
+        "name": "Breastplate armor",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_054",
+        "name": "Red cape",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_055",
+        "name": "Black hooded cloak",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_056",
+        "name": "Metal shoulder plates",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_057",
+        "name": "sword",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_058",
+        "name": "blood splatters",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_059",
+        "name": "weapon (sword or mace)",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_060",
+        "name": "stone wall",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_061",
+        "name": "metal shoulder guards",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_062",
+        "name": "braided scarf",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_063",
+        "name": "fur trim",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_064",
+        "name": "clawed gauntlet/weapon",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_065",
+        "name": "weapon",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_066",
+        "name": "stone architecture",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_067",
+        "name": "armor / greaves",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_068",
+        "name": "laced footwear / boots",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_069",
+        "name": "ancient sandals",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_070",
+        "name": "sword or weapon (implied)",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_071",
+        "name": "black sandals",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_072",
+        "name": "textured fabric surface",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_073",
+        "name": "sandals",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_074",
+        "name": "bowl",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_075",
+        "name": "woven mat/rug",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_076",
+        "name": "pottery vessel",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_077",
+        "name": "foot washing basin/bowl",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_078",
+        "name": "large pottery vessel",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_079",
+        "name": "basin",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_080",
+        "name": "oil lamp",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_081",
+        "name": "large jar",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_082",
+        "name": "large ceramic jar",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_083",
+        "name": "wall-mounted lamp",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_084",
+        "name": "ceramic vessel",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_085",
+        "name": "footwear",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "PROP",
+        "id": "PROP_086",
+        "name": "leather sandals",
+        "action": "CREATE_OR_FIND",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_001",
+        "name": "wooden table geometry with realistic wear texture",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_002",
+        "name": "leather armor materials with metallic studs and straps",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_003",
+        "name": "ceramic textures with handcrafted imperfections",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_004",
+        "name": "parchment scrolls with rolled ends",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_005",
+        "name": "metal helmet with reflective surface",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_006",
+        "name": "stone wall environment with weathered texture",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_007",
+        "name": "blood-stained floor plane",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_008",
+        "name": "stone millstone mechanism",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_009",
+        "name": "Roman-style armor pieces",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_010",
+        "name": "whip prop",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_011",
+        "name": "wooden tables",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_012",
+        "name": "stone floor textures",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_013",
+        "name": "stone floor tiles",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_014",
+        "name": "Roman armor models",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_015",
+        "name": "torture device (stone block)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_016",
+        "name": "helmet props",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_017",
+        "name": "torch fixtures on wall",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_018",
+        "name": "characters in Roman-style armor",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_019",
+        "name": "stone wall environment",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_020",
+        "name": "wooden table with period-appropriate objects",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_021",
+        "name": "stone wall texture",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_022",
+        "name": "Roman helmet models",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_023",
+        "name": "leather armor with metal hardware",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_024",
+        "name": "torch model with flame simulation",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_025",
+        "name": "character model (bald man in armor)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_026",
+        "name": "leather armor plates",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_027",
+        "name": "torch",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_028",
+        "name": "gladiator character model",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_029",
+        "name": "commander character model",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_030",
+        "name": "Roman soldier models",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_031",
+        "name": "torch prop",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_032",
+        "name": "Roman-style helmets",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_033",
+        "name": "leather armor pieces",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_034",
+        "name": "stone textures (walls, floor, pillar)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_035",
+        "name": "foldable table model",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_036",
+        "name": "bound character rigging",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_037",
+        "name": "stone pillar with metal fixtures",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_038",
+        "name": "Roman-style armor sets",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_039",
+        "name": "whips",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_040",
+        "name": "stone pillar with metal collar",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_041",
+        "name": "chains and shackles",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_042",
+        "name": "guard uniforms (brown tunics, dark trousers)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_043",
+        "name": "blood effects",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_044",
+        "name": "stone block/column with weathered texture",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_045",
+        "name": "character models (guards and victim) with detailed armor and clothing",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_046",
+        "name": "blood simulation system for realistic splatter",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_047",
+        "name": "stone floor tiles with grout lines",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_048",
+        "name": "victim model with detailed blood simulation",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_049",
+        "name": "execution post with metal fixtures",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_050",
+        "name": "Roman guard uniforms and armor",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_051",
+        "name": "stone floor and wall textures",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_052",
+        "name": "Leather armor with metal studs",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_053",
+        "name": "Metal helmets",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_054",
+        "name": "Torches",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_055",
+        "name": "Roman soldier armor models",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_056",
+        "name": "Paved floor geometry",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_057",
+        "name": "Torche model with flame simulation",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_058",
+        "name": "Blood particle system for fallen man",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_059",
+        "name": "Motion blur effect for foreground figure",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_060",
+        "name": "character model (male, bearded)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_061",
+        "name": "wooden post with metal bands",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_062",
+        "name": "blood simulation system",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_063",
+        "name": "stone floor texture",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_064",
+        "name": "human face geometry with wound details",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_065",
+        "name": "leather armor rigging",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_066",
+        "name": "stone wall environment assets",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_067",
+        "name": "stone walls",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_068",
+        "name": "armor",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_069",
+        "name": "weapons",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_070",
+        "name": "human skin texture with wounds and blood",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_071",
+        "name": "Roman helmet and armor set",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_072",
+        "name": "stone wall texture with blood stains",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_073",
+        "name": "Roman soldier armor (breastplate, shoulder plates, helmet)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_074",
+        "name": "Fabric materials (cape, cloak, scarf)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_075",
+        "name": "Blood particle system or texture map",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_076",
+        "name": "Infant model (simplified)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_077",
+        "name": "human anatomy (male)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_078",
+        "name": "sword prop",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_079",
+        "name": "rock texture",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_080",
+        "name": "blood material",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_081",
+        "name": "humanoid characters (bald muscular male, bearded male)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_082",
+        "name": "armor plates",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_083",
+        "name": "weapon model",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_084",
+        "name": "blood simulation assets",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_085",
+        "name": "stone architecture background",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_086",
+        "name": "human anatomy (face, torso)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_087",
+        "name": "stone texture maps",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_088",
+        "name": "leather armor textures",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_089",
+        "name": "character models (nurse, soldier, infant)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_090",
+        "name": "clothing assets (fur cloak, leather armor, scarf)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_091",
+        "name": "environment asset (stone wall)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_092",
+        "name": "lighting setup (natural daylight simulation)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_093",
+        "name": "character models (adult female, child, male partial)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_094",
+        "name": "fabric materials (black hood, tunic)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_095",
+        "name": "human anatomy (skin, muscle)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_096",
+        "name": "blood simulation",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_097",
+        "name": "stone textures",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_098",
+        "name": "metallic gauntlet/weapon",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_099",
+        "name": "character models (bald muscular male)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_100",
+        "name": "stone wall textures",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_101",
+        "name": "arched architectural elements",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_102",
+        "name": "human face with wounds",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_103",
+        "name": "beard and hair",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_104",
+        "name": "leg with armor and boots",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_105",
+        "name": "blood splatter and pooling",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_106",
+        "name": "ancient sandals model",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_107",
+        "name": "human leg anatomy (muscle, skin)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_108",
+        "name": "blood particle system",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_109",
+        "name": "bearded male face model",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_110",
+        "name": "background crowd placeholder",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_111",
+        "name": "human face geometry (injured)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_112",
+        "name": "foot anatomy",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_113",
+        "name": "sandals model",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_114",
+        "name": "textured fabric plane",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_115",
+        "name": "human feet and legs geometry",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_116",
+        "name": "woven mat texture",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_117",
+        "name": "simple robe clothing system",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_118",
+        "name": "bowl and pottery assets",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_119",
+        "name": "character models for three figures with period-appropriate clothing",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_120",
+        "name": "foot washing basin prop",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_121",
+        "name": "ancient room environment with stone walls and earthen floor",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_122",
+        "name": "woven matting texture for floor",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_123",
+        "name": "human feet anatomy",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_124",
+        "name": "hands with detailed fingers",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_125",
+        "name": "ceramic bowl geometry",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_126",
+        "name": "basin with water simulation",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_127",
+        "name": "ancient robe textures",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_128",
+        "name": "oil lamp model",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_129",
+        "name": "stone/plaster wall textures",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_130",
+        "name": "character models (two males)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_131",
+        "name": "ancient interior room",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_132",
+        "name": "ceramic jar",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_133",
+        "name": "wall-mounted lamp",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_134",
+        "name": "ceramic vessel prop",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_135",
+        "name": "textured robe materials",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_136",
+        "name": "character model (long hair, beard, facial features)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_137",
+        "name": "footwear model (strapped sandals)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_138",
+        "name": "textured wall geometry",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_139",
+        "name": "environment with opening to exterior",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_140",
+        "name": "Roman soldier armor set (breastplate, greaves, sandals)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_141",
+        "name": "blood splatter and pool geometry",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_142",
+        "name": "gladiator face model with injuries",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_143",
+        "name": "human face geometry (high poly for skin texture)",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_144",
+        "name": "beard/hair system with wetness simulation",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "ASSET",
+        "id": "ASSET_145",
+        "name": "blood particle system or shader-based blood layer",
+        "action": "SEARCH_ASSET_LIBRARY",
+        "priority": "HIGH"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_001",
+        "name": "weathered wood",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_002",
+        "name": "leather with aging and scuff marks",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_003",
+        "name": "unglazed ceramic",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_004",
+        "name": "parchment/papyrus",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_005",
+        "name": "polished metal (bronze/iron)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_006",
+        "name": "stone masonry",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_007",
+        "name": "wet blood on stone floor",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_008",
+        "name": "blood-slicked skin",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_009",
+        "name": "leather armor",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_010",
+        "name": "stone surfaces",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_011",
+        "name": "metal hardware",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_012",
+        "name": "tattered fabric",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_013",
+        "name": "stone (rough and polished)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_014",
+        "name": "leather (weathered, textured)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_015",
+        "name": "metal (armor plates, helmets)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_016",
+        "name": "wood (tables, weapons)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_017",
+        "name": "blood (viscous, spreading)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_018",
+        "name": "metal (helmets, torch holders)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_019",
+        "name": "wood (table)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_020",
+        "name": "ceramic (jugs, cups)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_021",
+        "name": "stone (walls)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_022",
+        "name": "rough stone",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_023",
+        "name": "metallic leather",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_024",
+        "name": "fabric (tunics and scarves)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_025",
+        "name": "flame material",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_026",
+        "name": "leather with wear and tear",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_027",
+        "name": "metallic rivets",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_028",
+        "name": "fabric scarf",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_029",
+        "name": "stone texture",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_030",
+        "name": "blood simulation",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_031",
+        "name": "metal studs",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_032",
+        "name": "blood texture",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_033",
+        "name": "stone surface",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_034",
+        "name": "fabric tunic",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_035",
+        "name": "flame shader",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_036",
+        "name": "weathered leather",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_037",
+        "name": "metallic buckles and straps",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_038",
+        "name": "blood-stained ground texture",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_039",
+        "name": "fabric (tunic, scarf)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_040",
+        "name": "weathered stone",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_041",
+        "name": "leather",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_042",
+        "name": "metal",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_043",
+        "name": "blood (wet, viscous)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_044",
+        "name": "fabric/tunic material",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_045",
+        "name": "metallic chains and shackles",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_046",
+        "name": "wet blood",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_047",
+        "name": "skin with grime and blood",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_048",
+        "name": "fabric (tunics)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_049",
+        "name": "leather armor (textured, worn)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_050",
+        "name": "stone (rough, stained)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_051",
+        "name": "fabric (tattered, blood-soaked)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_052",
+        "name": "skin (bloody, damaged)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_053",
+        "name": "wet skin/blood shader",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_054",
+        "name": "leather and metal for armor",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_055",
+        "name": "paved stone ground with blood stains",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_056",
+        "name": "Aged leather",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_057",
+        "name": "Metal (armor, spears, helmet)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_058",
+        "name": "Metal (studs, weapons)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_059",
+        "name": "Stone (walls, floor)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_060",
+        "name": "wet skin",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_061",
+        "name": "metallic iron/steel",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_062",
+        "name": "liquid blood",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_063",
+        "name": "stone tile",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_064",
+        "name": "wet skin shader",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_065",
+        "name": "blood material (viscous, dark red)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_066",
+        "name": "leather texture with wear and tear",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_067",
+        "name": "stone surface with weathering",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_068",
+        "name": "stone",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_069",
+        "name": "skin",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_070",
+        "name": "blood",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_071",
+        "name": "wet blood (high specular, flowing)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_072",
+        "name": "dried blood (matte, cracked)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_073",
+        "name": "metal armor (reflective, scratched)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_074",
+        "name": "rough stone (porous, stained)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_075",
+        "name": "Metallic (polished, riveted)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_076",
+        "name": "Leather (stained, worn)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_077",
+        "name": "Wool/Fabric (soft, draped)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_078",
+        "name": "Stone (rough, weathered)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_079",
+        "name": "Blood (liquid, splattered)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_080",
+        "name": "skin with wounds and blood",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_081",
+        "name": "metal armor",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_082",
+        "name": "leather straps",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_083",
+        "name": "stone/rock surface",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_084",
+        "name": "skin (wet, bloody)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_085",
+        "name": "metallic armor",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_086",
+        "name": "fabric (tunic, braided cloth)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_087",
+        "name": "stone (weathered)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_088",
+        "name": "fresh blood",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_089",
+        "name": "dried blood",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_090",
+        "name": "fabric (hood/scarf)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_091",
+        "name": "black fur",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_092",
+        "name": "leather with metal hardware",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_093",
+        "name": "pale skin texture",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_094",
+        "name": "fabric (wool/linen scarf)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_095",
+        "name": "pale skin shader",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_096",
+        "name": "dark matte fabric",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_097",
+        "name": "weathered stone surface",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_098",
+        "name": "dried blood stains",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_099",
+        "name": "metal (rusted and polished)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_100",
+        "name": "skin with injury details",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_101",
+        "name": "stained leather",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_102",
+        "name": "metallic hardware",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_103",
+        "name": "blood texture (wet, splattered)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_104",
+        "name": "skin with grime and injury",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_105",
+        "name": "leather/fabric footwear",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_106",
+        "name": "dirt or ground surface",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_107",
+        "name": "wet leather",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_108",
+        "name": "skin with blood texture",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_109",
+        "name": "dirt/sand floor",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_110",
+        "name": "stone architecture",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_111",
+        "name": "wet skin with blood texture",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_112",
+        "name": "leather/synthetic sandal material",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_113",
+        "name": "woven fabric surface",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_114",
+        "name": "soft tissue for bruising and laceration details",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_115",
+        "name": "textile (robes, mats)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_116",
+        "name": "leather/suede (sandals)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_117",
+        "name": "ceramic/clay (vessels)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_118",
+        "name": "skin texture",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_119",
+        "name": "rough stone/earthen wall material",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_120",
+        "name": "rough stone wall material",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_121",
+        "name": "textured fabric for robes (wool-like)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_122",
+        "name": "ceramic/clay material for vessels",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_123",
+        "name": "leather or woven material for sandals",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_124",
+        "name": "earthen floor texture with mat overlay",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_125",
+        "name": "skin (moist, glistening)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_126",
+        "name": "fabric (rough, textured wool or linen)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_127",
+        "name": "ceramic (matte, reddish-brown)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_128",
+        "name": "water (reflective, translucent)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_129",
+        "name": "stone/plaster (rough, warm tone)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_130",
+        "name": "textured fabric for clothing",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_131",
+        "name": "rough stone or plaster for walls",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_132",
+        "name": "ceramic for jars",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_133",
+        "name": "metal or stone for lamp",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_134",
+        "name": "rough fabric for robes",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_135",
+        "name": "skin with realistic texture and subsurface scattering",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_136",
+        "name": "ceramic or clay material for vessel",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_137",
+        "name": "skin (pores, texture)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_138",
+        "name": "fabric (rough, woven texture)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_139",
+        "name": "leather (wrinkled, worn)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_140",
+        "name": "stone/plaster (rough surface)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_141",
+        "name": "fresh blood (liquid)",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_142",
+        "name": "wet skin material with subsurface scattering",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_143",
+        "name": "blood material with viscosity and specular highlights",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    },
+    {
+        "category": "MATERIAL",
+        "id": "MAT_144",
+        "name": "damp hair material",
+        "action": "CREATE_MATERIAL",
+        "priority": "MEDIUM"
+    }
+]

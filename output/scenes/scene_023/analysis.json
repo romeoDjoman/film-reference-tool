@@ -1,0 +1,116 @@
+{
+    "scene": 23,
+    "characters": [
+        {
+            "role": "nurse",
+            "appearance": "female, pale skin, dark hair under a hood, gaunt features",
+            "clothing": "black hooded cloak with fur trim",
+            "position": "left side of frame, holding the infant",
+            "posture": "seated or standing still, leaning slightly forward",
+            "actions": "holding an infant close to her chest, one hand supporting the child's head and back, other hand resting on the child's torso",
+            "interactions": "cradling the infant with protective posture"
+        },
+        {
+            "role": "soldier",
+            "appearance": "male, light brown hair, weathered face, serious expression",
+            "clothing": "brown leather tunic with metal shoulder guards (scutum style), beige braided scarf wrapped around neck",
+            "position": "right side of frame, standing or seated beside the nurse",
+            "posture": "upright, facing forward",
+            "actions": "standing still, looking ahead with neutral expression",
+            "interactions": "none visible in this shot"
+        },
+        {
+            "role": "infant",
+            "appearance": "bald, pale skin, small size, appears very young",
+            "clothing": "wrapped in dark fabric (possibly black fur or wool)",
+            "position": "held in the nurse's arms, centered between her and the soldier",
+            "posture": "lying horizontally across the nurse's chest, head turned slightly away from camera",
+            "actions": "passive, being held",
+            "interactions": "being cradled by the nurse"
+        }
+    ],
+    "environment": {
+        "location": "outdoor courtyard or stone structure",
+        "interior_exterior": "exterior",
+        "architecture": "stone walls with visible masonry, possibly part of a castle or fortress",
+        "walls": "rough-hewn stone blocks, weathered texture, vertical seams between stones",
+        "floor": "not clearly visible",
+        "ceiling": "not visible",
+        "background": "stone wall behind characters, slightly out of focus",
+        "depth": "moderate depth; characters are in foreground, background wall is mid-to-far ground"
+    },
+    "objects": [
+        {
+            "name": "metal shoulder guards",
+            "position": "on soldier's shoulders",
+            "apparent_material": "metallic with rivets and straps",
+            "importance_for_reconstruction": "key costume element indicating Roman or ancient military attire"
+        },
+        {
+            "name": "braided scarf",
+            "position": "around soldier's neck",
+            "apparent_material": "fabric, possibly wool or linen",
+            "importance_for_reconstruction": "adds texture and detail to character design"
+        },
+        {
+            "name": "fur trim",
+            "position": "on nurse's cloak",
+            "apparent_material": "animal fur, dark color",
+            "importance_for_reconstruction": "important for realistic clothing texture"
+        },
+        {
+            "name": "stone wall",
+            "position": "background",
+            "apparent_material": "weathered stone blocks",
+            "importance_for_reconstruction": "establishes setting and provides environmental context"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up",
+        "angle": "eye-level or slightly above eye level",
+        "height": "approximately chest-to-head height relative to subjects",
+        "composition": "two characters framed side-by-side, nurse on left, soldier on right, infant centered between them",
+        "perspective": "slight Dutch angle possible due to framing, but mostly level",
+        "movement": "static or minimal movement (frames appear nearly identical)",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight from above and slightly in front",
+            "possible ambient light from open area behind stone wall"
+        ],
+        "direction": "frontal to slightly elevated, casting soft shadows under chin and nose",
+        "intensity": "moderate, not harsh",
+        "softness": "soft to medium, no hard shadows",
+        "color_temperature": "cool, desaturated tones (bluish-gray)",
+        "shadows": "subtle shadows under chin, beneath cloak folds, and between characters",
+        "mood": "somber, quiet, melancholic"
+    },
+    "visual_style": "realistic historical drama, muted color palette, high contrast between dark clothing and pale skin, cinematic lighting with natural tones, emotional atmosphere",
+    "3d_reconstruction": {
+        "important_assets": [
+            "character models (nurse, soldier, infant)",
+            "clothing assets (fur cloak, leather armor, scarf)",
+            "environment asset (stone wall)",
+            "lighting setup (natural daylight simulation)"
+        ],
+        "materials": [
+            "black fur",
+            "leather with metal hardware",
+            "pale skin texture",
+            "weathered stone",
+            "fabric (wool/linen scarf)"
+        ],
+        "geometry": [
+            "humanoid figures with detailed facial features",
+            "armor plates with rivets and straps",
+            "fur texture on cloak",
+            "stone wall with block geometry"
+        ],
+        "existing_assets": [
+            "Roman-style armor can be reused or adapted",
+            "generic stone wall asset may suffice",
+            "basic human model with custom textures for characters"
+        ]
+    }
+}

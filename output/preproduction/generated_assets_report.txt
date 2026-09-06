@@ -1,0 +1,19 @@
+============================================================
+RAPPORT DE GÉNÉRATION DES ASSETS
+============================================================
+
+✅ OK — Mur romain V3
+   Créé : roman_stone_wall_v3.blend (149 Ko)
+
+✅ OK — Pavage romain
+   Créé : roman_paving.blend (215 Ko)
+
+✅ OK — Table romaine en bois
+   Créé : roman_wooden_table.blend (103 Ko)
+
+✅ OK — Grandes portes romaines
+   Créé : roman_double_doors.blend (112 Ko)
+
+============================================================
+Résultat : 4/4 assets générés
+============================================================

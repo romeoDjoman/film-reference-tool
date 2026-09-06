@@ -1,0 +1,2340 @@
+[
+    {
+        "id": "ASSET_001",
+        "name": "wooden table geometry with realistic wear texture",
+        "category": "MATERIAL",
+        "strategy": "EXISTING_ASSET",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_002",
+        "name": "leather armor materials with metallic studs and straps",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_003",
+        "name": "ceramic textures with handcrafted imperfections",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_004",
+        "name": "parchment scrolls with rolled ends",
+        "category": "ARCHITECTURE",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_005",
+        "name": "metal helmet with reflective surface",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_006",
+        "name": "stone wall environment with weathered texture",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_007",
+        "name": "blood-stained floor plane",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            1
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_008",
+        "name": "stone millstone mechanism",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            2
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_009",
+        "name": "Roman-style armor pieces",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            2
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_010",
+        "name": "whip prop",
+        "category": "PROP",
+        "strategy": "EXISTING_ASSET",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            2
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_011",
+        "name": "wooden tables",
+        "category": "MATERIAL",
+        "strategy": "EXISTING_ASSET",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            2,
+            3,
+            9
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_012",
+        "name": "stone floor textures",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            2
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_013",
+        "name": "stone floor tiles",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            3,
+            9,
+            10
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_014",
+        "name": "Roman armor models",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            3
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_015",
+        "name": "torture device (stone block)",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            3
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_016",
+        "name": "helmet props",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            3
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_017",
+        "name": "torch fixtures on wall",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            3
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_018",
+        "name": "characters in Roman-style armor",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            4
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_019",
+        "name": "stone wall environment",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            4,
+            6,
+            7
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_020",
+        "name": "wooden table with period-appropriate objects",
+        "category": "MATERIAL",
+        "strategy": "EXISTING_ASSET",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            4
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_021",
+        "name": "stone wall texture",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            5,
+            13,
+            14,
+            19,
+            24
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_022",
+        "name": "Roman helmet models",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            5
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_023",
+        "name": "leather armor with metal hardware",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            5
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_024",
+        "name": "torch model with flame simulation",
+        "category": "PROP",
+        "strategy": "SEARCH_FIRST",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            5
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_025",
+        "name": "character model (bald man in armor)",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            6
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_026",
+        "name": "leather armor plates",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            6
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_027",
+        "name": "torch",
+        "category": "PROP",
+        "strategy": "SEARCH_FIRST",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            6
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_028",
+        "name": "gladiator character model",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            7
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_029",
+        "name": "commander character model",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            7
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_030",
+        "name": "Roman soldier models",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            7,
+            13
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_031",
+        "name": "torch prop",
+        "category": "PROP",
+        "strategy": "SEARCH_FIRST",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            7
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_032",
+        "name": "Roman-style helmets",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            8
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_033",
+        "name": "leather armor pieces",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            8
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_034",
+        "name": "stone textures (walls, floor, pillar)",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            8
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_035",
+        "name": "foldable table model",
+        "category": "PROP",
+        "strategy": "EXISTING_ASSET",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            8
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_036",
+        "name": "bound character rigging",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            8
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_037",
+        "name": "stone pillar with metal fixtures",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            9
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_038",
+        "name": "Roman-style armor sets",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            9
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_039",
+        "name": "whips",
+        "category": "PROP",
+        "strategy": "EXISTING_ASSET",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            9
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_040",
+        "name": "stone pillar with metal collar",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            10
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_041",
+        "name": "chains and shackles",
+        "category": "PROP",
+        "strategy": "EXISTING_ASSET",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            10
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_042",
+        "name": "guard uniforms (brown tunics, dark trousers)",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            10
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_043",
+        "name": "blood effects",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            10,
+            17
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_044",
+        "name": "stone block/column with weathered texture",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            11
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_045",
+        "name": "character models (guards and victim) with detailed armor and clothing",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            11
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_046",
+        "name": "blood simulation system for realistic splatter",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            11
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_047",
+        "name": "stone floor tiles with grout lines",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            11
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_048",
+        "name": "victim model with detailed blood simulation",
+        "category": "CHARACTER",
+        "strategy": "PROCEDURAL",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            12
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_049",
+        "name": "execution post with metal fixtures",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            12
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_050",
+        "name": "Roman guard uniforms and armor",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            12
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_051",
+        "name": "stone floor and wall textures",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            12,
+            36
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_052",
+        "name": "Leather armor with metal studs",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            13,
+            25,
+            26
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_053",
+        "name": "Metal helmets",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            13
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_054",
+        "name": "Torches",
+        "category": "PROP",
+        "strategy": "SEARCH_FIRST",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            13
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_055",
+        "name": "Roman soldier armor models",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            14
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_056",
+        "name": "Paved floor geometry",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            14
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_057",
+        "name": "Torche model with flame simulation",
+        "category": "PROP",
+        "strategy": "SEARCH_FIRST",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            14
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_058",
+        "name": "Blood particle system for fallen man",
+        "category": "CHARACTER",
+        "strategy": "PROCEDURAL",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            14
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_059",
+        "name": "Motion blur effect for foreground figure",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            14
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_060",
+        "name": "character model (male, bearded)",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            15
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_061",
+        "name": "wooden post with metal bands",
+        "category": "MATERIAL",
+        "strategy": "EXISTING_ASSET",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            15
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_062",
+        "name": "blood simulation system",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            15
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_063",
+        "name": "stone floor texture",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            15
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_064",
+        "name": "human face geometry with wound details",
+        "category": "CHARACTER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            16
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_065",
+        "name": "leather armor rigging",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            16
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_066",
+        "name": "stone wall environment assets",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            16
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_067",
+        "name": "stone walls",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            17
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_068",
+        "name": "armor",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            17
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_069",
+        "name": "weapons",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            17
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_070",
+        "name": "human skin texture with wounds and blood",
+        "category": "CHARACTER",
+        "strategy": "PROCEDURAL",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            18
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_071",
+        "name": "Roman helmet and armor set",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            18
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_072",
+        "name": "stone wall texture with blood stains",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            18
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_073",
+        "name": "Roman soldier armor (breastplate, shoulder plates, helmet)",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            19
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_074",
+        "name": "Fabric materials (cape, cloak, scarf)",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            19
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_075",
+        "name": "Blood particle system or texture map",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            19
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_076",
+        "name": "Infant model (simplified)",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            19
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_077",
+        "name": "human anatomy (male)",
+        "category": "CHARACTER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            20
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_078",
+        "name": "sword prop",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            20
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_079",
+        "name": "rock texture",
+        "category": "MATERIAL",
+        "strategy": "SEARCH_FIRST",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            20
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_080",
+        "name": "blood material",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            20
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_081",
+        "name": "humanoid characters (bald muscular male, bearded male)",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            21
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_082",
+        "name": "armor plates",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            21
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_083",
+        "name": "weapon model",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            21
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_084",
+        "name": "blood simulation assets",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            21,
+            22
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_085",
+        "name": "stone architecture background",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            21
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_086",
+        "name": "human anatomy (face, torso)",
+        "category": "CHARACTER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            22
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_087",
+        "name": "stone texture maps",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            22
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_088",
+        "name": "leather armor textures",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            22
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_089",
+        "name": "character models (nurse, soldier, infant)",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            23
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_090",
+        "name": "clothing assets (fur cloak, leather armor, scarf)",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            23
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_091",
+        "name": "environment asset (stone wall)",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            23
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_092",
+        "name": "lighting setup (natural daylight simulation)",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            23
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_093",
+        "name": "character models (adult female, child, male partial)",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            24
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_094",
+        "name": "fabric materials (black hood, tunic)",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            24
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_095",
+        "name": "human anatomy (skin, muscle)",
+        "category": "CHARACTER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            25
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_096",
+        "name": "blood simulation",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            25
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_097",
+        "name": "stone textures",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            25
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_098",
+        "name": "metallic gauntlet/weapon",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            25
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_099",
+        "name": "character models (bald muscular male)",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            26
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_100",
+        "name": "stone wall textures",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            26
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_101",
+        "name": "arched architectural elements",
+        "category": "ARCHITECTURE",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            26
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_102",
+        "name": "human face with wounds",
+        "category": "CHARACTER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            27
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_103",
+        "name": "beard and hair",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            27
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_104",
+        "name": "leg with armor and boots",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            27
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_105",
+        "name": "blood splatter and pooling",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            27
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_106",
+        "name": "ancient sandals model",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            28
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_107",
+        "name": "human leg anatomy (muscle, skin)",
+        "category": "CHARACTER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            28
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_108",
+        "name": "blood particle system",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            28
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_109",
+        "name": "bearded male face model",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            28
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_110",
+        "name": "background crowd placeholder",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            28
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_111",
+        "name": "human face geometry (injured)",
+        "category": "CHARACTER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            29
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_112",
+        "name": "foot anatomy",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            29
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_113",
+        "name": "sandals model",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            29,
+            30
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_114",
+        "name": "textured fabric plane",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            29
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_115",
+        "name": "human feet and legs geometry",
+        "category": "CHARACTER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            30
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_116",
+        "name": "woven mat texture",
+        "category": "MATERIAL",
+        "strategy": "SEARCH_FIRST",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            30
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_117",
+        "name": "simple robe clothing system",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            30
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_118",
+        "name": "bowl and pottery assets",
+        "category": "PROP",
+        "strategy": "EXISTING_ASSET",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            30
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_119",
+        "name": "character models for three figures with period-appropriate clothing",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            31
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_120",
+        "name": "foot washing basin prop",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            31
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_121",
+        "name": "ancient room environment with stone walls and earthen floor",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            31
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_122",
+        "name": "woven matting texture for floor",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            31
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_123",
+        "name": "human feet anatomy",
+        "category": "CHARACTER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_124",
+        "name": "hands with detailed fingers",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_125",
+        "name": "ceramic bowl geometry",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_126",
+        "name": "basin with water simulation",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_127",
+        "name": "ancient robe textures",
+        "category": "MATERIAL",
+        "strategy": "SEARCH_FIRST",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_128",
+        "name": "oil lamp model",
+        "category": "PROP",
+        "strategy": "SEARCH_FIRST",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_PROCEDURAL"
+    },
+    {
+        "id": "ASSET_129",
+        "name": "stone/plaster wall textures",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            32
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_130",
+        "name": "character models (two males)",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            33,
+            34
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_131",
+        "name": "ancient interior room",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            33
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_132",
+        "name": "ceramic jar",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            33
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_133",
+        "name": "wall-mounted lamp",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            33
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_134",
+        "name": "ceramic vessel prop",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            34
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_135",
+        "name": "textured robe materials",
+        "category": "MATERIAL",
+        "strategy": "SEARCH_FIRST",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            34
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_136",
+        "name": "character model (long hair, beard, facial features)",
+        "category": "CHARACTER",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            35
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_137",
+        "name": "footwear model (strapped sandals)",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            35
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_138",
+        "name": "textured wall geometry",
+        "category": "ARCHITECTURE",
+        "strategy": "PROCEDURAL_OR_EXISTING",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            35
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_139",
+        "name": "environment with opening to exterior",
+        "category": "ENVIRONMENT",
+        "strategy": "PROCEDURAL",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            35
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL_OR_EXISTING"
+    },
+    {
+        "id": "ASSET_140",
+        "name": "Roman soldier armor set (breastplate, greaves, sandals)",
+        "category": "CHARACTER_EQUIPMENT",
+        "strategy": "EXISTING_ASSET",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            36
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_ASSET"
+    },
+    {
+        "id": "ASSET_141",
+        "name": "blood splatter and pool geometry",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            36
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    },
+    {
+        "id": "ASSET_142",
+        "name": "gladiator face model with injuries",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            36
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_143",
+        "name": "human face geometry (high poly for skin texture)",
+        "category": "CHARACTER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "HIGH",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            37
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "EXISTING_OR_GENERATED"
+    },
+    {
+        "id": "ASSET_144",
+        "name": "beard/hair system with wetness simulation",
+        "category": "OTHER",
+        "strategy": "SEARCH_FIRST",
+        "priority": "LOW",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            37
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "SEARCH"
+    },
+    {
+        "id": "ASSET_145",
+        "name": "blood particle system or shader-based blood layer",
+        "category": "MATERIAL",
+        "strategy": "PROCEDURAL",
+        "priority": "MEDIUM",
+        "status": "TO_PROCESS",
+        "blender_ready": false,
+        "usage_scenes": [
+            37
+        ],
+        "source": null,
+        "local_file": null,
+        "blender_object": null,
+        "production_method": "PROCEDURAL"
+    }
+]

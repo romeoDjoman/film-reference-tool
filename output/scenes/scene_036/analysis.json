@@ -1,0 +1,119 @@
+{
+    "scene": 36,
+    "characters": [
+        {
+            "role": "combatant / gladiator",
+            "appearance": "male, bearded, bloody face and body, lying prone on the ground",
+            "clothing": "none visible in close-up; earlier frames show leather sandals",
+            "position": "foreground right, receding into background",
+            "posture": "lying down, head tilted back",
+            "actions": "motionless or dying",
+            "interactions": "being observed by approaching soldiers"
+        },
+        {
+            "role": "Roman soldier",
+            "appearance": "male, wearing full armor including breastplate and greaves",
+            "clothing": "brown tunic, red cape, metal armor with studs, sandals",
+            "position": "center background, emerging from doorway",
+            "posture": "standing, stepping forward",
+            "actions": "approaching the fallen figure",
+            "interactions": "observing or approaching the combatant"
+        },
+        {
+            "role": "Roman soldier (secondary)",
+            "appearance": "male, similar armor to first soldier",
+            "clothing": "brown tunic, red cape, metal breastplate, sandals",
+            "position": "left side of frame, partially visible",
+            "posture": "standing",
+            "actions": "accompanying the central soldier",
+            "interactions": "part of the approaching group"
+        },
+        {
+            "role": "Roman soldier (third)",
+            "appearance": "male, similar armor",
+            "clothing": "brown tunic, red cape, sandals",
+            "position": "right side background, out of focus",
+            "posture": "standing",
+            "actions": "part of the group",
+            "interactions": "uncertain"
+        }
+    ],
+    "environment": {
+        "location": "ancient Roman setting",
+        "interior_exterior": "exterior courtyard or street",
+        "architecture": "stone walls, arched doorway",
+        "walls": "rough-hewn stone, weathered texture",
+        "floor": "paved stone surface, wet with blood",
+        "ceiling": "not visible",
+        "background": "blurred figures and architecture, shallow depth of field",
+        "depth": "shallow; foreground sharply focused, background blurred"
+    },
+    "objects": [
+        {
+            "name": "leather sandals",
+            "position": "on foot of fallen combatant",
+            "apparent_material": "wet leather, stained with blood",
+            "importance_for_reconstruction": "high detail for texture and wear"
+        },
+        {
+            "name": "blood",
+            "position": "sprayed on legs, pooled on floor",
+            "apparent_material": "liquid, viscous",
+            "importance_for_reconstruction": "critical for realism and atmosphere"
+        },
+        {
+            "name": "Roman armor",
+            "position": "worn by soldiers in background",
+            "apparent_material": "metallic plates, leather straps",
+            "importance_for_reconstruction": "replicable asset for multiple characters"
+        }
+    ],
+    "camera": {
+        "shot_type": "close-up to medium shot",
+        "angle": "low angle, eye-level with floor",
+        "height": "ground level, near feet",
+        "composition": "rule of thirds; fallen figure on right, soldiers entering center-left",
+        "perspective": "slight Dutch tilt in later frames suggesting motion or instability",
+        "movement": "slow push-in or dolly forward toward the doorway",
+        "estimated_focal_length": "50mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight from above and behind",
+            "ambient light from open courtyard"
+        ],
+        "direction": "from upper right, casting shadows to left",
+        "intensity": "moderate, soft but directional",
+        "softness": "soft due to overcast or diffused sunlight",
+        "color_temperature": "warm, slightly desaturated",
+        "shadows": "soft, elongated under armor and figures",
+        "mood": "tense, grim, violent"
+    },
+    "visual_style": "cinematic realism with high contrast between blood reds and muted earth tones; gritty texture emphasis; shallow depth of field for dramatic focus on violence and impending confrontation",
+    "3d_reconstruction": {
+        "important_assets": [
+            "Roman soldier armor set (breastplate, greaves, sandals)",
+            "blood splatter and pool geometry",
+            "stone floor and wall textures",
+            "gladiator face model with injuries"
+        ],
+        "materials": [
+            "wet leather",
+            "metallic armor",
+            "dried blood",
+            "fresh blood (liquid)",
+            "stone surface"
+        ],
+        "geometry": [
+            "low-poly human anatomy for combatant",
+            "modular armor pieces",
+            "paved floor tiles",
+            "arched doorway structure"
+        ],
+        "existing_assets": [
+            "Roman soldier models from similar films/games",
+            "blood particle systems",
+            "ancient architecture templates"
+        ]
+    }
+}

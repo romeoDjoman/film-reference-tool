@@ -1,0 +1,91 @@
+{
+    "scene": 16,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, dark hair, beard, bloody face with visible wounds and bruising",
+            "clothing": "none visible in close-up frames; later seen wearing brown tunic under armor",
+            "position": "lying supine on ground",
+            "posture": "head tilted back, mouth open, eyes closed or unfocused",
+            "actions": "appears unconscious or dying",
+            "interactions": "none observed in these frames"
+        },
+        {
+            "role": "guards / soldiers",
+            "appearance": "two bald males, muscular build, facial hair",
+            "clothing": "brown tunics with leather armor plates over shoulders and chest",
+            "position": "standing upright, positioned behind victim",
+            "posture": "one guard has arm raised as if gesturing or celebrating; other stands with arms at sides",
+            "actions": "appearing triumphant or shouting",
+            "interactions": "observed together, likely reacting to the defeated character"
+        }
+    ],
+    "environment": {
+        "location": "ancient Roman-style arena or courtyard",
+        "interior_exterior": "exterior",
+        "architecture": "stone walls with arched openings visible in background",
+        "walls": "weathered stone, light beige/tan color",
+        "floor": "not clearly visible; implied to be ground level",
+        "ceiling": "not visible",
+        "background": "stone wall structure suggesting enclosed space or amphitheater",
+        "depth": "moderate depth with foreground victim and mid-ground guards against background architecture"
+    },
+    "objects": [
+        {
+            "name": "leather armor",
+            "position": "worn by guards on upper body",
+            "apparent_material": "dark brown leather with metal rivets",
+            "importance_for_reconstruction": "key costume element for character design"
+        },
+        {
+            "name": "blood and wounds",
+            "position": "on victim's face",
+            "apparent_material": "wet, viscous liquid on skin",
+            "importance_for_reconstruction": "critical visual detail indicating violence"
+        }
+    ],
+    "camera": {
+        "shot_type": "close-up to medium shot",
+        "angle": "low angle looking up at victim in first frames; eye-level or slightly low for guards in later frames",
+        "height": "low to ground level initially, then shifts to capture standing figures",
+        "composition": "tight framing on victim’s face in early frames; wider composition including both guards in final frame",
+        "perspective": "slightly distorted wide-angle lens effect noticeable in facial features",
+        "movement": "static or minimal movement between frames; possible slight pan or zoom transition implied by framing change",
+        "estimated_focal_length": "35mm–50mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "diffuse overhead lighting with soft shadows",
+        "intensity": "moderate, not harsh",
+        "softness": "soft due to overcast or shaded environment",
+        "color_temperature": "neutral to slightly cool",
+        "shadows": "subtle under armor and facial features",
+        "mood": "tense, grim, dramatic"
+    },
+    "visual_style": "cinematic realism with high contrast between blood tones and skin; gritty texture emphasis; historical drama aesthetic",
+    "3d_reconstruction": {
+        "important_assets": [
+            "human face geometry with wound details",
+            "leather armor rigging",
+            "stone wall environment assets"
+        ],
+        "materials": [
+            "wet skin shader",
+            "blood material (viscous, dark red)",
+            "leather texture with wear and tear",
+            "stone surface with weathering"
+        ],
+        "geometry": [
+            "high-poly facial anatomy for wound placement",
+            "armor plate shapes and articulation points",
+            "arched architectural elements"
+        ],
+        "existing_assets": [
+            "Roman soldier armor templates",
+            "ancient stone wall blocks",
+            "close-up human face base mesh"
+        ]
+    }
+}

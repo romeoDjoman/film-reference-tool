@@ -1,0 +1,107 @@
+{
+    "scene": 7,
+    "characters": [
+        {
+            "role": "gladiator",
+            "appearance": "bald, muscular, bloodied face and head",
+            "clothing": "brown tunic, leather armor vest",
+            "position": "foreground, right side of frame",
+            "posture": "leaning forward, aggressive stance",
+            "actions": "grinning menacingly, looking at camera",
+            "interactions": "directing or threatening the viewer"
+        },
+        {
+            "role": "commander",
+            "appearance": "middle-aged, brown hair, stern expression",
+            "clothing": "brown tunic, leather armor with metal buckles, scarf",
+            "position": "mid-ground, center-left",
+            "posture": "standing upright, arm extended forward",
+            "actions": "gesturing or commanding",
+            "interactions": "appears to be in charge of the gladiator"
+        },
+        {
+            "role": "soldiers",
+            "appearance": "wearing helmets and armor",
+            "clothing": "metallic helmets, leather armor",
+            "position": "background, left side",
+            "posture": "standing at attention",
+            "actions": "observing the scene",
+            "interactions": "part of the military contingent"
+        }
+    ],
+    "environment": {
+        "location": "ancient Roman setting",
+        "interior_exterior": "exterior courtyard or plaza",
+        "architecture": "stone walls with arched doorway",
+        "walls": "rough-hewn stone blocks, weathered texture",
+        "floor": "uncertain, likely stone or dirt",
+        "ceiling": "not visible",
+        "background": "blurred stone structures and soldiers",
+        "depth": "shallow depth of field, focus on gladiator"
+    },
+    "objects": [
+        {
+            "name": "torches",
+            "position": "background, left side",
+            "apparent_material": "flame on wooden staff",
+            "importance_for_reconstruction": "lighting source and atmospheric element"
+        },
+        {
+            "name": "armor pieces",
+            "position": "on characters",
+            "apparent_material": "leather with metal studs/buckles",
+            "importance_for_reconstruction": "key visual detail for character design"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up to medium shot",
+        "angle": "slightly low angle on gladiator, eye-level on commander",
+        "height": "uncertain, likely around 1.5m - 2m",
+        "composition": "rule of thirds, gladiator dominates right side",
+        "perspective": "slight Dutch tilt in first four frames",
+        "movement": "static or very subtle push-in",
+        "estimated_focal_length": "85mm"
+    },
+    "lighting": {
+        "sources": [
+            "torches in background",
+            "ambient daylight (uncertain)"
+        ],
+        "direction": "from above and slightly behind gladiator",
+        "intensity": "moderate, dramatic contrast",
+        "softness": "mixed - soft on face, harsh shadows",
+        "color_temperature": "cool with warm torchlight accents",
+        "shadows": "deep under armor and facial features",
+        "mood": "tense, ominous"
+    },
+    "visual_style": "cinematic realism with historical period aesthetic, high contrast, grainy texture, dramatic lighting typical of epic films",
+    "3d_reconstruction": {
+        "important_assets": [
+            "gladiator character model",
+            "commander character model",
+            "Roman soldier models",
+            "stone wall environment",
+            "torch prop"
+        ],
+        "materials": [
+            "leather armor",
+            "metal studs",
+            "blood texture",
+            "stone surface",
+            "fabric tunic",
+            "flame shader"
+        ],
+        "geometry": [
+            "humanoid figures with detailed facial features",
+            "armor plates with rivets/buckles",
+            "arched architectural elements",
+            "torch structure"
+        ],
+        "existing_assets": [
+            "Roman soldier templates",
+            "gladiator character rigs",
+            "stone texture packs",
+            "fire/lighting shaders"
+        ]
+    }
+}

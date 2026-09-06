@@ -1,0 +1,108 @@
+{
+    "scene": 6,
+    "characters": [
+        {
+            "role": "primary character",
+            "appearance": "bald man with blood on face and head",
+            "clothing": "brown tunic, leather shoulder armor plates, beige cloth tied around neck",
+            "position": "foreground, center-left to center-right",
+            "posture": "leaning forward, head tilted slightly",
+            "actions": "expressing shock or distress, mouth open as if speaking or gasping",
+            "interactions": "appears to be reacting to an unseen event or person"
+        },
+        {
+            "role": "secondary character",
+            "appearance": "man wearing a helmet with a crest",
+            "clothing": "military-style attire, possibly armor",
+            "position": "background, right side of frame",
+            "posture": "standing upright",
+            "actions": "observing the scene, out of focus",
+            "interactions": "none directly visible; appears to be a guard or soldier"
+        }
+    ],
+    "environment": {
+        "location": "ancient stone structure, possibly a fortress or castle courtyard",
+        "interior_exterior": "exterior",
+        "architecture": "stone walls with arched openings and small windows",
+        "walls": "large stone blocks forming walls, weathered texture",
+        "floor": "uncertain, not clearly visible",
+        "ceiling": "not visible",
+        "background": "stone architecture, blurred due to depth of field",
+        "depth": "shallow depth of field; foreground character in focus, background out of focus"
+    },
+    "objects": [
+        {
+            "name": "leather shoulder armor",
+            "position": "on shoulders of primary character",
+            "apparent_material": "dark brown leather with metal rivets",
+            "importance_for_reconstruction": "high; key costume element"
+        },
+        {
+            "name": "beige cloth scarf",
+            "position": "around neck of primary character",
+            "apparent_material": "fabric, possibly linen or wool",
+            "importance_for_reconstruction": "medium; adds detail to character design"
+        },
+        {
+            "name": "torch",
+            "position": "left side of frame, background",
+            "apparent_material": "wooden handle with flame",
+            "importance_for_reconstruction": "low; provides ambient lighting"
+        },
+        {
+            "name": "sword or spear tip",
+            "position": "vertical object behind primary character",
+            "apparent_material": "metallic blade",
+            "importance_for_reconstruction": "medium; suggests military context"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up",
+        "angle": "slightly low angle, looking up at primary character",
+        "height": "eye level or slightly below eye level",
+        "composition": "primary character dominates frame, secondary character in background right",
+        "perspective": "slight Dutch tilt in later frames, adding tension",
+        "movement": "uncertain; appears static with possible slight pan or zoom",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    "lighting": {
+        "sources": [
+            "torch on left side",
+            "ambient daylight or ambient light source from above"
+        ],
+        "direction": "mixed; torch provides warm glow on left, ambient light fills scene",
+        "intensity": "moderate; soft shadows overall",
+        "softness": "soft to medium; diffused lighting",
+        "color_temperature": "warm due to torch, neutral/cool from ambient",
+        "shadows": "soft shadows under chin and armor plates",
+        "mood": "tense, dramatic"
+    },
+    "visual_style": "cinematic realism with historical period aesthetic; muted earth tones, blood accents, shallow depth of field for focus on emotion",
+    "3d_reconstruction": {
+        "important_assets": [
+            "character model (bald man in armor)",
+            "leather armor plates",
+            "stone wall environment",
+            "torch"
+        ],
+        "materials": [
+            "leather with wear and tear",
+            "metallic rivets",
+            "fabric scarf",
+            "stone texture",
+            "blood simulation"
+        ],
+        "geometry": [
+            "humanoid character geometry",
+            "armor plate shapes",
+            "stone wall blocks",
+            "arched architectural elements"
+        ],
+        "existing_assets": [
+            "medieval/historical armor assets",
+            "stone environment templates",
+            "torch or fire asset",
+            "character rig for facial expressions"
+        ]
+    }
+}

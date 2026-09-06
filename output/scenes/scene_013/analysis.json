@@ -1,0 +1,126 @@
+{
+    "scene": 13,
+    "characters": [
+        {
+            "role": "Roman soldier",
+            "appearance": "Male, middle-aged, short brown hair, clean-shaven",
+            "clothing": "Brown tunic, leather armor with shoulder guards and chest plates, braided rope around neck",
+            "position": "Center-left foreground",
+            "posture": "Standing upright, hands at sides",
+            "actions": "Watching intently, slight frown",
+            "interactions": "Observing the action in front of him"
+        },
+        {
+            "role": "Roman soldier",
+            "appearance": "Male, muscular build, helmet with crest, beard",
+            "clothing": "Brown tunic, leather armor, shoulder guards, chest plates",
+            "position": "Right side of frame",
+            "posture": "Standing, holding weapon in both hands",
+            "actions": "Watching intently, slight frown",
+            "interactions": "Observing the action in front of him"
+        },
+        {
+            "role": "Roman soldier (foreground)",
+            "appearance": "Male, partially visible",
+            "clothing": "Brown tunic, leather armor",
+            "position": "Left foreground",
+            "posture": "Moving rapidly across frame",
+            "actions": "Swinging arm/weapon in motion blur",
+            "interactions": "Creating dynamic movement in the scene"
+        },
+        {
+            "role": "Roman soldier (background)",
+            "appearance": "Male, partially visible",
+            "clothing": "Brown tunic, leather armor",
+            "position": "Behind center character",
+            "posture": "Standing",
+            "actions": "Watching intently",
+            "interactions": "Observing the action"
+        }
+    ],
+    "environment": {
+        "location": "Ancient Roman military camp or fortification",
+        "interior_exterior": "Exterior",
+        "architecture": "Stone wall with rough-hewn blocks",
+        "walls": "Large stone blocks, weathered texture",
+        "floor": "Uncertain - not clearly visible",
+        "ceiling": "Not visible",
+        "background": "Stone wall with spears mounted on it",
+        "depth": "Moderate depth with foreground characters and background wall"
+    },
+    "objects": [
+        {
+            "name": "Spears",
+            "position": "Mounted on stone wall in background",
+            "apparent_material": "Metal tips, wooden shafts",
+            "importance_for_reconstruction": "High - establishes military setting"
+        },
+        {
+            "name": "Torches",
+            "position": "Held by soldiers or mounted on wall",
+            "apparent_material": "Wood with flame",
+            "importance_for_reconstruction": "Medium - provides lighting and atmosphere"
+        },
+        {
+            "name": "Leather armor pieces",
+            "position": "Worn by characters",
+            "apparent_material": "Leather with metal studs/buckles",
+            "importance_for_reconstruction": "High - key character detail"
+        },
+        {
+            "name": "Helmet",
+            "position": "On ground in foreground",
+            "apparent_material": "Metal, worn and aged",
+            "importance_for_reconstruction": "Medium - adds to military context"
+        }
+    ],
+    "camera": {
+        "shot_type": "Medium shot",
+        "angle": "Eye level",
+        "height": "Approximately 1.5-2 meters",
+        "composition": "Rule of thirds with characters positioned across frame",
+        "perspective": "Slight Dutch angle tilt in later frames",
+        "movement": "Camera appears to be moving or panning slightly, creating motion blur effect",
+        "estimated_focal_length": "50mm"
+    },
+    "lighting": {
+        "sources": [
+            "Natural daylight",
+            "Torches providing accent lighting"
+        ],
+        "direction": "Front and side lighting",
+        "intensity": "Moderate - not overly bright or dark",
+        "softness": "Mixed - some soft areas with defined shadows",
+        "color_temperature": "Warm, earthy tones",
+        "shadows": "Defined shadows under armor pieces and characters",
+        "mood": "Tense, serious, military"
+    },
+    "visual_style": "Realistic historical drama with warm color palette, natural lighting, and attention to period-accurate details. Cinematic characteristics include motion blur for dynamic movement and slight camera tilt for dramatic effect.",
+    "3d_reconstruction": {
+        "important_assets": [
+            "Roman soldier models",
+            "Stone wall texture",
+            "Leather armor with metal studs",
+            "Metal helmets",
+            "Torches"
+        ],
+        "materials": [
+            "Weathered stone",
+            "Aged leather",
+            "Metal (armor, spears, helmet)",
+            "Fabric (tunics)"
+        ],
+        "geometry": [
+            "Rough stone blocks",
+            "Curved armor plates",
+            "Cylindrical torches",
+            "Conical helmets"
+        ],
+        "existing_assets": [
+            "Roman soldier character models",
+            "Ancient Roman armor sets",
+            "Stone wall textures",
+            "Historical helmet models"
+        ]
+    }
+}

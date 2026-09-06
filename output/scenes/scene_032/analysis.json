@@ -1,0 +1,119 @@
+{
+    "scene": 32,
+    "characters": [
+        {
+            "role": "servant",
+            "appearance": "male, dark hair, beard, long hair reaching shoulders",
+            "clothing": "dark textured robe or tunic",
+            "position": "seated on the left side of the frame, facing right",
+            "posture": "leaning forward, holding a bowl and then washing feet",
+            "actions": "holding a bowl, pouring water, washing another character's feet",
+            "interactions": "washing the feet of the second character"
+        },
+        {
+            "role": "recipient",
+            "appearance": "male, short dark hair, beard",
+            "clothing": "dark robe or tunic",
+            "position": "seated on the right side of the frame, facing left",
+            "posture": "legs extended forward, feet resting in a basin",
+            "actions": "receiving foot washing",
+            "interactions": "passive recipient of service"
+        }
+    ],
+    "environment": {
+        "location": "ancient interior room",
+        "interior_exterior": "interior",
+        "architecture": "simple stone or plaster walls, rough texture",
+        "walls": "textured, possibly stone or mud-plaster, warm-toned",
+        "floor": "earthen or stone floor, textured surface",
+        "ceiling": "uncertain, not visible in frames",
+        "background": "dimly lit background with a hanging oil lamp and large ceramic jar",
+        "depth": "moderate depth; foreground shows feet and hands, midground includes basin and sandals, background contains characters and room elements"
+    },
+    "objects": [
+        {
+            "name": "bowl",
+            "position": "held by servant in left hand, later placed near foot basin",
+            "apparent_material": "ceramic or clay, dark reddish-brown",
+            "importance_for_reconstruction": "key prop for foot washing action"
+        },
+        {
+            "name": "basin",
+            "position": "on floor in front of recipient's feet",
+            "apparent_material": "ceramic or metal, reflective surface with water",
+            "importance_for_reconstruction": "central object for the foot washing ritual"
+        },
+        {
+            "name": "sandals",
+            "position": "on floor in background, near center",
+            "apparent_material": "leather or woven material, dark color",
+            "importance_for_reconstruction": "contextual detail indicating removal of footwear"
+        },
+        {
+            "name": "oil lamp",
+            "position": "mounted on wall in background",
+            "apparent_material": "metal or ceramic with flame",
+            "importance_for_reconstruction": "primary light source and atmospheric element"
+        },
+        {
+            "name": "large jar",
+            "position": "on floor in background, near lamp",
+            "apparent_material": "ceramic, large storage vessel",
+            "importance_for_reconstruction": "environmental detail suggesting ancient setting"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium close-up to over-the-shoulder composition",
+        "angle": "slightly elevated, looking down at feet and hands initially, then eye-level for character interaction",
+        "height": "approximately waist-to-chest height relative to characters",
+        "composition": "over-the-shoulder shot focusing on foot washing action, then pulling back to show both characters in conversation",
+        "perspective": "slight Dutch angle or tilted perspective in early frames, level in later frames",
+        "movement": "slow push-in or static with subtle framing adjustments between frames",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    "lighting": {
+        "sources": [
+            "oil lamp mounted on wall",
+            "possible ambient light from doorway or window (right side)"
+        ],
+        "direction": "primarily from upper right and front, casting shadows to left and back",
+        "intensity": "low to medium, creating high contrast between lit areas and deep shadows",
+        "softness": "moderately soft due to single point source, with some harsh shadows in darker areas",
+        "color_temperature": "warm, sepia-toned, reddish-orange hue throughout",
+        "shadows": "pronounced shadows under feet, hands, and clothing; deep blacks in corners",
+        "mood": "intimate, solemn, reverent, ancient ritualistic"
+    },
+    "visual_style": "realistic historical drama with warm monochromatic color grading, high contrast, cinematic lighting typical of biblical epics, focus on texture and detail in skin, fabric, and materials",
+    "3d_reconstruction": {
+        "important_assets": [
+            "human feet anatomy",
+            "hands with detailed fingers",
+            "ceramic bowl geometry",
+            "basin with water simulation",
+            "ancient robe textures",
+            "oil lamp model",
+            "stone/plaster wall textures"
+        ],
+        "materials": [
+            "skin (moist, glistening)",
+            "fabric (rough, textured wool or linen)",
+            "ceramic (matte, reddish-brown)",
+            "water (reflective, translucent)",
+            "stone/plaster (rough, warm tone)"
+        ],
+        "geometry": [
+            "foot shape with toes and arch",
+            "leg anatomy from ankle to knee",
+            "hand geometry with fingers",
+            "bowl interior and exterior curvature",
+            "basin rim and water volume"
+        ],
+        "existing_assets": [
+            "human foot/leg models",
+            "ancient robe textures",
+            "ceramic bowl primitives",
+            "oil lamp assets",
+            "water simulation shaders"
+        ]
+    }
+}

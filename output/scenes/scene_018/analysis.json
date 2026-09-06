@@ -1,0 +1,92 @@
+{
+    "scene": 18,
+    "characters": [
+        {
+            "role": "victim / protagonist",
+            "appearance": "male, dark wavy hair, beard, bloody face and chest",
+            "clothing": "shirtless",
+            "position": "lying on back",
+            "posture": "arms outstretched, head tilted back",
+            "actions": "eyes open then closing, mouth slightly open, appearing injured or dying",
+            "interactions": "none visible in frames"
+        },
+        {
+            "role": "observer / antagonist",
+            "appearance": "male, wearing Roman-style armor and helmet",
+            "clothing": "metal breastplate, red cape, scarf",
+            "position": "standing or sitting upright (foreground)",
+            "posture": "facing the victim",
+            "actions": "smiling slightly, looking at the victim",
+            "interactions": "observing the victim"
+        }
+    ],
+    "environment": {
+        "location": "indoor stone chamber or dungeon",
+        "interior_exterior": "interior",
+        "architecture": "stone walls with visible mortar lines",
+        "walls": "rough-hewn stone, stained with blood",
+        "floor": "not clearly visible, but implied to be stone",
+        "ceiling": "not visible",
+        "background": "stone wall behind victim, blurred foreground figure",
+        "depth": "shallow depth of field; victim in focus, foreground figure out of focus"
+    },
+    "objects": [
+        {
+            "name": "blood",
+            "position": "on victim's face, chest, arms, and background wall",
+            "apparent_material": "wet, viscous, dark red",
+            "importance_for_reconstruction": "high — defines texture and color palette"
+        },
+        {
+            "name": "Roman armor",
+            "position": "worn by foreground character",
+            "apparent_material": "metallic plate with leather straps",
+            "importance_for_reconstruction": "medium — provides context for setting"
+        }
+    ],
+    "camera": {
+        "shot_type": "close-up to medium close-up",
+        "angle": "low angle looking up at victim, then shifts to eye-level with foreground figure",
+        "height": "eye level with victim’s head",
+        "composition": "tight framing on victim’s upper body and face; shallow depth of field blurs foreground figure",
+        "perspective": "slight Dutch tilt in some frames suggesting disorientation or distress",
+        "movement": "static or very subtle push-in across frames",
+        "estimated_focal_length": "85mm – 100mm"
+    },
+    "lighting": {
+        "sources": [
+            "primary key light from above-left, casting shadows on right side of victim’s face",
+            "ambient fill from opposite direction to soften contrast"
+        ],
+        "direction": "top-left dominant",
+        "intensity": "moderate-high, creating strong highlights and deep shadows",
+        "softness": "semi-hard — sharp edges on blood splatters but soft skin tones",
+        "color_temperature": "cool with warm reds from blood overriding ambient tone",
+        "shadows": "pronounced under chin, neck, and right cheek",
+        "mood": "gritty, tense, visceral"
+    },
+    "visual_style": "hyper-realistic period drama with emphasis on gore and emotional intensity; high contrast, saturated reds against muted stone tones; cinematic color grading typical of historical epics",
+    "3d_reconstruction": {
+        "important_assets": [
+            "human skin texture with wounds and blood",
+            "Roman helmet and armor set",
+            "stone wall texture with blood stains"
+        ],
+        "materials": [
+            "wet blood (high specular, flowing)",
+            "dried blood (matte, cracked)",
+            "metal armor (reflective, scratched)",
+            "rough stone (porous, stained)"
+        ],
+        "geometry": [
+            "human anatomy (torso, head, limbs)",
+            "Roman military gear",
+            "irregular stone blocks"
+        ],
+        "existing_assets": [
+            "generic Roman soldier model can be reused",
+            "blood simulation shaders may exist in library",
+            "stone wall texture packs available for reuse"
+        ]
+    }
+}

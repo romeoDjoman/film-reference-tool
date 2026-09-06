@@ -1,0 +1,144 @@
+{
+    "scene": 10,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, dark hair, shirtless, covered in blood and grime",
+            "clothing": "none visible on torso, possibly a loincloth or tattered garment at the bottom",
+            "position": "center of frame, bound to a stone pillar",
+            "posture": "arms raised and chained above head, body leaning back against the pillar",
+            "actions": "being restrained by guards",
+            "interactions": "held in place by two guards"
+        },
+        {
+            "role": "guard 1",
+            "appearance": "male, bald or short hair, muscular build",
+            "clothing": "brown tunic, dark knee-length trousers, sandals",
+            "position": "standing to the left of the victim",
+            "posture": "leaning over the victim",
+            "actions": "holding a weapon (possibly a sword or mace) and assisting in restraining the victim",
+            "interactions": "actively restraining the victim"
+        },
+        {
+            "role": "guard 2",
+            "appearance": "male, dark hair, muscular build",
+            "clothing": "brown tunic, dark knee-length trousers, sandals",
+            "position": "standing behind the victim",
+            "posture": "leaning over the victim",
+            "actions": "holding the victim's arms and chains",
+            "interactions": "actively restraining the victim"
+        },
+        {
+            "role": "guard 3",
+            "appearance": "male, bald or short hair, muscular build",
+            "clothing": "brown tunic, dark knee-length trousers, sandals",
+            "position": "standing to the right of the victim",
+            "posture": "standing upright, observing",
+            "actions": "watching the scene unfold",
+            "interactions": "passive observer"
+        },
+        {
+            "role": "guard 4",
+            "appearance": "male, partially visible on far left",
+            "clothing": "brown tunic with metal studs, dark knee-length trousers",
+            "position": "standing to the far left",
+            "posture": "standing upright",
+            "actions": "observing",
+            "interactions": "passive observer"
+        },
+        {
+            "role": "guard 5",
+            "appearance": "male, partially visible on far right",
+            "clothing": "brown tunic with metal studs, dark knee-length trousers",
+            "position": "standing to the far right",
+            "posture": "standing upright",
+            "actions": "observing",
+            "interactions": "passive observer"
+        }
+    ],
+    "environment": {
+        "location": "outdoor courtyard or plaza",
+        "interior_exterior": "exterior",
+        "architecture": "stone-paved ground, stone pillar with a metal collar",
+        "walls": "none visible in immediate foreground; background shows more of the open space",
+        "floor": "large stone tiles arranged in a circular pattern, stained with blood",
+        "ceiling": "not visible (open sky implied)",
+        "background": "additional guards standing around the perimeter, distant structures or walls uncertain",
+        "depth": "moderate depth; foreground shows victim and immediate guards, background shows more guards and open space"
+    },
+    "objects": [
+        {
+            "name": "stone pillar with metal collar",
+            "position": "center of frame, victim bound to it",
+            "apparent_material": "weathered stone with a dark metal band around the top",
+            "importance_for_reconstruction": "central prop for binding the victim"
+        },
+        {
+            "name": "chains and shackles",
+            "position": "around victim's wrists and upper arms, attached to the pillar",
+            "apparent_material": "metallic, heavy-duty chains with locking mechanisms",
+            "importance_for_reconstruction": "key element of restraint"
+        },
+        {
+            "name": "weapons (swords/maces)",
+            "position": "held by guards 1 and 2",
+            "apparent_material": "metallic, possibly worn or blood-stained",
+            "importance_for_reconstruction": "indicates threat and control"
+        },
+        {
+            "name": "blood stains",
+            "position": "on victim's body, floor, and stone pillar",
+            "apparent_material": "liquid blood, smeared and pooled",
+            "importance_for_reconstruction": "establishes violence and gore"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium to wide shot",
+        "angle": "slightly elevated, looking down at the victim",
+        "height": "eye level or slightly above, approximately 1.5-2 meters from ground",
+        "composition": "centered on victim and immediate guards, with background guards framing the scene",
+        "perspective": "slight Dutch angle tilt in some frames to enhance tension",
+        "movement": "static or minimal movement; slight pan or zoom possible between frames",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight, possibly overcast or shaded"
+        ],
+        "direction": "diffuse from above, no harsh shadows",
+        "intensity": "moderate, not overly bright or dark",
+        "softness": "soft due to overcast conditions or large light source",
+        "color_temperature": "neutral to slightly cool, with warm tones from blood and skin",
+        "shadows": "soft, diffused shadows under bodies and objects",
+        "mood": "tense, grim, violent"
+    },
+    "visual_style": "realistic, gritty, cinematic; high contrast between blood reds and muted earth tones; detailed textures on skin, stone, and metal",
+    "3d_reconstruction": {
+        "important_assets": [
+            "stone pillar with metal collar",
+            "chains and shackles",
+            "guard uniforms (brown tunics, dark trousers)",
+            "blood effects",
+            "stone floor tiles"
+        ],
+        "materials": [
+            "weathered stone",
+            "metallic chains and shackles",
+            "wet blood",
+            "skin with grime and blood",
+            "fabric (tunics)"
+        ],
+        "geometry": [
+            "circular stone floor pattern",
+            "pillar with cylindrical shape and metal band",
+            "humanoid figures in various poses",
+            "weapons (swords/maces)"
+        ],
+        "existing_assets": [
+            "generic Roman-style guard uniforms can be reused",
+            "stone textures for pillars and floors",
+            "blood simulation assets if available",
+            "chain/shackle models from previous projects"
+        ]
+    }
+}

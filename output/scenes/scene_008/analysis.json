@@ -1,0 +1,145 @@
+{
+    "scene": 8,
+    "characters": [
+        {
+            "role": "primary character",
+            "appearance": "middle-aged man with short brown hair and facial stubble",
+            "clothing": "brown tunic, leather armor vest with metal buckles, braided scarf",
+            "position": "center foreground",
+            "posture": "standing, right arm extended forward",
+            "actions": "gesturing with open palm, directing or commanding",
+            "interactions": "appears to be giving orders to the surrounding soldiers"
+        },
+        {
+            "role": "soldier",
+            "appearance": "male, wearing Roman-style helmet",
+            "clothing": "leather armor, red cape",
+            "position": "left background",
+            "posture": "standing at attention",
+            "actions": "observing the scene",
+            "interactions": "none visible"
+        },
+        {
+            "role": "soldier",
+            "appearance": "male, wearing Roman-style helmet",
+            "clothing": "leather armor with metal shoulder piece",
+            "position": "center-left background",
+            "posture": "standing",
+            "actions": "observing the scene",
+            "interactions": "none visible"
+        },
+        {
+            "role": "soldier",
+            "appearance": "male, wearing helmet",
+            "clothing": "leather armor",
+            "position": "right background",
+            "posture": "standing",
+            "actions": "observing the scene",
+            "interactions": "none visible"
+        },
+        {
+            "role": "soldier",
+            "appearance": "male, bald",
+            "clothing": "leather armor with metal shoulder piece",
+            "position": "right foreground",
+            "posture": "standing near table",
+            "actions": "gesturing toward the bound figure",
+            "interactions": "appears to be coordinating or instructing"
+        },
+        {
+            "role": "bound figure",
+            "appearance": "person with dark hair, shirtless",
+            "clothing": "tattered cloth around waist",
+            "position": "center-left, bound to stone pillar",
+            "posture": "lying on ground, arms tied behind back",
+            "actions": "passive, restrained",
+            "interactions": "being held captive by soldiers"
+        }
+    ],
+    "environment": {
+        "location": "outdoor courtyard or plaza",
+        "interior_exterior": "exterior",
+        "architecture": "stone building with arched doorway and small windows above",
+        "walls": "rough-hewn stone walls, weathered texture",
+        "floor": "paved stone ground",
+        "ceiling": "not visible",
+        "background": "stone structure with torch mounted on wall",
+        "depth": "moderate depth; foreground characters clearly separated from background soldiers"
+    },
+    "objects": [
+        {
+            "name": "stone pillar",
+            "position": "center-left, where bound figure is tied",
+            "apparent_material": "rough stone",
+            "importance_for_reconstruction": "key anchor point for bound character"
+        },
+        {
+            "name": "foldable table",
+            "position": "right foreground",
+            "apparent_material": "wooden frame with metal supports",
+            "importance_for_reconstruction": "contains items like helmet and cloth; may indicate preparation or aftermath of event"
+        },
+        {
+            "name": "torch",
+            "position": "mounted on right wall",
+            "apparent_material": "metal holder with flame",
+            "importance_for_reconstruction": "light source; adds atmospheric element"
+        },
+        {
+            "name": "bound figure's restraints",
+            "position": "arms tied behind back to pillar",
+            "apparent_material": "leather or rope",
+            "importance_for_reconstruction": "critical for animating bound character"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium shot transitioning to wide shot",
+        "angle": "eye-level in first frames; high-angle in final frame",
+        "height": "chest level initially; elevated in last frame",
+        "composition": "central focus on primary character gesturing; later reveals full scene context",
+        "perspective": "slight Dutch tilt in early frames suggesting tension or instability",
+        "movement": "static to slight pan/zoom out to reveal wider action",
+        "estimated_focal_length": "35mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight",
+            "torch flame on right wall"
+        ],
+        "direction": "overhead with side illumination from torch",
+        "intensity": "moderate; shadows present but not harsh",
+        "softness": "soft to medium; diffuse sunlight",
+        "color_temperature": "neutral to slightly cool; warm glow from torch",
+        "shadows": "visible under characters and objects; ground shows blood stains indicating prior violence",
+        "mood": "tense, ominous, historical drama"
+    },
+    "visual_style": "realistic historical period piece; muted earth tones with emphasis on leather textures and stone surfaces; cinematic lighting enhancing dramatic tension",
+    "3d_reconstruction": {
+        "important_assets": [
+            "Roman-style helmets",
+            "leather armor pieces",
+            "stone textures (walls, floor, pillar)",
+            "foldable table model",
+            "bound character rigging"
+        ],
+        "materials": [
+            "rough stone",
+            "weathered leather",
+            "metallic buckles and straps",
+            "blood-stained ground texture",
+            "fabric (tunic, scarf)"
+        ],
+        "geometry": [
+            "arched doorway structure",
+            "paved courtyard floor",
+            "torc holder on wall",
+            "bound figure pose with restraints"
+        ],
+        "existing_assets": [
+            "Roman soldier armor templates",
+            "historical building facades",
+            "torch models",
+            "foldable table prop"
+        ]
+    }
+}

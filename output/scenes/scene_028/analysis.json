@@ -1,0 +1,101 @@
+{
+    "scene": 28,
+    "characters": [
+        {
+            "role": "combatant / gladiator",
+            "appearance": "male, bearded, covered in blood and sweat",
+            "clothing": "ancient sandals with leather straps",
+            "position": "foreground, center-right (legs), then lying down (head)",
+            "posture": "standing initially, then supine",
+            "actions": "walking or standing, later shown injured on the ground",
+            "interactions": "none visible in frames"
+        },
+        {
+            "role": "background figures / soldiers",
+            "appearance": "blurred, indistinct forms",
+            "clothing": "similar ancient attire",
+            "position": "background, out of focus",
+            "posture": "standing",
+            "actions": "uncertain",
+            "interactions": "none visible"
+        }
+    ],
+    "environment": {
+        "location": "ancient arena or battlefield",
+        "interior_exterior": "exterior",
+        "architecture": "indistinct stone structures in background",
+        "walls": "blurred, possibly stone walls",
+        "floor": "flat, light-colored surface (dirt/sand)",
+        "ceiling": "not visible",
+        "background": "out-of-focus figures and architecture",
+        "depth": "shallow depth of field; foreground sharp, background blurred"
+    },
+    "objects": [
+        {
+            "name": "ancient sandals",
+            "position": "on feet of main character",
+            "apparent_material": "leather, worn and dirty",
+            "importance_for_reconstruction": "high - key visual element for period accuracy"
+        },
+        {
+            "name": "blood splatters",
+            "position": "on legs and face of main character",
+            "apparent_material": "liquid blood",
+            "importance_for_reconstruction": "high - indicates violence and injury"
+        },
+        {
+            "name": "sword or weapon (implied)",
+            "position": "not clearly visible but implied by context",
+            "apparent_material": "metal",
+            "importance_for_reconstruction": "medium - contextual element"
+        }
+    ],
+    "camera": {
+        "shot_type": "close-up / extreme close-up",
+        "angle": "low angle for legs; top-down or side view for face",
+        "height": "very low for leg shots, eye-level for head shot",
+        "composition": "tight framing on feet/legs then cut to face",
+        "perspective": "shallow depth of field, focus on foreground subject",
+        "movement": "static or minimal movement within each frame; possible cut between frames",
+        "estimated_focal_length": "85mm - 100mm (approximate for cinematic close-up)"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight",
+            "possible ambient light from surroundings"
+        ],
+        "direction": "diffuse, coming from above and slightly in front",
+        "intensity": "moderate, soft lighting",
+        "softness": "soft shadows due to overcast or diffuse conditions",
+        "color_temperature": "cool with warm highlights (blood)",
+        "shadows": "soft, indistinct shadows",
+        "mood": "gritty, tense, violent"
+    },
+    "visual_style": "cinematic realism with high contrast between sharp foreground and blurred background; muted earth tones punctuated by red blood; gritty texture emphasizing violence and physicality",
+    "3d_reconstruction": {
+        "important_assets": [
+            "ancient sandals model",
+            "human leg anatomy (muscle, skin)",
+            "blood particle system",
+            "bearded male face model",
+            "background crowd placeholder"
+        ],
+        "materials": [
+            "wet leather",
+            "skin with blood texture",
+            "dirt/sand floor",
+            "stone architecture"
+        ],
+        "geometry": [
+            "low-poly legs for performance",
+            "high-detail face for expression",
+            "particle system for blood splatters"
+        ],
+        "existing_assets": [
+            "gladiator sandals from other projects",
+            "ancient Roman soldier models",
+            "blood particle effects library",
+            "low-poly crowd placeholders"
+        ]
+    }
+}

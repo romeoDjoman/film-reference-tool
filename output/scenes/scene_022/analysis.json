@@ -1,0 +1,113 @@
+{
+    "scene": 22,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, dark curly hair, beard, bruised and bloody face, eyes closed or barely open",
+            "clothing": "shirtless",
+            "position": "lying down, head tilted back",
+            "posture": "supine, limp",
+            "actions": "appearing unconscious or dying",
+            "interactions": "none visible"
+        },
+        {
+            "role": "observer 1",
+            "appearance": "female, pale skin, dark hooded cloak",
+            "clothing": "black hooded robe",
+            "position": "standing to the left of observer 2",
+            "posture": "holding a child, hand near mouth",
+            "actions": "looking down with somber expression",
+            "interactions": "holding a child"
+        },
+        {
+            "role": "observer 2",
+            "appearance": "male, short brown hair, stern expression",
+            "clothing": "leather armor with straps and buckles, beige scarf",
+            "position": "standing to the right of observer 1",
+            "posture": "upright, facing forward",
+            "actions": "looking down at victim with serious expression",
+            "interactions": "none visible"
+        },
+        {
+            "role": "child",
+            "appearance": "bald or very short hair, pale skin",
+            "clothing": "wrapped in black cloth",
+            "position": "held by observer 1",
+            "posture": "lying against observer 1's chest",
+            "actions": "passive",
+            "interactions": "being held"
+        }
+    ],
+    "environment": {
+        "location": "indoor stone structure",
+        "interior_exterior": "interior",
+        "architecture": "stone walls with rough texture",
+        "walls": "visible in background, textured and stained",
+        "floor": "not clearly visible",
+        "ceiling": "not visible",
+        "background": "stone wall with blood splatters",
+        "depth": "shallow depth of field focusing on victim"
+    },
+    "objects": [
+        {
+            "name": "blood",
+            "position": "splattered on victim's body and background walls",
+            "apparent_material": "liquid, viscous",
+            "importance_for_reconstruction": "high - defines scene tone and narrative"
+        },
+        {
+            "name": "stone wall",
+            "position": "background behind all characters",
+            "apparent_material": "rough stone",
+            "importance_for_reconstruction": "medium - provides setting context"
+        }
+    ],
+    "camera": {
+        "shot_type": "close-up to medium shot",
+        "angle": "low angle looking up at victim, then eye-level with observers",
+        "height": "low for victim shots, eye-level for observer shots",
+        "composition": "tight framing on faces and upper bodies",
+        "perspective": "slightly low angle emphasizing victim's vulnerability",
+        "movement": "uncertain - appears static or very slow push-in",
+        "estimated_focal_length": "85mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural light from above"
+        ],
+        "direction": "top-down, slightly front-left",
+        "intensity": "moderate, creating strong contrast",
+        "softness": "mixed - soft on faces but harsh shadows in crevices",
+        "color_temperature": "cool with red undertones from blood",
+        "shadows": "deep shadows under chin and nose",
+        "mood": "dark, somber, tragic"
+    },
+    "visual_style": "realistic drama with high contrast, saturated reds for blood, cinematic color grading emphasizing emotional weight",
+    "3d_reconstruction": {
+        "important_assets": [
+            "human anatomy (face, torso)",
+            "blood simulation assets",
+            "stone texture maps",
+            "leather armor textures"
+        ],
+        "materials": [
+            "wet skin",
+            "fresh blood",
+            "dried blood",
+            "rough stone",
+            "leather with wear and tear",
+            "fabric (hood/scarf)"
+        ],
+        "geometry": [
+            "human head and upper body",
+            "stone wall surface",
+            "armor plates"
+        ],
+        "existing_assets": [
+            "generic human face templates",
+            "blood particle systems",
+            "stone texture libraries",
+            "medieval armor props"
+        ]
+    }
+}

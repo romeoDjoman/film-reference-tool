@@ -1,0 +1,93 @@
+{
+    "scene": 29,
+    "characters": [
+        {
+            "role": "victim / injured person",
+            "appearance": "male, dark curly hair, beard, facial injuries including a large laceration near the mouth and bruising around the eyes",
+            "clothing": "none visible in frame",
+            "position": "lying supine on a surface",
+            "posture": "head tilted back, eyes open but unresponsive",
+            "actions": "passive, motionless",
+            "interactions": "none observed"
+        },
+        {
+            "role": "observer / second character",
+            "appearance": "unclear, only partial body visible",
+            "clothing": "black sandals on one foot, barefoot on other",
+            "position": "standing nearby, out of focus in foreground",
+            "posture": "standing still",
+            "actions": "observing the injured person",
+            "interactions": "none observed"
+        }
+    ],
+    "environment": {
+        "location": "uncertain",
+        "interior_exterior": "uncertain",
+        "architecture": "none visible",
+        "walls": "none visible",
+        "floor": "textured fabric surface (possibly rug or blanket)",
+        "ceiling": "none visible",
+        "background": "neutral, indistinct background with soft lighting",
+        "depth": "shallow depth of field; foreground out of focus, subject in mid-range"
+    },
+    "objects": [
+        {
+            "name": "black sandals",
+            "position": "on floor near standing character's feet",
+            "apparent_material": "leather or synthetic material",
+            "importance_for_reconstruction": "high - indicates footwear and character presence"
+        },
+        {
+            "name": "textured fabric surface",
+            "position": "beneath both characters",
+            "apparent_material": "woven textile (rug, blanket, or mat)",
+            "importance_for_reconstruction": "medium - provides context for setting and texture"
+        }
+    ],
+    "camera": {
+        "shot_type": "close-up to medium close-up",
+        "angle": "low angle, slightly tilted upward toward the injured person's face",
+        "height": "eye level with the injured person’s head",
+        "composition": "off-center framing; subject on right side, foreground obstruction on left",
+        "perspective": "slight Dutch tilt / angled perspective",
+        "movement": "static or minimal movement across frames",
+        "estimated_focal_length": "85mm - 100mm"
+    },
+    "lighting": {
+        "sources": [
+            "primary ambient light source from above and slightly in front",
+            "possible secondary fill light from opposite side"
+        ],
+        "direction": "top-down with soft directional component",
+        "intensity": "moderate, low-key lighting",
+        "softness": "soft shadows, diffused highlights",
+        "color_temperature": "warm, reddish-orange tint overall",
+        "shadows": "soft, subtle shadows under chin and nose",
+        "mood": "tense, somber, intimate"
+    },
+    "visual_style": "cinematic realism with high contrast between skin tones and blood; warm color grading; shallow depth of field; emotional intensity conveyed through close framing and lighting",
+    "3d_reconstruction": {
+        "important_assets": [
+            "human face geometry (injured)",
+            "foot anatomy",
+            "sandals model",
+            "textured fabric plane"
+        ],
+        "materials": [
+            "wet skin with blood texture",
+            "leather/synthetic sandal material",
+            "woven fabric surface",
+            "soft tissue for bruising and laceration details"
+        ],
+        "geometry": [
+            "high-detail facial mesh with wound geometry",
+            "foot and ankle geometry",
+            "flat or slightly curved floor plane with texture mapping"
+        ],
+        "existing_assets": [
+            "standard human face rig (modified for injury)",
+            "generic footwear asset (sandals)",
+            "floor texture library (fabric/rug)"
+        ]
+    }
+}

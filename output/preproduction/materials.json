@@ -1,0 +1,1040 @@
+[
+    {
+        "id": "MAT_001",
+        "name": "weathered wood",
+        "usage_scenes": [
+            1,
+            15
+        ]
+    },
+    {
+        "id": "MAT_002",
+        "name": "leather with aging and scuff marks",
+        "usage_scenes": [
+            1
+        ]
+    },
+    {
+        "id": "MAT_003",
+        "name": "unglazed ceramic",
+        "usage_scenes": [
+            1
+        ]
+    },
+    {
+        "id": "MAT_004",
+        "name": "parchment/papyrus",
+        "usage_scenes": [
+            1
+        ]
+    },
+    {
+        "id": "MAT_005",
+        "name": "polished metal (bronze/iron)",
+        "usage_scenes": [
+            1
+        ]
+    },
+    {
+        "id": "MAT_006",
+        "name": "stone masonry",
+        "usage_scenes": [
+            1
+        ]
+    },
+    {
+        "id": "MAT_007",
+        "name": "wet blood on stone floor",
+        "usage_scenes": [
+            1
+        ]
+    },
+    {
+        "id": "MAT_008",
+        "name": "blood-slicked skin",
+        "usage_scenes": [
+            2
+        ]
+    },
+    {
+        "id": "MAT_009",
+        "name": "leather armor",
+        "usage_scenes": [
+            2,
+            4,
+            7,
+            14
+        ]
+    },
+    {
+        "id": "MAT_010",
+        "name": "stone surfaces",
+        "usage_scenes": [
+            2
+        ]
+    },
+    {
+        "id": "MAT_011",
+        "name": "metal hardware",
+        "usage_scenes": [
+            2
+        ]
+    },
+    {
+        "id": "MAT_012",
+        "name": "tattered fabric",
+        "usage_scenes": [
+            2,
+            15
+        ]
+    },
+    {
+        "id": "MAT_013",
+        "name": "stone (rough and polished)",
+        "usage_scenes": [
+            3
+        ]
+    },
+    {
+        "id": "MAT_014",
+        "name": "leather (weathered, textured)",
+        "usage_scenes": [
+            3
+        ]
+    },
+    {
+        "id": "MAT_015",
+        "name": "metal (armor plates, helmets)",
+        "usage_scenes": [
+            3
+        ]
+    },
+    {
+        "id": "MAT_016",
+        "name": "wood (tables, weapons)",
+        "usage_scenes": [
+            3
+        ]
+    },
+    {
+        "id": "MAT_017",
+        "name": "blood (viscous, spreading)",
+        "usage_scenes": [
+            3
+        ]
+    },
+    {
+        "id": "MAT_018",
+        "name": "metal (helmets, torch holders)",
+        "usage_scenes": [
+            4
+        ]
+    },
+    {
+        "id": "MAT_019",
+        "name": "wood (table)",
+        "usage_scenes": [
+            4
+        ]
+    },
+    {
+        "id": "MAT_020",
+        "name": "ceramic (jugs, cups)",
+        "usage_scenes": [
+            4
+        ]
+    },
+    {
+        "id": "MAT_021",
+        "name": "stone (walls)",
+        "usage_scenes": [
+            4
+        ]
+    },
+    {
+        "id": "MAT_022",
+        "name": "rough stone",
+        "usage_scenes": [
+            5,
+            8,
+            22,
+            25,
+            26
+        ]
+    },
+    {
+        "id": "MAT_023",
+        "name": "metallic leather",
+        "usage_scenes": [
+            5
+        ]
+    },
+    {
+        "id": "MAT_024",
+        "name": "fabric (tunics and scarves)",
+        "usage_scenes": [
+            5
+        ]
+    },
+    {
+        "id": "MAT_025",
+        "name": "flame material",
+        "usage_scenes": [
+            5
+        ]
+    },
+    {
+        "id": "MAT_026",
+        "name": "leather with wear and tear",
+        "usage_scenes": [
+            6,
+            22
+        ]
+    },
+    {
+        "id": "MAT_027",
+        "name": "metallic rivets",
+        "usage_scenes": [
+            6
+        ]
+    },
+    {
+        "id": "MAT_028",
+        "name": "fabric scarf",
+        "usage_scenes": [
+            6
+        ]
+    },
+    {
+        "id": "MAT_029",
+        "name": "stone texture",
+        "usage_scenes": [
+            6
+        ]
+    },
+    {
+        "id": "MAT_030",
+        "name": "blood simulation",
+        "usage_scenes": [
+            6
+        ]
+    },
+    {
+        "id": "MAT_031",
+        "name": "metal studs",
+        "usage_scenes": [
+            7
+        ]
+    },
+    {
+        "id": "MAT_032",
+        "name": "blood texture",
+        "usage_scenes": [
+            7
+        ]
+    },
+    {
+        "id": "MAT_033",
+        "name": "stone surface",
+        "usage_scenes": [
+            7,
+            36
+        ]
+    },
+    {
+        "id": "MAT_034",
+        "name": "fabric tunic",
+        "usage_scenes": [
+            7,
+            20
+        ]
+    },
+    {
+        "id": "MAT_035",
+        "name": "flame shader",
+        "usage_scenes": [
+            7
+        ]
+    },
+    {
+        "id": "MAT_036",
+        "name": "weathered leather",
+        "usage_scenes": [
+            8
+        ]
+    },
+    {
+        "id": "MAT_037",
+        "name": "metallic buckles and straps",
+        "usage_scenes": [
+            8
+        ]
+    },
+    {
+        "id": "MAT_038",
+        "name": "blood-stained ground texture",
+        "usage_scenes": [
+            8
+        ]
+    },
+    {
+        "id": "MAT_039",
+        "name": "fabric (tunic, scarf)",
+        "usage_scenes": [
+            8
+        ]
+    },
+    {
+        "id": "MAT_040",
+        "name": "weathered stone",
+        "usage_scenes": [
+            9,
+            10,
+            12,
+            13,
+            23
+        ]
+    },
+    {
+        "id": "MAT_041",
+        "name": "leather",
+        "usage_scenes": [
+            9,
+            17,
+            25
+        ]
+    },
+    {
+        "id": "MAT_042",
+        "name": "metal",
+        "usage_scenes": [
+            9,
+            17
+        ]
+    },
+    {
+        "id": "MAT_043",
+        "name": "blood (wet, viscous)",
+        "usage_scenes": [
+            9,
+            14
+        ]
+    },
+    {
+        "id": "MAT_044",
+        "name": "fabric/tunic material",
+        "usage_scenes": [
+            9
+        ]
+    },
+    {
+        "id": "MAT_045",
+        "name": "metallic chains and shackles",
+        "usage_scenes": [
+            10
+        ]
+    },
+    {
+        "id": "MAT_046",
+        "name": "wet blood",
+        "usage_scenes": [
+            10,
+            25
+        ]
+    },
+    {
+        "id": "MAT_047",
+        "name": "skin with grime and blood",
+        "usage_scenes": [
+            10
+        ]
+    },
+    {
+        "id": "MAT_048",
+        "name": "fabric (tunics)",
+        "usage_scenes": [
+            10,
+            13,
+            14
+        ]
+    },
+    {
+        "id": "MAT_049",
+        "name": "leather armor (textured, worn)",
+        "usage_scenes": [
+            11
+        ]
+    },
+    {
+        "id": "MAT_050",
+        "name": "stone (rough, stained)",
+        "usage_scenes": [
+            11
+        ]
+    },
+    {
+        "id": "MAT_051",
+        "name": "fabric (tattered, blood-soaked)",
+        "usage_scenes": [
+            11
+        ]
+    },
+    {
+        "id": "MAT_052",
+        "name": "skin (bloody, damaged)",
+        "usage_scenes": [
+            11
+        ]
+    },
+    {
+        "id": "MAT_053",
+        "name": "wet skin/blood shader",
+        "usage_scenes": [
+            12
+        ]
+    },
+    {
+        "id": "MAT_054",
+        "name": "leather and metal for armor",
+        "usage_scenes": [
+            12
+        ]
+    },
+    {
+        "id": "MAT_055",
+        "name": "paved stone ground with blood stains",
+        "usage_scenes": [
+            12
+        ]
+    },
+    {
+        "id": "MAT_056",
+        "name": "Aged leather",
+        "usage_scenes": [
+            13
+        ]
+    },
+    {
+        "id": "MAT_057",
+        "name": "Metal (armor, spears, helmet)",
+        "usage_scenes": [
+            13
+        ]
+    },
+    {
+        "id": "MAT_058",
+        "name": "Metal (studs, weapons)",
+        "usage_scenes": [
+            14
+        ]
+    },
+    {
+        "id": "MAT_059",
+        "name": "Stone (walls, floor)",
+        "usage_scenes": [
+            14
+        ]
+    },
+    {
+        "id": "MAT_060",
+        "name": "wet skin",
+        "usage_scenes": [
+            15,
+            22
+        ]
+    },
+    {
+        "id": "MAT_061",
+        "name": "metallic iron/steel",
+        "usage_scenes": [
+            15
+        ]
+    },
+    {
+        "id": "MAT_062",
+        "name": "liquid blood",
+        "usage_scenes": [
+            15
+        ]
+    },
+    {
+        "id": "MAT_063",
+        "name": "stone tile",
+        "usage_scenes": [
+            15
+        ]
+    },
+    {
+        "id": "MAT_064",
+        "name": "wet skin shader",
+        "usage_scenes": [
+            16
+        ]
+    },
+    {
+        "id": "MAT_065",
+        "name": "blood material (viscous, dark red)",
+        "usage_scenes": [
+            16
+        ]
+    },
+    {
+        "id": "MAT_066",
+        "name": "leather texture with wear and tear",
+        "usage_scenes": [
+            16
+        ]
+    },
+    {
+        "id": "MAT_067",
+        "name": "stone surface with weathering",
+        "usage_scenes": [
+            16
+        ]
+    },
+    {
+        "id": "MAT_068",
+        "name": "stone",
+        "usage_scenes": [
+            17
+        ]
+    },
+    {
+        "id": "MAT_069",
+        "name": "skin",
+        "usage_scenes": [
+            17
+        ]
+    },
+    {
+        "id": "MAT_070",
+        "name": "blood",
+        "usage_scenes": [
+            17
+        ]
+    },
+    {
+        "id": "MAT_071",
+        "name": "wet blood (high specular, flowing)",
+        "usage_scenes": [
+            18
+        ]
+    },
+    {
+        "id": "MAT_072",
+        "name": "dried blood (matte, cracked)",
+        "usage_scenes": [
+            18
+        ]
+    },
+    {
+        "id": "MAT_073",
+        "name": "metal armor (reflective, scratched)",
+        "usage_scenes": [
+            18
+        ]
+    },
+    {
+        "id": "MAT_074",
+        "name": "rough stone (porous, stained)",
+        "usage_scenes": [
+            18
+        ]
+    },
+    {
+        "id": "MAT_075",
+        "name": "Metallic (polished, riveted)",
+        "usage_scenes": [
+            19
+        ]
+    },
+    {
+        "id": "MAT_076",
+        "name": "Leather (stained, worn)",
+        "usage_scenes": [
+            19
+        ]
+    },
+    {
+        "id": "MAT_077",
+        "name": "Wool/Fabric (soft, draped)",
+        "usage_scenes": [
+            19
+        ]
+    },
+    {
+        "id": "MAT_078",
+        "name": "Stone (rough, weathered)",
+        "usage_scenes": [
+            19
+        ]
+    },
+    {
+        "id": "MAT_079",
+        "name": "Blood (liquid, splattered)",
+        "usage_scenes": [
+            19,
+            21
+        ]
+    },
+    {
+        "id": "MAT_080",
+        "name": "skin with wounds and blood",
+        "usage_scenes": [
+            20
+        ]
+    },
+    {
+        "id": "MAT_081",
+        "name": "metal armor",
+        "usage_scenes": [
+            20
+        ]
+    },
+    {
+        "id": "MAT_082",
+        "name": "leather straps",
+        "usage_scenes": [
+            20
+        ]
+    },
+    {
+        "id": "MAT_083",
+        "name": "stone/rock surface",
+        "usage_scenes": [
+            20
+        ]
+    },
+    {
+        "id": "MAT_084",
+        "name": "skin (wet, bloody)",
+        "usage_scenes": [
+            21,
+            27
+        ]
+    },
+    {
+        "id": "MAT_085",
+        "name": "metallic armor",
+        "usage_scenes": [
+            21,
+            27,
+            36
+        ]
+    },
+    {
+        "id": "MAT_086",
+        "name": "fabric (tunic, braided cloth)",
+        "usage_scenes": [
+            21
+        ]
+    },
+    {
+        "id": "MAT_087",
+        "name": "stone (weathered)",
+        "usage_scenes": [
+            21
+        ]
+    },
+    {
+        "id": "MAT_088",
+        "name": "fresh blood",
+        "usage_scenes": [
+            22
+        ]
+    },
+    {
+        "id": "MAT_089",
+        "name": "dried blood",
+        "usage_scenes": [
+            22,
+            36
+        ]
+    },
+    {
+        "id": "MAT_090",
+        "name": "fabric (hood/scarf)",
+        "usage_scenes": [
+            22
+        ]
+    },
+    {
+        "id": "MAT_091",
+        "name": "black fur",
+        "usage_scenes": [
+            23
+        ]
+    },
+    {
+        "id": "MAT_092",
+        "name": "leather with metal hardware",
+        "usage_scenes": [
+            23
+        ]
+    },
+    {
+        "id": "MAT_093",
+        "name": "pale skin texture",
+        "usage_scenes": [
+            23
+        ]
+    },
+    {
+        "id": "MAT_094",
+        "name": "fabric (wool/linen scarf)",
+        "usage_scenes": [
+            23
+        ]
+    },
+    {
+        "id": "MAT_095",
+        "name": "pale skin shader",
+        "usage_scenes": [
+            24
+        ]
+    },
+    {
+        "id": "MAT_096",
+        "name": "dark matte fabric",
+        "usage_scenes": [
+            24
+        ]
+    },
+    {
+        "id": "MAT_097",
+        "name": "weathered stone surface",
+        "usage_scenes": [
+            24
+        ]
+    },
+    {
+        "id": "MAT_098",
+        "name": "dried blood stains",
+        "usage_scenes": [
+            25
+        ]
+    },
+    {
+        "id": "MAT_099",
+        "name": "metal (rusted and polished)",
+        "usage_scenes": [
+            25
+        ]
+    },
+    {
+        "id": "MAT_100",
+        "name": "skin with injury details",
+        "usage_scenes": [
+            25
+        ]
+    },
+    {
+        "id": "MAT_101",
+        "name": "stained leather",
+        "usage_scenes": [
+            26
+        ]
+    },
+    {
+        "id": "MAT_102",
+        "name": "metallic hardware",
+        "usage_scenes": [
+            26
+        ]
+    },
+    {
+        "id": "MAT_103",
+        "name": "blood texture (wet, splattered)",
+        "usage_scenes": [
+            26
+        ]
+    },
+    {
+        "id": "MAT_104",
+        "name": "skin with grime and injury",
+        "usage_scenes": [
+            26
+        ]
+    },
+    {
+        "id": "MAT_105",
+        "name": "leather/fabric footwear",
+        "usage_scenes": [
+            27
+        ]
+    },
+    {
+        "id": "MAT_106",
+        "name": "dirt or ground surface",
+        "usage_scenes": [
+            27
+        ]
+    },
+    {
+        "id": "MAT_107",
+        "name": "wet leather",
+        "usage_scenes": [
+            28,
+            36
+        ]
+    },
+    {
+        "id": "MAT_108",
+        "name": "skin with blood texture",
+        "usage_scenes": [
+            28
+        ]
+    },
+    {
+        "id": "MAT_109",
+        "name": "dirt/sand floor",
+        "usage_scenes": [
+            28
+        ]
+    },
+    {
+        "id": "MAT_110",
+        "name": "stone architecture",
+        "usage_scenes": [
+            28
+        ]
+    },
+    {
+        "id": "MAT_111",
+        "name": "wet skin with blood texture",
+        "usage_scenes": [
+            29
+        ]
+    },
+    {
+        "id": "MAT_112",
+        "name": "leather/synthetic sandal material",
+        "usage_scenes": [
+            29
+        ]
+    },
+    {
+        "id": "MAT_113",
+        "name": "woven fabric surface",
+        "usage_scenes": [
+            29
+        ]
+    },
+    {
+        "id": "MAT_114",
+        "name": "soft tissue for bruising and laceration details",
+        "usage_scenes": [
+            29
+        ]
+    },
+    {
+        "id": "MAT_115",
+        "name": "textile (robes, mats)",
+        "usage_scenes": [
+            30
+        ]
+    },
+    {
+        "id": "MAT_116",
+        "name": "leather/suede (sandals)",
+        "usage_scenes": [
+            30
+        ]
+    },
+    {
+        "id": "MAT_117",
+        "name": "ceramic/clay (vessels)",
+        "usage_scenes": [
+            30
+        ]
+    },
+    {
+        "id": "MAT_118",
+        "name": "skin texture",
+        "usage_scenes": [
+            30
+        ]
+    },
+    {
+        "id": "MAT_119",
+        "name": "rough stone/earthen wall material",
+        "usage_scenes": [
+            30
+        ]
+    },
+    {
+        "id": "MAT_120",
+        "name": "rough stone wall material",
+        "usage_scenes": [
+            31
+        ]
+    },
+    {
+        "id": "MAT_121",
+        "name": "textured fabric for robes (wool-like)",
+        "usage_scenes": [
+            31
+        ]
+    },
+    {
+        "id": "MAT_122",
+        "name": "ceramic/clay material for vessels",
+        "usage_scenes": [
+            31
+        ]
+    },
+    {
+        "id": "MAT_123",
+        "name": "leather or woven material for sandals",
+        "usage_scenes": [
+            31
+        ]
+    },
+    {
+        "id": "MAT_124",
+        "name": "earthen floor texture with mat overlay",
+        "usage_scenes": [
+            31
+        ]
+    },
+    {
+        "id": "MAT_125",
+        "name": "skin (moist, glistening)",
+        "usage_scenes": [
+            32
+        ]
+    },
+    {
+        "id": "MAT_126",
+        "name": "fabric (rough, textured wool or linen)",
+        "usage_scenes": [
+            32
+        ]
+    },
+    {
+        "id": "MAT_127",
+        "name": "ceramic (matte, reddish-brown)",
+        "usage_scenes": [
+            32
+        ]
+    },
+    {
+        "id": "MAT_128",
+        "name": "water (reflective, translucent)",
+        "usage_scenes": [
+            32
+        ]
+    },
+    {
+        "id": "MAT_129",
+        "name": "stone/plaster (rough, warm tone)",
+        "usage_scenes": [
+            32
+        ]
+    },
+    {
+        "id": "MAT_130",
+        "name": "textured fabric for clothing",
+        "usage_scenes": [
+            33
+        ]
+    },
+    {
+        "id": "MAT_131",
+        "name": "rough stone or plaster for walls",
+        "usage_scenes": [
+            33
+        ]
+    },
+    {
+        "id": "MAT_132",
+        "name": "ceramic for jars",
+        "usage_scenes": [
+            33
+        ]
+    },
+    {
+        "id": "MAT_133",
+        "name": "metal or stone for lamp",
+        "usage_scenes": [
+            33
+        ]
+    },
+    {
+        "id": "MAT_134",
+        "name": "rough fabric for robes",
+        "usage_scenes": [
+            34
+        ]
+    },
+    {
+        "id": "MAT_135",
+        "name": "skin with realistic texture and subsurface scattering",
+        "usage_scenes": [
+            34
+        ]
+    },
+    {
+        "id": "MAT_136",
+        "name": "ceramic or clay material for vessel",
+        "usage_scenes": [
+            34
+        ]
+    },
+    {
+        "id": "MAT_137",
+        "name": "skin (pores, texture)",
+        "usage_scenes": [
+            35
+        ]
+    },
+    {
+        "id": "MAT_138",
+        "name": "fabric (rough, woven texture)",
+        "usage_scenes": [
+            35
+        ]
+    },
+    {
+        "id": "MAT_139",
+        "name": "leather (wrinkled, worn)",
+        "usage_scenes": [
+            35
+        ]
+    },
+    {
+        "id": "MAT_140",
+        "name": "stone/plaster (rough surface)",
+        "usage_scenes": [
+            35
+        ]
+    },
+    {
+        "id": "MAT_141",
+        "name": "fresh blood (liquid)",
+        "usage_scenes": [
+            36
+        ]
+    },
+    {
+        "id": "MAT_142",
+        "name": "wet skin material with subsurface scattering",
+        "usage_scenes": [
+            37
+        ]
+    },
+    {
+        "id": "MAT_143",
+        "name": "blood material with viscosity and specular highlights",
+        "usage_scenes": [
+            37
+        ]
+    },
+    {
+        "id": "MAT_144",
+        "name": "damp hair material",
+        "usage_scenes": [
+            37
+        ]
+    }
+]

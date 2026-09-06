@@ -1,0 +1,147 @@
+{
+    "scene": 1,
+    "characters": [
+        {
+            "role": "central authority figure / judge",
+            "appearance": "middle-aged male, receding hairline, intense expression",
+            "clothing": "leather armor with shoulder pauldrons, light-colored scarf or wrap around neck",
+            "position": "seated at a wooden table in the center of the frame",
+            "posture": "leaning forward over the table, hands on surface",
+            "actions": "writing or signing documents, then raising hand to gesture",
+            "interactions": "addressing someone off-camera (later revealed as the prisoner)"
+        },
+        {
+            "role": "Roman soldiers / guards",
+            "appearance": "multiple figures, muscular build, wearing similar leather armor",
+            "clothing": "brown leather cuirasses with metal studs, some with red cloaks or sashes",
+            "position": "standing behind and to the sides of the central figure",
+            "posture": "mostly standing still, hands at sides or holding equipment",
+            "actions": "observing the scene; one guard on right holds chains",
+            "interactions": "surrounding the central figure, providing security"
+        },
+        {
+            "role": "prisoner / condemned individual",
+            "appearance": "male, dark hair, bare torso covered in blood and wounds",
+            "clothing": "minimal clothing, only a small cloth around waist",
+            "position": "lying on ground outside the main frame (visible in later frames)",
+            "posture": "supine, arms raised above head, restrained by chains",
+            "actions": "being tortured or executed; blood pooling on floor",
+            "interactions": "subject of the central figure's judgment"
+        }
+    ],
+    "environment": {
+        "location": "ancient Roman courtyard or execution area",
+        "interior_exterior": "exterior, open-air setting",
+        "architecture": "stone walls with rough-hewn blocks, large wooden doors visible in background",
+        "walls": "weathered stone masonry, some showing signs of age and wear",
+        "floor": "paved stone ground, wet with blood stains",
+        "ceiling": "not visible; open sky implied by natural lighting",
+        "background": "stone wall structure, possibly part of a fortress or prison complex",
+        "depth": "moderate depth; foreground table and central figure, mid-ground guards, background stone architecture"
+    },
+    "objects": [
+        {
+            "name": "wooden table",
+            "position": "center foreground, extending horizontally across frame",
+            "apparent_material": "weathered wood with visible grain and wear",
+            "importance_for_reconstruction": "primary surface for interaction; anchors the scene composition"
+        },
+        {
+            "name": "ceramic jug",
+            "position": "left side of table, near edge",
+            "apparent_material": "fired clay with horizontal ridges, matte finish",
+            "importance_for_reconstruction": "prop indicating utility or refreshment; adds period authenticity"
+        },
+        {
+            "name": "ceramic cups",
+            "position": "next to jug on table",
+            "apparent_material": "simple earthenware, unglazed",
+            "importance_for_reconstruction": "complements jug; suggests drinking vessel set"
+        },
+        {
+            "name": "inkwell with quill pen",
+            "position": "center of table, in front of central figure",
+            "apparent_material": "metal or ceramic inkwell, wooden quill",
+            "importance_for_reconstruction": "key prop for writing action; defines purpose of scene"
+        },
+        {
+            "name": "scrolls",
+            "position": "right side of table, unrolled partially",
+            "apparent_material": "parchment or papyrus, rolled with wooden dowels",
+            "importance_for_reconstruction": "indicates legal or official document being processed"
+        },
+        {
+            "name": "metal helmet",
+            "position": "right side of table, near scrolls",
+            "apparent_material": "polished metal, possibly bronze or iron",
+            "importance_for_reconstruction": "symbolic object; may represent authority or military presence"
+        },
+        {
+            "name": "chains",
+            "position": "held by guard on right side",
+            "apparent_material": "metal links, rusted appearance",
+            "importance_for_reconstruction": "connects to prisoner; implies captivity and punishment"
+        }
+    ],
+    "camera": {
+        "shot_type": "medium shot transitioning to close-up then wide cut",
+        "angle": "eye-level with central figure, slightly low angle initially",
+        "height": "approximately waist-to-chest height relative to seated figure",
+        "composition": "central figure framed by guards; foreground obstruction in first frame creates depth cue",
+        "perspective": "slight Dutch tilt in first frame suggests tension or instability",
+        "movement": "static camera for most frames; abrupt cut to different angle in final frame",
+        "estimated_focal_length": "35mm–50mm equivalent (standard cinematic range)"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight from above and slightly behind",
+            "possible ambient light from open courtyard"
+        ],
+        "direction": "overhead with soft fill; shadows fall downward and slightly forward",
+        "intensity": "moderate, diffused sunlight without harsh contrasts",
+        "softness": "soft shadows due to overcast or indirect lighting conditions",
+        "color_temperature": "cool neutral tones with earthy undertones (browns, grays, muted reds)",
+        "shadows": "subtle under armor and table; no strong directional shadows",
+        "mood": "tense, somber, authoritative"
+    },
+    "visual_style": {
+        "realism": "highly realistic with attention to historical detail and texture",
+        "color_palette": "desaturated earth tones: browns, grays, muted reds, off-whites",
+        "contrast": "low to medium contrast; flat lighting minimizes dynamic range",
+        "atmosphere": "grim, oppressive, grounded in historical drama aesthetic",
+        "cinematic_characteristics": "naturalistic cinematography typical of period films like Gladiator"
+    },
+    "3d_reconstruction": {
+        "important_assets": [
+            "wooden table geometry with realistic wear texture",
+            "leather armor materials with metallic studs and straps",
+            "ceramic textures with handcrafted imperfections",
+            "parchment scrolls with rolled ends",
+            "metal helmet with reflective surface",
+            "stone wall environment with weathered texture",
+            "blood-stained floor plane"
+        ],
+        "materials": [
+            "weathered wood",
+            "leather with aging and scuff marks",
+            "unglazed ceramic",
+            "parchment/papyrus",
+            "polished metal (bronze/iron)",
+            "stone masonry",
+            "wet blood on stone floor"
+        ],
+        "geometry": [
+            "low-poly human figures with detailed armor geometry",
+            "tabletop objects arranged in functional layout",
+            "background stone wall with block-based construction",
+            "ground plane with irregular paving stones"
+        ],
+        "existing_assets": [
+            "Roman soldier armor models (commonly available)",
+            "ancient table prop libraries",
+            "stone environment templates",
+            "blood spill simulation assets for ground",
+            "scroll/parchment texture packs"
+        ]
+    }
+}

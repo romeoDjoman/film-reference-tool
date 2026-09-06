@@ -1,0 +1,162 @@
+{
+    "scene": 19,
+    "characters": [
+        {
+            "role": "Roman soldier",
+            "appearance": "Male, clean-shaven, wearing a metal helmet with cheek guards and a crest.",
+            "clothing": "Metallic breastplate with shoulder armor (scutum style), red cape, beige scarf.",
+            "position": "Center-left, standing.",
+            "posture": "Standing upright, facing forward.",
+            "actions": "Looking slightly to the right, expression neutral to faintly smiling.",
+            "interactions": "Observing the scene; no direct interaction."
+        },
+        {
+            "role": "Roman soldier",
+            "appearance": "Male, short brown hair, serious expression.",
+            "clothing": "Brown leather armor with metal shoulder plates, beige braided scarf.",
+            "position": "Left foreground (visible in later frames), standing.",
+            "posture": "Standing upright, facing forward.",
+            "actions": "Watching the scene with a stern expression.",
+            "interactions": "Observing; no direct interaction."
+        },
+        {
+            "role": "Woman",
+            "appearance": "Female, pale skin, dark hair under a black hood.",
+            "clothing": "Black hooded cloak, visible hands with painted nails.",
+            "position": "Right side of frame, holding an infant.",
+            "posture": "Seated or crouching, leaning slightly forward.",
+            "actions": "Holding and cradling an infant; touching her face near the baby's head.",
+            "interactions": "Caring for the infant; looking toward the soldiers."
+        },
+        {
+            "role": "Infant",
+            "appearance": "Bald, pale skin, wrapped in black fabric.",
+            "clothing": "Wrapped in black cloth/blanket.",
+            "position": "Held by the woman, center-right.",
+            "posture": "Cradled in arms, head tilted back.",
+            "actions": "Being held; eyes closed or looking up.",
+            "interactions": "Being comforted by the woman."
+        },
+        {
+            "role": "Roman soldier",
+            "appearance": "Male, muscular build, wearing a lion emblem on chest.",
+            "clothing": "Brown leather armor with metal shoulder pieces, red cape.",
+            "position": "Right foreground (partially visible), standing.",
+            "posture": "Standing upright.",
+            "actions": "Holding an object in right hand; observing the scene.",
+            "interactions": "Observing; no direct interaction."
+        },
+        {
+            "role": "Dead man",
+            "appearance": "Male, long dark hair, beard, bloodied face and chest.",
+            "clothing": "None visible (shirtless), covered in blood.",
+            "position": "Lying on ground (shown in final frame only).",
+            "posture": "Supine, arms outstretched.",
+            "actions": "Dead or dying; mouth open as if gasping.",
+            "interactions": "None; victim of violence."
+        }
+    ],
+    "environment": {
+        "location": "Stone courtyard or prison cell area",
+        "interior_exterior": "Interior or semi-enclosed exterior (stone walls suggest interior)",
+        "architecture": "Rustic stone walls with vertical metal bars or posts.",
+        "walls": "Large rough-hewn stone blocks, grayish-brown tone.",
+        "floor": "Stone floor, partially visible; stained with blood in final frame.",
+        "ceiling": "Not visible.",
+        "background": "Stone wall with vertical metal elements (bars or structural posts).",
+        "depth": "Moderate depth; foreground characters, midground woman/infant, background wall."
+    },
+    "objects": [
+        {
+            "name": "Metal helmet",
+            "position": "On head of central soldier.",
+            "apparent_material": "Polished metal (bronze or iron), reflective.",
+            "importance_for_reconstruction": "Key prop for Roman soldier character."
+        },
+        {
+            "name": "Breastplate armor",
+            "position": "Chest of central soldier.",
+            "apparent_material": "Metallic plates with rivets, leather straps.",
+            "importance_for_reconstruction": "Defines soldier's attire; requires detailed modeling."
+        },
+        {
+            "name": "Red cape",
+            "position": "Draped over shoulders of central soldier.",
+            "apparent_material": "Fabric (wool or linen), soft texture.",
+            "importance_for_reconstruction": "Adds color contrast; folds need accurate simulation."
+        },
+        {
+            "name": "Black hooded cloak",
+            "position": "Worn by woman, covering infant.",
+            "apparent_material": "Heavy fabric (wool or fur-lined), matte finish.",
+            "importance_for_reconstruction": "Creates visual contrast; important for character grouping."
+        },
+        {
+            "name": "Blood",
+            "position": "On dead man's body and floor (final frame).",
+            "apparent_material": "Liquid, viscous, splattered.",
+            "importance_for_reconstruction": "Critical for atmosphere; requires particle system or texture."
+        },
+        {
+            "name": "Metal shoulder plates",
+            "position": "On soldiers' armor.",
+            "apparent_material": "Metallic with rivets.",
+            "importance_for_reconstruction": "Recurring element; can be reused asset."
+        }
+    ],
+    "camera": {
+        "shot_type": "Medium shot to medium close-up",
+        "angle": "Eye-level, slightly low angle for soldiers.",
+        "height": "Approximately 1.5m - 1.7m (adult eye level).",
+        "composition": "Rule of thirds; central soldier framed left-center, woman/infant right.",
+        "perspective": "Slight wide-angle distortion on foreground elements (soldiers), normal on midground.",
+        "movement": "Static or very slow push-in across frames (implied by framing changes).",
+        "estimated_focal_length": "50mm - 85mm"
+    },
+    "lighting": {
+        "sources": [
+            "Natural light from above/left (diffused)",
+            "Possible ambient fill from right side."
+        ],
+        "direction": "Primary light from upper-left; soft shadows.",
+        "intensity": "Moderate; not harsh, creating dramatic but not overexposed look.",
+        "softness": "Soft to medium; no hard shadows on faces.",
+        "color_temperature": "Cool/neutral (grayish stone tones), with warm accents from red capes and skin tones.",
+        "shadows": "Soft shadows under armor, behind hooded woman.",
+        "mood": "Tense, somber, historical drama."
+    },
+    "visual_style": {
+        "realism": "High realism; detailed textures (stone, metal, fabric), natural lighting.",
+        "color_palette": "Muted earth tones (grays, browns) with red accents (capes) and blood red.",
+        "contrast": "Moderate contrast; highlights on metal, shadows in folds of cloth.",
+        "atmosphere": "Gritty, historical, tense; suggests violence or impending conflict.",
+        "cinematic_characteristics": "Film grain, shallow depth of field on foreground, focus pull implied by framing."
+    },
+    "3d_reconstruction": {
+        "important_assets": [
+            "Roman soldier armor (breastplate, shoulder plates, helmet)",
+            "Stone wall texture",
+            "Fabric materials (cape, cloak, scarf)",
+            "Blood particle system or texture map",
+            "Infant model (simplified)"
+        ],
+        "materials": [
+            "Metallic (polished, riveted)",
+            "Leather (stained, worn)",
+            "Wool/Fabric (soft, draped)",
+            "Stone (rough, weathered)",
+            "Blood (liquid, splattered)"
+        ],
+        "geometry": [
+            "Low-poly for background walls",
+            "Medium-poly for characters (armor details important)",
+            "Simple geometry for infant (can be reused asset)"
+        ],
+        "existing_assets": [
+            "Roman soldier armor models (common in historical games/films)",
+            "Stone wall textures (reusable from game engines)",
+            "Fabric draping shaders",
+            "Blood particle effects (if available)"
+        ]
+    }
+}

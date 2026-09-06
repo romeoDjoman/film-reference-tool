@@ -1,0 +1,134 @@
+{
+    "scene": 14,
+    "characters": [
+        {
+            "role": "Roman soldier",
+            "appearance": "Male, middle-aged, short brown hair, intense expression",
+            "clothing": "Brown tunic, leather armor with metal studs and shoulder guards, rope tied around neck",
+            "position": "Standing on the right side of the frame, facing forward",
+            "posture": "Upright, hands holding a weapon or tool at waist level",
+            "actions": "Watching the action unfold, expression shifts from neutral to grimacing",
+            "interactions": "Observing the foreground figure and the fallen man"
+        },
+        {
+            "role": "Roman soldier",
+            "appearance": "Male, partially visible on the left edge",
+            "clothing": "Brown tunic, leather armor",
+            "position": "Standing on the far left, mostly out of frame",
+            "posture": "Upright",
+            "actions": "Partially obscured by foreground motion",
+            "interactions": "Uncertain"
+        },
+        {
+            "role": "Foreground figure",
+            "appearance": "Male, muscular build, wearing dark armor with gold trim",
+            "clothing": "Dark leather armor with gold detailing",
+            "position": "In the immediate foreground, moving rapidly across the frame from left to right",
+            "posture": "Dynamic, blurred due to motion",
+            "actions": "Moving quickly, possibly attacking or reacting to something",
+            "interactions": "Creating motion blur that obscures other characters temporarily"
+        },
+        {
+            "role": "Fallen man",
+            "appearance": "Male, shirtless, covered in blood",
+            "clothing": "Tattered brown cloth around waist",
+            "position": "Lying on the ground near a stone pillar or structure",
+            "posture": "Prone, arms outstretched",
+            "actions": "Appears unconscious or dead",
+            "interactions": "Victim of violence"
+        }
+    ],
+    "environment": {
+        "location": "Ancient Roman setting, possibly a courtyard or prison area",
+        "interior_exterior": "Exterior",
+        "architecture": "Stone walls made of large rectangular blocks",
+        "walls": "Rough-hewn stone masonry, weathered texture",
+        "floor": "Paved with large stone slabs",
+        "ceiling": "Uncertain - not visible in the frames",
+        "background": "Stone wall with spears mounted on it",
+        "depth": "Moderate depth; foreground figure moves close to camera, background characters are further away"
+    },
+    "objects": [
+        {
+            "name": "Spears",
+            "position": "Mounted against the stone wall in the background",
+            "apparent_material": "Metal tips with wooden shafts",
+            "importance_for_reconstruction": "High - indicates military setting"
+        },
+        {
+            "name": "Torches",
+            "position": "Attached to the wall, burning",
+            "apparent_material": "Wooden holder with flame",
+            "importance_for_reconstruction": "Medium - provides lighting and atmosphere"
+        },
+        {
+            "name": "Stone pillar or structure",
+            "position": "Near the fallen man on the ground",
+            "apparent_material": "Stone, weathered",
+            "importance_for_reconstruction": "Medium - serves as environmental reference point"
+        },
+        {
+            "name": "Weapons/tools held by soldiers",
+            "position": "In hands of Roman soldiers",
+            "apparent_material": "Metal and leather",
+            "importance_for_reconstruction": "Low-Medium - adds to character detail"
+        }
+    ],
+    "camera": {
+        "shot_type": "Medium shot transitioning to close-up",
+        "angle": "Eye-level, slightly low angle",
+        "height": "Approximately waist-to-chest height of characters",
+        "composition": "Foreground motion blur dominates early frames, then clears to show two soldiers and fallen man",
+        "perspective": "Wide-angle perspective emphasizing depth and motion",
+        "movement": "Static camera with foreground subject moving rapidly across frame",
+        "estimated_focal_length": "35mm - 50mm"
+    },
+    "lighting": {
+        "sources": [
+            "Torches mounted on walls",
+            "Ambient daylight (uncertain)"
+        ],
+        "direction": "From above and slightly behind the torches, casting shadows forward",
+        "intensity": "Moderate - natural light mixed with artificial torchlight",
+        "softness": "Mixed - hard shadows from torches, softer ambient light",
+        "color_temperature": "Warm due to torches, cool tones from ambient light",
+        "shadows": "Visible under armor and characters, cast on stone floor",
+        "mood": "Tense, violent, gritty"
+    },
+    "visual_style": {
+        "realism": "High - detailed textures, realistic lighting, blood effects",
+        "color_palette": "Earthy tones - browns, grays, muted reds from blood",
+        "contrast": "Moderate - balanced between light and shadow",
+        "atmosphere": "Gritty, historical, tense",
+        "cinematic_characteristics": "Dynamic motion blur, dramatic framing, focus on violence and tension"
+    },
+    "3d_reconstruction": {
+        "important_assets": [
+            "Roman soldier armor models",
+            "Stone wall texture",
+            "Paved floor geometry",
+            "Torche model with flame simulation",
+            "Blood particle system for fallen man",
+            "Motion blur effect for foreground figure"
+        ],
+        "materials": [
+            "Leather (armor)",
+            "Metal (studs, weapons)",
+            "Stone (walls, floor)",
+            "Blood (wet, viscous)",
+            "Fabric (tunics)"
+        ],
+        "geometry": [
+            "Large rectangular stone blocks for walls",
+            "Paved floor slabs",
+            "Armor pieces with studs and straps",
+            "Torches with flame geometry"
+        ],
+        "existing_assets": [
+            "Roman armor templates",
+            "Historical environment presets",
+            "Fire/torch effects",
+            "Blood simulation assets"
+        ]
+    }
+}

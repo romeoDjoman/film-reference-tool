@@ -1,0 +1,94 @@
+{
+    "scene": 20,
+    "characters": [
+        {
+            "role": "victim",
+            "appearance": "male, long dark hair, beard, bloody face with bruised eye, shirtless",
+            "clothing": "none visible on upper body",
+            "position": "lying down, head tilted back",
+            "posture": "supine, arms extended outward",
+            "actions": "appearing to be in distress or dying",
+            "interactions": "passive recipient of violence"
+        },
+        {
+            "role": "aggressor",
+            "appearance": "male, shaved head, bloody face, muscular build",
+            "clothing": "brown tunic with leather armor straps over shoulder",
+            "position": "standing or leaning over victim",
+            "posture": "dynamic pose, arm raised holding weapon",
+            "actions": "wielding a sword, aggressive expression",
+            "interactions": "actively attacking"
+        }
+    ],
+    "environment": {
+        "location": "outdoor rocky area",
+        "interior_exterior": "exterior",
+        "architecture": "none visible",
+        "walls": "rock face behind victim",
+        "floor": "ground surface, possibly stone or dirt",
+        "ceiling": "not visible",
+        "background": "textured rock wall with blood splatters",
+        "depth": "shallow depth of field focusing on characters"
+    },
+    "objects": [
+        {
+            "name": "sword",
+            "position": "held in raised hand by aggressor",
+            "apparent_material": "metal blade, wooden or leather hilt",
+            "importance_for_reconstruction": "key prop indicating violence"
+        },
+        {
+            "name": "blood splatters",
+            "position": "on rock wall and characters' bodies",
+            "apparent_material": "liquid blood, dried residue",
+            "importance_for_reconstruction": "indicates recent violent action"
+        }
+    ],
+    "camera": {
+        "shot_type": "close-up to medium close-up",
+        "angle": "low angle looking up at victim, then over-the-shoulder on aggressor",
+        "height": "eye level with characters",
+        "composition": "tight framing on faces and upper bodies",
+        "perspective": "slightly distorted due to proximity",
+        "movement": "uncertain, possibly static or slight push-in",
+        "estimated_focal_length": "85mm"
+    },
+    "lighting": {
+        "sources": [
+            "natural daylight"
+        ],
+        "direction": "from above and slightly in front of victim",
+        "intensity": "moderate to bright",
+        "softness": "mixed, with some harsh shadows on face",
+        "color_temperature": "cool with warm blood tones",
+        "shadows": "visible under chin and nose",
+        "mood": "gritty, violent, intense"
+    },
+    "visual_style": "realistic, gritty, high contrast, cinematic action sequence style",
+    "3d_reconstruction": {
+        "important_assets": [
+            "human anatomy (male)",
+            "sword prop",
+            "rock texture",
+            "blood material"
+        ],
+        "materials": [
+            "skin with wounds and blood",
+            "metal armor",
+            "leather straps",
+            "fabric tunic",
+            "stone/rock surface"
+        ],
+        "geometry": [
+            "human head and torso",
+            "raised arm with weapon",
+            "rock wall background"
+        ],
+        "existing_assets": [
+            "generic human character rig",
+            "sword model",
+            "rock texture pack",
+            "blood simulation assets"
+        ]
+    }
+}
